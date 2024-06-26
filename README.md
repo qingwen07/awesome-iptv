@@ -5,8 +5,35 @@
 
 所有信息都是来自于互联网，仅供学习研究之用，请勿用于非法途径，任何非法行为与本人无关！！
 
-使用方法：
+### 使用方法：
 1、找到对应的m3u文件，比如gang_ao_tai.m3u；
+
 2、点进去，右上角有个“raw"按钮，点一下；
+
 3、然后把浏览器里的URL拷贝出来放到IPTV客户端里即可愉快的观影了；
 
+### 建议客户端【排名不分先后，不断更新】
+
+#### Android
+1、[televizo](https://play.google.com/store/apps/details?id=com.ottplay.ottplay&hl=zh)【手机】[tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en)【TV】
+
+#### iphone
+
+1、APTV【appstore里搜索即可】
+
+#### windows
+
+1、[VLC for Windows](https://www.videolan.org/vlc/download-windows.html)
+
+#### macos
+
+1、[IINA](https://iina.io/)
+2、[VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html)
+
+#### linux
+
+1、[VLC for Linux](https://www.videolan.org/vlc/#download)
+
+### 推荐VPN
+
+1、使用了好几年，稳定、快速：https://33226.kejibear.site/auth/register?code=BRli
