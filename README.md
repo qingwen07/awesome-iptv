@@ -12,6 +12,11 @@
 
 3、然后把浏览器里的URL拷贝出来放到IPTV客户端里即可愉快的观影了；
 
+### 加速源链接
+1、https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/china_all.m3u
+
+2、https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/gang_ao_tai.m3u
+
 ### 建议客户端【排名不分先后，不断更新】
 
 #### Android
