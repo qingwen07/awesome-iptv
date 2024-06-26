@@ -17,6 +17,8 @@
 #### Android
 1、[televizo](https://play.google.com/store/apps/details?id=com.ottplay.ottplay&hl=zh)【手机】[tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en)【TV】
 
+2、[mytv](https://github.com/yaoxieyoulei/mytv-android)
+
 #### iphone
 
 1、APTV【appstore里搜索即可】
