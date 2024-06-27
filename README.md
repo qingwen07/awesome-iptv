@@ -10,7 +10,7 @@
 
 ### 1、使用了好几年，稳定、快速的VPN：https://33226.kejibear.site/auth/register?code=BRli
 
-### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：[点击上车](https://nf.video/xpga4x)
+### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐【优惠码：顶级开源】：[点击上车](https://nf.video/xpga4x)
 
 ## 使用方法：
 1、找到对应的m3u文件，比如gang_ao_tai.m3u；
