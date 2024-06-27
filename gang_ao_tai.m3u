@@ -17,7 +17,7 @@ https://stream.freetv.fun/7aee499ca94e0799a039594ad57e69ae516ba59a3f69cb5c161a26
 https://stream.freetv.fun/e7b8eeab3d467eb2221645efc76ef27d126c7de745fa1d35df7853aa44c773e7.m3u8
 #EXTINF:-1 tvg-id="CLUBBINGTV(1280x720)" tvg-name="CLUBBINGTV(1280x720)" group-title="Default", CLUBBINGTV(1280x720)
 https://stream.freetv.fun/6adef627c4276c8491700c07b9d543398d257ed4d43ec0604d470b6a272254b4.m3u8
-#EXTINF:-1 tvg-id="FGTV(1920x1080)" tvg-name="FGTV(1920x1080)" group-title="Default", FGTV(1920x1080)
+#EXTINF:-1 tvg-id="FGTV(1280x720)" tvg-name="FGTV(1280x720)" group-title="Default", FGTV(1280x720)
 https://stream.freetv.fun/f6918f8a3eb1d891272c8f5bc364851642b06131cf1cfc428ace89bc513fc246.m3u8
 #EXTINF:-1 tvg-id="HGTV HD(1280x720)" tvg-name="HGTV HD(1280x720)" group-title="Default", HGTV HD(1280x720)
 https://stream.freetv.fun/78ebdf0f15e7b0caafdfe801ca5af7a9cd645d18047076b31a11e84f1b1fce8f.m3u8
@@ -161,13 +161,13 @@ https://stream.freetv.fun/6a233a4a8d7b34bc6eade16d139194ee384c4d6df12681741b78a9
 https://stream.freetv.fun/6a5db861f69d8e928c116e919c45af99b1968d1bb200885b84f97fa9349224ca.m3u8
 #EXTINF:-1 tvg-id="WCGTV PUBLIC(1280x720)" tvg-name="WCGTV PUBLIC(1280x720)" group-title="Default", WCGTV PUBLIC(1280x720)
 https://stream.freetv.fun/6c92ca335c680a8217b718c65552ebdf65d41182ef15b9e6bc07b9bbef1ab321.m3u8
-#EXTINF:-1 tvg-id="YY電影輪播(1280x720)" tvg-name="YY電影輪播(1280x720)" group-title="Default", YY電影輪播(1280x720)
-https://stream.freetv.fun/8a118963daa91f7ff2a17738515ae00e680e3e2494f0a50121aca7cd1e721e92.ctv
 #EXTINF:-1 tvg-id="ช่อง HGTV(1920x1080)" tvg-name="ช่อง HGTV(1920x1080)" group-title="Default", ช่อง HGTV(1920x1080)
 https://stream.freetv.fun/ad3c2cf542ad7a111f80e724bcb7b5e55d25713ac5c24952eb255adcadf1ec18.m3u8
 #EXTINF:-1, ช่อง HGTV(1920x1080) (Backup 1)
 https://stream.freetv.fun/cf8c214574c4db9043c3b127db7054820d47671951a153054e1ed393c3a13502.m3u8
 #EXTINF:-1 tvg-id="ช่อง TVB CLASSIC(1280x720)" tvg-name="ช่อง TVB CLASSIC(1280x720)" group-title="Default", ช่อง TVB CLASSIC(1280x720)
+https://stream.freetv.fun/dbc01dbfb4ca885e1692a21b71188b6869d051582b2f09ee82ddbfe71364f7f9.ctv
+#EXTINF:-1, ช่อง TVB CLASSIC(1280x720) (Backup 1)
 https://stream.freetv.fun/6883df189a04dadcb1acfecaa4ea497a3d870e6afcfc7dc219cc46491c7a8570.ctv
 #EXTINF:-1 tvg-id="ช่อง TVB ENTERTAINMENT NEWS(1280x720)" tvg-name="ช่อง TVB ENTERTAINMENT NEWS(1280x720)" group-title="Default", ช่อง TVB ENTERTAINMENT NEWS(1280x720)
 https://stream.freetv.fun/30c842439557a20b9d2c917cc57acb92362218c84b3eee9aab4d97ac4f80ab1b.ctv
@@ -178,14 +178,20 @@ https://stream.freetv.fun/4505e9e5e8ad50b8449f73c1fbb536c3952af9d3a319921cd4e028
 #EXTINF:-1 tvg-id="ช่อง TVB NEWS(1280x720)" tvg-name="ช่อง TVB NEWS(1280x720)" group-title="Default", ช่อง TVB NEWS(1280x720)
 https://stream.freetv.fun/17b878f055215bfe006320824bbba85d424c09af2476de057c65eb0712944c84.ctv
 #EXTINF:-1 tvg-id="ช่อง TVB XING HE(1280x720)" tvg-name="ช่อง TVB XING HE(1280x720)" group-title="Default", ช่อง TVB XING HE(1280x720)
-https://stream.freetv.fun/547b24a1dc392f18c85735adb94e6db6589d9a1aea328df0ef496ec78bbb596b.ctv
+https://stream.freetv.fun/dcbfd7b5f8ed034ff909b57857bdbf1c01cca5f72abe31a8a6c9de8c718f03b9.ctv
 #EXTINF:-1, ช่อง TVB XING HE(1280x720) (Backup 1)
+https://stream.freetv.fun/547b24a1dc392f18c85735adb94e6db6589d9a1aea328df0ef496ec78bbb596b.ctv
+#EXTINF:-1, ช่อง TVB XING HE(1280x720) (Backup 2)
 https://stream.freetv.fun/9f3d9b1a2845846b9233ac44d565fc2f23a5ec1e09814806fd50ad9e9687a313.ctv
 #EXTINF:-1 tvg-id="ช่อง TVBE(1280x720)" tvg-name="ช่อง TVBE(1280x720)" group-title="Default", ช่อง TVBE(1280x720)
 https://stream.freetv.fun/5054f23dde56008c8f76ce21f4b1831f2c8ebd831ec48052238f57512403a509.ctv
+#EXTINF:-1 tvg-id="ช่อง TVBJ1(1920x1080)" tvg-name="ช่อง TVBJ1(1920x1080)" group-title="Default", ช่อง TVBJ1(1920x1080)
+https://stream.freetv.fun/8771ebf31a1c8d1c15a844574ccc5ea28fd79902ed4f263b18bf60c2458cd98a.ctv
 #EXTINF:-1 tvg-id="ช่อง TVBS ASIA(1280x720)" tvg-name="ช่อง TVBS ASIA(1280x720)" group-title="Default", ช่อง TVBS ASIA(1280x720)
 https://stream.freetv.fun/806cfad6b2f8f1cc97196568789dbb7c2f93db89c376808f68b1704406a32758.ctv
 #EXTINF:-1 tvg-id="ช่อง TVBS亚洲(1280x720)" tvg-name="ช่อง TVBS亚洲(1280x720)" group-title="Default", ช่อง TVBS亚洲(1280x720)
+https://stream.freetv.fun/c4b2f4cea509a58a13ff84fd4e342b480d5b7ff234f957474ed33cf6b69fdd22.ctv
+#EXTINF:-1, ช่อง TVBS亚洲(1280x720) (Backup 1)
 https://stream.freetv.fun/4371a2d71eb18aca8898550858b3b82cba5eb08bdff1d0e1b7b4b1541c5997e3.ctv
 #EXTINF:-1 tvg-id="ช่อง 东森卫视(1920x1080)" tvg-name="ช่อง 东森卫视(1920x1080)" group-title="Default", ช่อง 东森卫视(1920x1080)
 https://stream.freetv.fun/0f31a37906ed235d0d76e9407a5fa7ea219bccc84f970c3356a3aab1d5eb5fdd.ctv
@@ -194,17 +200,19 @@ https://stream.freetv.fun/9536f26868da40a1f6767b2b1e9e9294e386669216e5fab9561ff2
 #EXTINF:-1 tvg-id="ช่อง 中国功夫-经典大片(1920x1080)" tvg-name="ช่อง 中国功夫-经典大片(1920x1080)" group-title="Default", ช่อง 中国功夫-经典大片(1920x1080)
 https://stream.freetv.fun/cb6c35437d63d157812d556e9843e46c3321d9577499417814384fc56e33ad1a.ctv
 #EXTINF:-1 tvg-id="ช่อง 中天亚洲(1280x720)" tvg-name="ช่อง 中天亚洲(1280x720)" group-title="Default", ช่อง 中天亚洲(1280x720)
+https://stream.freetv.fun/b52dd1dfa66146b6fd8e9bc0747b6f640d0b6f420f615e5d41ca8b2581b2b781.ctv
+#EXTINF:-1, ช่อง 中天亚洲(1280x720) (Backup 1)
 https://stream.freetv.fun/4069580c13262ae8cd4fbf2ecb37541d9753f6b1a25f651171c2cb899d56d9af.ctv
 #EXTINF:-1 tvg-id="ช่อง 凤凰香港(1920x1080)" tvg-name="ช่อง 凤凰香港(1920x1080)" group-title="Default", ช่อง 凤凰香港(1920x1080)
 https://stream.freetv.fun/278928098177a64f1d5ab32eb998c0ced86d8e7817a1803eac8cef280c5c2abd.ctv
+#EXTINF:-1 tvg-id="「RU」 TVBRICS(1920x1080)" tvg-name="「RU」 TVBRICS(1920x1080)" group-title="Default", 「RU」 TVBRICS(1920x1080)
+https://stream.freetv.fun/a6a0aab4d0cd370a60828adc1ae513f39b620f23b4cf5e86796a4627fd3b4af7.m3u8
 #EXTINF:-1 tvg-id="「斗鱼」香港经典(1920x1080)" tvg-name="「斗鱼」香港经典(1920x1080)" group-title="Default", 「斗鱼」香港经典(1920x1080)
 https://stream.freetv.fun/b06fdbb723b74c14d982965c4ab7147afdca6f38051b622f3330a8bad439fc55.m3u8
 #EXTINF:-1 tvg-id="【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演(1920x1080)" tvg-name="【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演(1920x1080)" group-title="Default", 【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演(1920x1080)
 https://stream.freetv.fun/9a69bc135d63a10f5ab58b344848aab4838926cb531453edb28273719286f168.ctv
 #EXTINF:-1 tvg-id="三口看電影(1920x1080)" tvg-name="三口看電影(1920x1080)" group-title="Default", 三口看電影(1920x1080)
 https://stream.freetv.fun/bc2414bb2300d7053c00f6b9a0fab800447d56da2b5f767654e7c285c3022420.ctv
-#EXTINF:-1 tvg-id="三立 新聞(1920x1080)" tvg-name="三立 新聞(1920x1080)" group-title="Default", 三立 新聞(1920x1080)
-https://stream.freetv.fun/54fb2206910b62cd27cbaee569c332f6301795188cda97c9db3bd2ff93100069.m3u8
 #EXTINF:-1 tvg-id="三立戏剧(1280x720)" tvg-name="三立戏剧(1280x720)" group-title="Default", 三立戏剧(1280x720)
 https://stream.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8
 #EXTINF:-1 tvg-id="三立新聞(1920x1080)" tvg-name="三立新聞(1920x1080)" group-title="Default", 三立新聞(1920x1080)
@@ -231,8 +239,12 @@ https://stream.freetv.fun/41fd1dc90b335e2c39f811e013a8bc45d966113d4b326afb8bed45
 https://stream.freetv.fun/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
 #EXTINF:-1, 东森美洲(1920x1080) (Backup 4)
 https://stream.freetv.fun/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+#EXTINF:-1 tvg-id="东森美洲中国(1920x1080)" tvg-name="东森美洲中国(1920x1080)" group-title="Default", 东森美洲中国(1920x1080)
+https://stream.freetv.fun/0d9d053e113b9f4affb851bf56c0a2ed8755fab592272d0d922555abd74cee95.m3u8
 #EXTINF:-1 tvg-id="东森美洲卫视(1920x1080)" tvg-name="东森美洲卫视(1920x1080)" group-title="Default", 东森美洲卫视(1920x1080)
 https://stream.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
+#EXTINF:-1 tvg-id="东森美洲新闻(1920x1080)" tvg-name="东森美洲新闻(1920x1080)" group-title="Default", 东森美洲新闻(1920x1080)
+https://stream.freetv.fun/fa34408ed30b39c93655467bd2bf33e33295f5c28a16ca17dce40d8feacaf17a.m3u8
 #EXTINF:-1 tvg-id="东森超视(1280x720)" tvg-name="东森超视(1280x720)" group-title="Default", 东森超视(1280x720)
 https://stream.freetv.fun/d8756df4416806c5ce981bdef2ac99098b8a3a99e05b32affdd6e324187cf1b4.ctv
 #EXTINF:-1, 东森超视(1280x720) (Backup 1)
@@ -240,10 +252,12 @@ rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1, 东森超视(1280x720) (Backup 2)
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="东森超视(1920x1080)" tvg-name="东森超视(1920x1080)" group-title="Default", 东森超视(1920x1080)
-https://stream.freetv.fun/bf0c93b73b47a18039f8e42d027ba66e63d7627ddfbfbd47a2ea77784413a4bc.m3u8
+https://stream.freetv.fun/d5ffbfe432a7d143ab09b683064d01db744bbf6371c0271eefbcb412a4985caf.m3u8
 #EXTINF:-1, 东森超视(1920x1080) (Backup 1)
-https://stream.freetv.fun/d6d49169b4bd9d092af133265046491f07446ae84f0ca15eda8e6153ed221669.m3u8
+https://stream.freetv.fun/bf0c93b73b47a18039f8e42d027ba66e63d7627ddfbfbd47a2ea77784413a4bc.m3u8
 #EXTINF:-1, 东森超视(1920x1080) (Backup 2)
+https://stream.freetv.fun/d6d49169b4bd9d092af133265046491f07446ae84f0ca15eda8e6153ed221669.m3u8
+#EXTINF:-1, 东森超视(1920x1080) (Backup 3)
 https://stream.freetv.fun/fb51c7d5bbccbee98c70c5887eeaeabfe219ed975176cf5a63122f969fad07ac.m3u8
 #EXTINF:-1 tvg-id="中华功夫(1920x1080)" tvg-name="中华功夫(1920x1080)" group-title="Default", 中华功夫(1920x1080)
 https://stream.freetv.fun/79ba2600f15d80aa00865cfc63e683a63d96b43e92151cb44f9a0a35d40c4ce8.ctv
@@ -267,7 +281,11 @@ https://stream.freetv.fun/d03458e681d0a60f6bec1b5957b1353f4497ab330b27dd23777515
 https://stream.freetv.fun/624273d135358285ca58b9e31a1949cf7ea31020c1c2e600fd0ef892773a1853.m3u8
 #EXTINF:-1 tvg-id="中国教育电视(1920x1080)" tvg-name="中国教育电视(1920x1080)" group-title="Default", 中国教育电视(1920x1080)
 https://stream.freetv.fun/1d399c90d4abdab81a9472457dde5ab5de8de688ae23dc18ba7075abc413a69d.m3u8
+#EXTINF:-1 tvg-id="中国教育电视台 1 (IPV6)(1920x1080)" tvg-name="中国教育电视台 1 (IPV6)(1920x1080)" group-title="Default", 中国教育电视台 1 (IPV6)(1920x1080)
+https://stream.freetv.fun/76b511f4e8124e7479341e643559d99016c1ad19ef21c45e3339dfae51b4f8fd.m3u8
 #EXTINF:-1 tvg-id="中国电影(1920x1080)" tvg-name="中国电影(1920x1080)" group-title="Default", 中国电影(1920x1080)
+https://stream.freetv.fun/a0b1ee8cb8f0345a5720ceb609aeb083c682611b1e227651b40df79e0fe815b0.m3u8
+#EXTINF:-1, 中国电影(1920x1080) (Backup 1)
 https://stream.freetv.fun/9185f61073bdd3e3798ab263bbf5a362bb32debe3bf1bd13d792f071a4b1ef45.m3u8
 #EXTINF:-1 tvg-id="中国第一神探-狄仁杰(1280x720)" tvg-name="中国第一神探-狄仁杰(1280x720)" group-title="Default", 中国第一神探-狄仁杰(1280x720)
 https://stream.freetv.fun/8e6ad7c95be71b5080d2603ab8ce94a369f791cf88e81fc31cc17d0a5c9c6680.ctv
@@ -275,8 +293,6 @@ https://stream.freetv.fun/8e6ad7c95be71b5080d2603ab8ce94a369f791cf88e81fc31cc17d
 https://stream.freetv.fun/a85afeb84946b75b6fcd44371c0b6d41636531a1975abed39ca02845773c2c9f.m3u8
 #EXTINF:-1, 中国蓝新闻(1920x1080) (Backup 1)
 https://stream.freetv.fun/75c010775991f8f79f3db4a242b28e11eb2aa309adaa25d6a378e62843ad9d3c.m3u8
-#EXTINF:-1 tvg-id="中天 亚洲(1920x1080)" tvg-name="中天 亚洲(1920x1080)" group-title="Default", 中天 亚洲(1920x1080)
-https://stream.freetv.fun/7f7b0229858041b2c63feea70daf720a04a8f402a65a99cfb11ded6b410d4868.m3u8
 #EXTINF:-1 tvg-id="中天亚洲(1280x720)" tvg-name="中天亚洲(1280x720)" group-title="Default", 中天亚洲(1280x720)
 https://stream.freetv.fun/29c76020a78bd29394d47dae5a9533e7a2212abc1007b5b3c0bff802f82df302.ctv
 #EXTINF:-1 tvg-id="中天娱乐(1280x720)" tvg-name="中天娱乐(1280x720)" group-title="Default", 中天娱乐(1280x720)
@@ -287,8 +303,6 @@ https://stream.freetv.fun/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb
 https://stream.freetv.fun/cbc18c441841a3f6774b895ef560a5d3e5d21ef76b9ae56ba73af893a29862cb.m3u8
 #EXTINF:-1 tvg-id="中天综合(1280x720)" tvg-name="中天综合(1280x720)" group-title="Default", 中天综合(1280x720)
 https://stream.freetv.fun/4a92b03b34ab56a0cf1eda05967db956d17969948b5befeb82a6144e48aaf113.ctv
-#EXTINF:-1 tvg-id="中視 新聞(1920x1080)" tvg-name="中視 新聞(1920x1080)" group-title="Default", 中視 新聞(1920x1080)
-https://stream.freetv.fun/2fd7329a67d08612856508489405b45f1847cbbf58f2386c2567c09bd87d47e1.m3u8
 #EXTINF:-1 tvg-id="中視(1280x720)" tvg-name="中視(1280x720)" group-title="Default", 中視(1280x720)
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="二哥說電影(1920x1080)" tvg-name="二哥說電影(1920x1080)" group-title="Default", 二哥說電影(1920x1080)
@@ -313,6 +327,8 @@ https://stream.freetv.fun/5e05b4d379c488e11d4e882f58434230f0c818d00d49e8fc8b0d44
 https://stream.freetv.fun/ddf2786d8588607ff4764af8fe3629f0268c53cc52e6f918fc8b72b05ac5b448.ctv
 #EXTINF:-1 tvg-id="八大综合(1280x720)" tvg-name="八大综合(1280x720)" group-title="Default", 八大综合(1280x720)
 https://stream.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+#EXTINF:-1 tvg-id="凤凰香港 (IPV6)(1920x1080)" tvg-name="凤凰香港 (IPV6)(1920x1080)" group-title="Default", 凤凰香港 (IPV6)(1920x1080)
+https://stream.freetv.fun/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
 #EXTINF:-1 tvg-id="凤凰香港(1280x720)" tvg-name="凤凰香港(1280x720)" group-title="Default", 凤凰香港(1280x720)
 https://stream.freetv.fun/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 #EXTINF:-1 tvg-id="凤凰香港(1920x1080)" tvg-name="凤凰香港(1920x1080)" group-title="Default", 凤凰香港(1920x1080)
@@ -337,14 +353,146 @@ rtmp://f13h.mine.nu/sat/tv111
 https://stream.freetv.fun/e0794b3d5e46e8ff5e8bc1fd146c10be6286d61bca41d587ffcb0e35ed07cbe9.ctv
 #EXTINF:-1 tvg-id="可樂撩電影(1280x720)" tvg-name="可樂撩電影(1280x720)" group-title="Default", 可樂撩電影(1280x720)
 https://stream.freetv.fun/8a8a4cb3bd54e63879706eb02af31eac28e38cce685f7967ab10cbdb658ab547.ctv
-#EXTINF:-1 tvg-id="台視 新聞(1920x1080)" tvg-name="台視 新聞(1920x1080)" group-title="Default", 台視 新聞(1920x1080)
-https://stream.freetv.fun/a87692d60b01e026cacfb1167f0269fb48350345de289a29dce212320e5aa9fa.m3u8
 #EXTINF:-1 tvg-id="台視新聞(1920x1080)" tvg-name="台視新聞(1920x1080)" group-title="Default", 台視新聞(1920x1080)
 https://stream.freetv.fun/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
 #EXTINF:-1 tvg-id="吾聊電影(1920x1080)" tvg-name="吾聊電影(1920x1080)" group-title="Default", 吾聊電影(1920x1080)
 https://stream.freetv.fun/36c7d0cf35c80188b4ce46f58597e4c5327a7174f0b8b9f961a26057d6d587ad.ctv
 #EXTINF:-1 tvg-id="呆瓜侃電影(1920x1080)" tvg-name="呆瓜侃電影(1920x1080)" group-title="Default", 呆瓜侃電影(1920x1080)
 https://stream.freetv.fun/2c53753390bda0fbd8e77c2ffba4c44f7ab3cf7bff829a0683ecab28bd1de241.ctv
+#EXTINF:-1 tvg-id="咪咕(1280x720)" tvg-name="咪咕(1280x720)" group-title="Default", 咪咕(1280x720)
+https://stream.freetv.fun/24fc95229048320b3196edc71d17105535ff28b4fed147c846fae96e20df226d.ctv
+#EXTINF:-1, 咪咕(1280x720) (Backup 1)
+https://stream.freetv.fun/c8ea5294b3748b9d38554d29a24e960c499944d4d20f33935cf99f46949c1a0a.ctv
+#EXTINF:-1 tvg-id="咪咕24小时(1920x1080)" tvg-name="咪咕24小时(1920x1080)" group-title="Default", 咪咕24小时(1920x1080)
+https://stream.freetv.fun/755c8c1a5f82dca4a9326b08b9a926a3455f48c07bf1336d35a75e63f0b5c050.m3u8
+#EXTINF:-1 tvg-id="咪咕全民热练 (IPV6)(1920x1080)" tvg-name="咪咕全民热练 (IPV6)(1920x1080)" group-title="Default", 咪咕全民热练 (IPV6)(1920x1080)
+https://stream.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
+#EXTINF:-1 tvg-id="咪咕直播 *「IPV6」 (IPV6)(1920x1080)" tvg-name="咪咕直播 *「IPV6」 (IPV6)(1920x1080)" group-title="Default", 咪咕直播 *「IPV6」 (IPV6)(1920x1080)
+https://stream.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
+#EXTINF:-1, 咪咕直播 *「IPV6」 (IPV6)(1920x1080) (Backup 1)
+https://stream.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
+#EXTINF:-1, 咪咕直播 *「IPV6」 (IPV6)(1920x1080) (Backup 2)
+https://stream.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
+#EXTINF:-1, 咪咕直播 *「IPV6」 (IPV6)(1920x1080) (Backup 3)
+https://stream.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
+#EXTINF:-1 tvg-id="咪咕直播 「IPV4」(1920x1080)" tvg-name="咪咕直播 「IPV4」(1920x1080)" group-title="Default", 咪咕直播 「IPV4」(1920x1080)
+https://stream.freetv.fun/ff22d54410fe009315856a3513f5716609ca915aee36af17a61f89a1f1b2b9cd.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 1)
+https://stream.freetv.fun/c994a1bbdc935dc4629eb3c91890711ed422a96388c2aec11ff7fa970a003006.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 2)
+https://stream.freetv.fun/a23c018c9a626f469e5de353dc023edc877d5d42323c89616f0dd3e4c0ea98a4.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 3)
+https://stream.freetv.fun/161cbd7635541530f3dc08f1d42f8c42a97114a783c01c3a5d3b404f66595544.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 4)
+https://stream.freetv.fun/f0bd8f9395917df81b6eb626feee7b1a55b96f5c98c084f2a759556ebf8fc62e.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 5)
+https://stream.freetv.fun/7c63ea43ad424ce16a329993f428639c05c509482a6bd8ce07431254b6dd4ba1.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 6)
+https://stream.freetv.fun/e399efc392a2ed9a04ff4d3a972c7d08647bb2b6dffae42528551edd66815ff9.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 7)
+https://stream.freetv.fun/a29a02b20f1cc7170132d5b23e3710b9584353933700839b2bfa3d4b20ada111.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 8)
+https://stream.freetv.fun/6d8c8ad7d390385c50aef572e407dbff0a07720608235b751975717ffbfc6ba5.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 9)
+https://stream.freetv.fun/6ba634096d1a13c75b950e206e535d02c8d480ee693d6c2a42836e9c7a564990.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 10)
+https://stream.freetv.fun/6bd0c452f1d465fe6f82b2b9dbc58e318e109bb4875f6577e9aa8e37fdf648c8.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 11)
+https://stream.freetv.fun/7e88167638a231f7a85f40e1cefa61de9b92bba051b0df578dc178026ed307d2.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 12)
+https://stream.freetv.fun/80aed0c8c08861ac50884c062d44323fb5609fb0603ca21d127946fd8d127109.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 13)
+https://stream.freetv.fun/d3e2d08a23163b560f317d703f2ca503c0dd0b7ea58360465271d02eec6c3c74.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 14)
+https://stream.freetv.fun/1b1425a40c2404c16993d5b0f573c4d76b6399a65d6824b0f919099fe8634334.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 15)
+https://stream.freetv.fun/b8915e669fd0236150ee905d39a8ab89e494d78c74e85ce630dff6d5f5409f88.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 16)
+https://stream.freetv.fun/a33e255d0c70636ef61bce627047093309177206a0c15ea184451c281f506a76.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 17)
+https://stream.freetv.fun/73207ffa1ce1873448ca2ef2c253c699dd99e9631871abc5e8b71d91b5365b64.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 18)
+https://stream.freetv.fun/ea01e30b1ffb82f618e797577d0b657fd75afa5dcf98fe1ca7b19aaf337251df.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 19)
+https://stream.freetv.fun/8faff7a07bebb38563b793eb2335ff154c8d170c02bdb421e5e47da22f37c002.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 20)
+https://stream.freetv.fun/cd2813118a053cc604c6ccd2a6a58f753dc99750431d4535df53f4f808144245.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 21)
+https://stream.freetv.fun/0681b450febe258cab9257d55a9d04d92ca0a3f1e823b66251e0336d85c101ab.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 22)
+https://stream.freetv.fun/b71691bf28d66720c21e6cb8aa001895f622d91922598b44641af018342d18bd.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 23)
+https://stream.freetv.fun/3108eb56a3cf0ed1c4109f6f5feef60fe836c9366fc6cdc17e34dea7be0f6fa9.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 24)
+https://stream.freetv.fun/59b46dbf575d61eb35bf34a9e27e5cb192db53ed61fe73796fabb8bb8bddb3a5.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 25)
+https://stream.freetv.fun/58875de2e4aa923c4abd5294220ebf01e5d45179ba3b77e4e14e3ca8bbe38c30.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 26)
+https://stream.freetv.fun/b278fdf5876ac662f0c2c00a975c7905c4efaa56ca13202d5d0598ecfb65152d.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 27)
+https://stream.freetv.fun/2ac9c4cc053c1a770d3da65f6db219e5c2633a355cd03f1f3bf706a2b16f9945.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 28)
+https://stream.freetv.fun/7a3929665f38d897dd393e8e781402b853f06dceda6f46972126e7b2490ecc43.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 29)
+https://stream.freetv.fun/f12601d702e7f2aae5f9577f0ddec432616e3aa8895a0f65c9aec8f35ce7960f.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 30)
+https://stream.freetv.fun/e8f64f244b39e623c17c46b3db8e939ee820e1ef246d7c109abd0ec6da3d7ea1.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 31)
+https://stream.freetv.fun/de861d80524a95e83ae48aca4d666eafc09643df4fd46a808cff080b03253d2e.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 32)
+https://stream.freetv.fun/cf665344937b4736251d78f38b6d1cb6db7d33cac3afd23f1572a0258a267b52.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 33)
+https://stream.freetv.fun/9589aa6afd842857c239e5e1587725d735eda181c6982da0924ac79e3fbb0ee2.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 34)
+https://stream.freetv.fun/c2a1106e95b6766f69d89e68119ffe8446987d5125a297ec064f9c21e4fc5274.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 35)
+https://stream.freetv.fun/ebedef813d34dcefa768fac88d7edcc5059501cc18b03e0fcb7eeecbc59c605b.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 36)
+https://stream.freetv.fun/1d255dd418f7230736797d36db28b9737236a8dcf6ed74f3912afcc6dac363bf.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 37)
+https://stream.freetv.fun/aa46577dd9b3394602f211c35c55a89aa158f5ec802d0cd6358155e5486cf0fa.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 38)
+https://stream.freetv.fun/c1748b2c5e2e5773300a8aca06aa919e9ceecb63f16b45c0829ea9e756c98314.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 39)
+https://stream.freetv.fun/b612ff35c5c978a200b4e85ef513c4de17ab983cd05338f7f0c9fa51bc1c7147.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 40)
+https://stream.freetv.fun/fe45f088d5b1b9b8d817e9b56041581eb4189a4e4112c6f3de0c8afe633f3998.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 41)
+https://stream.freetv.fun/17da57a288d66fa6c1836bab7620966c969d8096accef624865e0e15da3c951f.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 42)
+https://stream.freetv.fun/42b765090d9b9bb2cc3f838e8b544c61c626f13f92559bb79d8f17e75b16b1e0.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 43)
+https://stream.freetv.fun/ccb84ee4445225c1699623838d9ed1ba2e3a1a7daef990351be230368803d974.m3u8
+#EXTINF:-1, 咪咕直播 「IPV4」(1920x1080) (Backup 44)
+https://stream.freetv.fun/67142ea4f3a1e1f958c20df0e86d77638546e46a4b3f3608e7bd13c469b105e2.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-27「IPV6」 (IPV6)(1920x1080)" tvg-name="咪咕直播-27「IPV6」 (IPV6)(1920x1080)" group-title="Default", 咪咕直播-27「IPV6」 (IPV6)(1920x1080)
+https://stream.freetv.fun/6ee926d0c8d8b1c7dc59968dfe9197454593c852570a082fb77c83f3ce97eecc.m3u8
+#EXTINF:-1 tvg-id="咪咕篮球 (IPV6)(1920x1080)" tvg-name="咪咕篮球 (IPV6)(1920x1080)" group-title="Default", 咪咕篮球 (IPV6)(1920x1080)
+https://stream.freetv.fun/112d6c9600c4410c287958196a77f3fd21c0572cf6b6a4c074841f9fcccb13a7.m3u8
+#EXTINF:-1 tvg-id="咪咕视频 (IPV6)(1920x1080)" tvg-name="咪咕视频 (IPV6)(1920x1080)" group-title="Default", 咪咕视频 (IPV6)(1920x1080)
+https://stream.freetv.fun/1c4ade7792737f9d8e8c061c04032ec7434b82cddb5d427a97b2d3059d9584ac.m3u8
+#EXTINF:-1 tvg-id="咪咕视频1(1920x1080)" tvg-name="咪咕视频1(1920x1080)" group-title="Default", 咪咕视频1(1920x1080)
+https://stream.freetv.fun/2db3da3713d0168815e781460237ad8999cdd8a1e45291946eb25583c99c24cc.m3u8
+#EXTINF:-1 tvg-id="咪咕视频2 (IPV6)(1920x1080)" tvg-name="咪咕视频2 (IPV6)(1920x1080)" group-title="Default", 咪咕视频2 (IPV6)(1920x1080)
+https://stream.freetv.fun/9a2766e4204d1f17e6b5c6458ac40a9632a250e41b484ef4855307c20d3d1f49.m3u8
+#EXTINF:-1 tvg-id="咪咕视频2(1920x1080)" tvg-name="咪咕视频2(1920x1080)" group-title="Default", 咪咕视频2(1920x1080)
+https://stream.freetv.fun/f14d9f489d0cbc6f41c18dbaecc206ab19f20ec1c256b5399d0717ea48ab2177.m3u8
+#EXTINF:-1 tvg-id="咪咕视频3 (IPV6)(1920x1080)" tvg-name="咪咕视频3 (IPV6)(1920x1080)" group-title="Default", 咪咕视频3 (IPV6)(1920x1080)
+https://stream.freetv.fun/6b2f3c5cd6fbe21ab90c13af6c93e205ad21895c09f9876a6b78f73671de0df4.m3u8
+#EXTINF:-1 tvg-id="咪咕视频3(1920x1080)" tvg-name="咪咕视频3(1920x1080)" group-title="Default", 咪咕视频3(1920x1080)
+https://stream.freetv.fun/dfcffa8ffa8b32c7a12ad12974968df1e108ddd9bfcaaa0f76bd1f53f8255259.m3u8
+#EXTINF:-1 tvg-id="咪咕视频4 (IPV6)(1920x1080)" tvg-name="咪咕视频4 (IPV6)(1920x1080)" group-title="Default", 咪咕视频4 (IPV6)(1920x1080)
+https://stream.freetv.fun/42ebacc149e9bfff448dbe063a635c53da7bcda2df6745724c2dd161fc20627c.m3u8
+#EXTINF:-1 tvg-id="咪咕视频4(1920x1080)" tvg-name="咪咕视频4(1920x1080)" group-title="Default", 咪咕视频4(1920x1080)
+https://stream.freetv.fun/26d4cc4b9e70cfe453ad7e7fc64a781c7073aec26ac733c58d25630fae9933c7.m3u8
+#EXTINF:-1 tvg-id="咪咕视频5 (IPV6)(1920x1080)" tvg-name="咪咕视频5 (IPV6)(1920x1080)" group-title="Default", 咪咕视频5 (IPV6)(1920x1080)
+https://stream.freetv.fun/4af82d7ec12f25a99b983fcd3ab589452b9e6faebcc025cd5a1506fe2d2d4690.m3u8
+#EXTINF:-1 tvg-id="咪咕视频5(1920x1080)" tvg-name="咪咕视频5(1920x1080)" group-title="Default", 咪咕视频5(1920x1080)
+https://stream.freetv.fun/68ed0c94c8d8cc27a647bcd8a3571fd11577f43e8c0c08f7a25e046bfd9536ae.m3u8
+#EXTINF:-1 tvg-id="咪咕足球 (IPV6)(1920x1080)" tvg-name="咪咕足球 (IPV6)(1920x1080)" group-title="Default", 咪咕足球 (IPV6)(1920x1080)
+https://stream.freetv.fun/3c7a8e5751a5e715569017548b2091c799b18ac1a8cc8a833a89ab5856112a1f.m3u8
+#EXTINF:-1 tvg-id="咪咕运动「IPV6」 (IPV6)(1920x1080)" tvg-name="咪咕运动「IPV6」 (IPV6)(1920x1080)" group-title="Default", 咪咕运动「IPV6」 (IPV6)(1920x1080)
+https://stream.freetv.fun/5d354228b5275e251e94b5635df8ce1dc9e637d2931963adc269a6111e007798.m3u8
 #EXTINF:-1 tvg-id="够劲，就是中国功夫(1280x720)" tvg-name="够劲，就是中国功夫(1280x720)" group-title="Default", 够劲，就是中国功夫(1280x720)
 https://stream.freetv.fun/0cd02c51d980c58b1e52dd7e5c2140fb40b7dd2f51f789da095a31b8097b30eb.ctv
 #EXTINF:-1 tvg-id="大冪冪電影(1920x1080)" tvg-name="大冪冪電影(1920x1080)" group-title="Default", 大冪冪電影(1920x1080)
@@ -397,8 +545,6 @@ https://stream.freetv.fun/785785ce71f1b777aa6894af7298f29a94dc735d4d35f65a53b0da
 https://stream.freetv.fun/0961504bd5efa732065ddeb2fd00b75e230c4db3c6a331e5ce517f1b21ce67ae.ctv
 #EXTINF:-1 tvg-id="正經說電影(1280x720)" tvg-name="正經說電影(1280x720)" group-title="Default", 正經說電影(1280x720)
 https://stream.freetv.fun/a2c10e60535cded925ea648e3e718d336a1456b8babd33f99cf4ae896c751d59.ctv
-#EXTINF:-1 tvg-id="民視 新聞(1920x1080)" tvg-name="民視 新聞(1920x1080)" group-title="Default", 民視 新聞(1920x1080)
-https://stream.freetv.fun/aa2a5c0d74d32a61e4db3dfe576ca481e8363abc6d36098a05555639607948d9.m3u8
 #EXTINF:-1 tvg-id="民視(1280x720)" tvg-name="民視(1280x720)" group-title="Default", 民視(1280x720)
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-id="民視新聞(1920x1080)" tvg-name="民視新聞(1920x1080)" group-title="Default", 民視新聞(1920x1080)
@@ -415,6 +561,8 @@ https://stream.freetv.fun/86b6966044dfff14926e05ab0a4cbb37f868cea5befe6ccdb99f44
 https://stream.freetv.fun/4a467740b1f4bc1671972c0bc7b88169018dfd3ba5cbe2b7d55d5ca2722afd4d.ctv
 #EXTINF:-1 tvg-id="游钓中国李大毛(1920x1080)" tvg-name="游钓中国李大毛(1920x1080)" group-title="Default", 游钓中国李大毛(1920x1080)
 https://stream.freetv.fun/678899b731f4c08cbdf941ee0e84ece364821c2b393f835e918a4e0b61959029.ctv
+#EXTINF:-1, 游钓中国李大毛(1920x1080) (Backup 1)
+https://stream.freetv.fun/fc337be845fcf707eb481c218f89b00103c04c99bb20d5b82a7a64181b599e2a.ctv
 #EXTINF:-1 tvg-id="澳视澳门(1920x1080)" tvg-name="澳视澳门(1920x1080)" group-title="Default", 澳视澳门(1920x1080)
 https://stream.freetv.fun/63dfe0918b34a9c16af1d45637dadb494cac757fc34f97ac4741689288ed84ed.m3u8
 #EXTINF:-1, 澳视澳门(1920x1080) (Backup 1)

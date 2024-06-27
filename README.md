@@ -8,7 +8,8 @@
 
 ## 精品推荐
 
-### 1、使用了好几年，稳定、快速：https://33226.kejibear.site/auth/register?code=BRli
+### 1、使用了好几年，稳定、快速的VPN：https://33226.kejibear.site/auth/register?code=BRli
+
 ### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：[点击上车](https://nf.video/xpga4x)
 
 ## 使用方法：
@@ -47,4 +48,5 @@
 #### linux
 
 1、[VLC for Linux](https://www.videolan.org/vlc/#download)
+
 
