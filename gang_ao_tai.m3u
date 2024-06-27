@@ -161,14 +161,12 @@ https://stream.freetv.fun/6a233a4a8d7b34bc6eade16d139194ee384c4d6df12681741b78a9
 https://stream.freetv.fun/6a5db861f69d8e928c116e919c45af99b1968d1bb200885b84f97fa9349224ca.m3u8
 #EXTINF:-1 tvg-id="WCGTV PUBLIC(1280x720)" tvg-name="WCGTV PUBLIC(1280x720)" group-title="Default", WCGTV PUBLIC(1280x720)
 https://stream.freetv.fun/6c92ca335c680a8217b718c65552ebdf65d41182ef15b9e6bc07b9bbef1ab321.m3u8
-#EXTINF:-1 tvg-id="ช่อง HGTV(1920x1080)" tvg-name="ช่อง HGTV(1920x1080)" group-title="Default", ช่อง HGTV(1920x1080)
+#EXTINF:-1 tvg-id="ช่อง HGTV(1280x720)" tvg-name="ช่อง HGTV(1280x720)" group-title="Default", ช่อง HGTV(1280x720)
 https://stream.freetv.fun/ad3c2cf542ad7a111f80e724bcb7b5e55d25713ac5c24952eb255adcadf1ec18.m3u8
-#EXTINF:-1, ช่อง HGTV(1920x1080) (Backup 1)
+#EXTINF:-1 tvg-id="ช่อง HGTV(1920x1080)" tvg-name="ช่อง HGTV(1920x1080)" group-title="Default", ช่อง HGTV(1920x1080)
 https://stream.freetv.fun/cf8c214574c4db9043c3b127db7054820d47671951a153054e1ed393c3a13502.m3u8
 #EXTINF:-1 tvg-id="ช่อง TVB CLASSIC(1280x720)" tvg-name="ช่อง TVB CLASSIC(1280x720)" group-title="Default", ช่อง TVB CLASSIC(1280x720)
 https://stream.freetv.fun/dbc01dbfb4ca885e1692a21b71188b6869d051582b2f09ee82ddbfe71364f7f9.ctv
-#EXTINF:-1, ช่อง TVB CLASSIC(1280x720) (Backup 1)
-https://stream.freetv.fun/6883df189a04dadcb1acfecaa4ea497a3d870e6afcfc7dc219cc46491c7a8570.ctv
 #EXTINF:-1 tvg-id="ช่อง TVB ENTERTAINMENT NEWS(1280x720)" tvg-name="ช่อง TVB ENTERTAINMENT NEWS(1280x720)" group-title="Default", ช่อง TVB ENTERTAINMENT NEWS(1280x720)
 https://stream.freetv.fun/30c842439557a20b9d2c917cc57acb92362218c84b3eee9aab4d97ac4f80ab1b.ctv
 #EXTINF:-1 tvg-id="ช่อง TVB JADE ASTRO(1280x720)" tvg-name="ช่อง TVB JADE ASTRO(1280x720)" group-title="Default", ช่อง TVB JADE ASTRO(1280x720)
@@ -181,8 +179,6 @@ https://stream.freetv.fun/17b878f055215bfe006320824bbba85d424c09af2476de057c65eb
 https://stream.freetv.fun/dcbfd7b5f8ed034ff909b57857bdbf1c01cca5f72abe31a8a6c9de8c718f03b9.ctv
 #EXTINF:-1, ช่อง TVB XING HE(1280x720) (Backup 1)
 https://stream.freetv.fun/547b24a1dc392f18c85735adb94e6db6589d9a1aea328df0ef496ec78bbb596b.ctv
-#EXTINF:-1, ช่อง TVB XING HE(1280x720) (Backup 2)
-https://stream.freetv.fun/9f3d9b1a2845846b9233ac44d565fc2f23a5ec1e09814806fd50ad9e9687a313.ctv
 #EXTINF:-1 tvg-id="ช่อง TVBE(1280x720)" tvg-name="ช่อง TVBE(1280x720)" group-title="Default", ช่อง TVBE(1280x720)
 https://stream.freetv.fun/5054f23dde56008c8f76ce21f4b1831f2c8ebd831ec48052238f57512403a509.ctv
 #EXTINF:-1 tvg-id="ช่อง TVBJ1(1920x1080)" tvg-name="ช่อง TVBJ1(1920x1080)" group-title="Default", ช่อง TVBJ1(1920x1080)
@@ -197,8 +193,6 @@ https://stream.freetv.fun/4371a2d71eb18aca8898550858b3b82cba5eb08bdff1d0e1b7b4b1
 https://stream.freetv.fun/0f31a37906ed235d0d76e9407a5fa7ea219bccc84f970c3356a3aab1d5eb5fdd.ctv
 #EXTINF:-1 tvg-id="ช่อง 东森美洲(1920x1080)" tvg-name="ช่อง 东森美洲(1920x1080)" group-title="Default", ช่อง 东森美洲(1920x1080)
 https://stream.freetv.fun/9536f26868da40a1f6767b2b1e9e9294e386669216e5fab9561ff2d4a1701820.ctv
-#EXTINF:-1 tvg-id="ช่อง 中国功夫-经典大片(1920x1080)" tvg-name="ช่อง 中国功夫-经典大片(1920x1080)" group-title="Default", ช่อง 中国功夫-经典大片(1920x1080)
-https://stream.freetv.fun/cb6c35437d63d157812d556e9843e46c3321d9577499417814384fc56e33ad1a.ctv
 #EXTINF:-1 tvg-id="ช่อง 中天亚洲(1280x720)" tvg-name="ช่อง 中天亚洲(1280x720)" group-title="Default", ช่อง 中天亚洲(1280x720)
 https://stream.freetv.fun/b52dd1dfa66146b6fd8e9bc0747b6f640d0b6f420f615e5d41ca8b2581b2b781.ctv
 #EXTINF:-1, ช่อง 中天亚洲(1280x720) (Backup 1)
