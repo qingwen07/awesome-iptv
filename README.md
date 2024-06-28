@@ -5,19 +5,26 @@
 
 所有信息都是来自于互联网，仅供学习研究之用，请勿用于非法途径，任何非法行为与本人无关！！
 
-### 使用方法：
+
+## 精品推荐
+
+### 1、使用了好几年，稳定、快速的VPN：https://33226.kejibear.site/auth/register?code=BRli
+
+### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐【优惠码：顶级开源】：[点击上车](https://nf.video/xpga4x)
+
+## 使用方法：
 1、找到对应的m3u文件，比如gang_ao_tai.m3u；
 
 2、点进去，右上角有个“raw"按钮，点一下；
 
 3、然后把浏览器里的URL拷贝出来放到IPTV客户端里即可愉快的观影了；
 
-### 加速源链接
+## 加速源链接
 1、https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/china_all.m3u
 
 2、https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/gang_ao_tai.m3u
 
-### 建议客户端【排名不分先后，不断更新】
+## 建议客户端【排名不分先后，不断更新】
 
 #### Android
 1、[televizo](https://play.google.com/store/apps/details?id=com.ottplay.ottplay&hl=zh)【手机】[tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en)【TV】
@@ -41,9 +48,5 @@
 #### linux
 
 1、[VLC for Linux](https://www.videolan.org/vlc/#download)
-
-### 推荐VPN
-
-1、使用了好几年，稳定、快速：https://33226.kejibear.site/auth/register?code=BRli
 
 
