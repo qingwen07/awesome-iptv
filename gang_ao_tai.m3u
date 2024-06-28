@@ -599,6 +599,8 @@ https://stream.freetv.fun/4b22b3f2ef1781af18e02cca8befedd630c178e00e654a9d5fe9a2
 https://stream.freetv.fun/c4cf3013c478014d6c2eba1017d6b278a1e6068599eb8f82be7bafc504aed348.ctv
 #EXTINF:-1 tvg-id="左左說電影(1920x1080)" tvg-name="左左說電影(1920x1080)" group-title="Default", 左左說電影(1920x1080)
 https://stream.freetv.fun/6fdac6e4a1e1253b9e31b70749a548d534fa47ede1200cf02756b015fb983ae3.ctv
+#EXTINF:-1 tvg-id="广电翡翠2(1920x1080)" tvg-name="广电翡翠2(1920x1080)" group-title="Default", 广电翡翠2(1920x1080)
+https://stream.freetv.fun/cb9d6502867eed1eb66bb4b0196bd1e8c6444ca342ac6da4704215d7986dea73.ctv
 #EXTINF:-1 tvg-id="怪獸講電影(1920x1080)" tvg-name="怪獸講電影(1920x1080)" group-title="Default", 怪獸講電影(1920x1080)
 https://stream.freetv.fun/eb112d22d7a1d04eb0376f12e6b6fbee3d1a4a59f14908c455122e70d91a052d.ctv
 #EXTINF:-1 tvg-id="憨憨哥說電影(1920x1080)" tvg-name="憨憨哥說電影(1920x1080)" group-title="Default", 憨憨哥說電影(1920x1080)
@@ -673,6 +675,8 @@ https://stream.freetv.fun/1409b0443b50448950ea4a1fa38227355d6078cedf3d227f333e09
 https://stream.freetv.fun/175ece5dafe1e2079c5f57cbdb0600789ad06e27deb3b52e1afff861641c16b1.m3u8
 #EXTINF:-1 tvg-id="直播中国精编直播(1280x720)" tvg-name="直播中国精编直播(1280x720)" group-title="Default", 直播中国精编直播(1280x720)
 https://stream.freetv.fun/4c21469bc0b9d5adcfa384ab3c6d9663ab8a035a844649cd77d93247ea29e92c.m3u8
+#EXTINF:-1 tvg-id="福建漳州醉美沙滩翡翠湾(1920x1080)" tvg-name="福建漳州醉美沙滩翡翠湾(1920x1080)" group-title="Default", 福建漳州醉美沙滩翡翠湾(1920x1080)
+https://stream.freetv.fun/e983115464579943221b5a2ad54346acbb4292442cfe87be49cf50e54544c89d.m3u8
 #EXTINF:-1 tvg-id="空空說電影(1920x1080)" tvg-name="空空說電影(1920x1080)" group-title="Default", 空空說電影(1920x1080)
 https://stream.freetv.fun/1120bb5ae4fe79d96de44964400a4033a2ba39df56da143b5bbfe5b81a3ea603.ctv
 #EXTINF:-1 tvg-id="續哥說電影(1920x1080)" tvg-name="續哥說電影(1920x1080)" group-title="Default", 續哥說電影(1920x1080)
@@ -687,6 +691,16 @@ rtmp://f13h.mine.nu/sat/tv771
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1, 纬来育乐(1280x720) (Backup 1)
 rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-id="翡翠(1920x1080)" tvg-name="翡翠(1920x1080)" group-title="Default", 翡翠(1920x1080)
+https://stream.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
+#EXTINF:-1, 翡翠(1920x1080) (Backup 1)
+https://stream.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
+#EXTINF:-1 tvg-id="翡翠台(1920x1080)" tvg-name="翡翠台(1920x1080)" group-title="Default", 翡翠台(1920x1080)
+https://stream.freetv.fun/2f69dcf1d6afdbf8c3d7331ab0c858be22de1068a36be03c676dec8ffb28d2d7.m3u8
+#EXTINF:-1, 翡翠台(1920x1080) (Backup 1)
+https://stream.freetv.fun/900349a66d6cc08ff6baaaad614745f6be22ceb6d30c002daecab13b142bc91d.ctv
+#EXTINF:-1, 翡翠台(1920x1080) (Backup 2)
+https://stream.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce727188ee512f.ctv
 #EXTINF:-1 tvg-id="老吳說電影(1920x1080)" tvg-name="老吳說電影(1920x1080)" group-title="Default", 老吳說電影(1920x1080)
 https://stream.freetv.fun/48de653cc800e21b30fba59555a8c4696da972c895c29e56120061c7fc0060af.ctv
 #EXTINF:-1 tvg-id="老皮講電影(1920x1080)" tvg-name="老皮講電影(1920x1080)" group-title="Default", 老皮講電影(1920x1080)
