@@ -15,7 +15,7 @@ https://stream.freetv.fun/7aee499ca94e0799a039594ad57e69ae516ba59a3f69cb5c161a26
 https://stream.freetv.fun/e7b8eeab3d467eb2221645efc76ef27d126c7de745fa1d35df7853aa44c773e7.m3u8
 #EXTINF:-1 tvg-id="CLUBBINGTV(1280x720)" tvg-name="CLUBBINGTV(1280x720)" group-title="Default", CLUBBINGTV(1280x720)
 https://stream.freetv.fun/6adef627c4276c8491700c07b9d543398d257ed4d43ec0604d470b6a272254b4.m3u8
-#EXTINF:-1 tvg-id="FGTV(1280x720)" tvg-name="FGTV(1280x720)" group-title="Default", FGTV(1280x720)
+#EXTINF:-1 tvg-id="FGTV(1920x1080)" tvg-name="FGTV(1920x1080)" group-title="Default", FGTV(1920x1080)
 https://stream.freetv.fun/f6918f8a3eb1d891272c8f5bc364851642b06131cf1cfc428ace89bc513fc246.m3u8
 #EXTINF:-1 tvg-id="HGTV HD(1280x720)" tvg-name="HGTV HD(1280x720)" group-title="Default", HGTV HD(1280x720)
 https://stream.freetv.fun/78ebdf0f15e7b0caafdfe801ca5af7a9cd645d18047076b31a11e84f1b1fce8f.m3u8
