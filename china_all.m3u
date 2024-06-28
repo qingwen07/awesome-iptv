@@ -1136,9 +1136,13 @@ https://stream.freetv.fun/9a69bc135d63a10f5ab58b344848aab4838926cb531453edb28273
 #EXTINF:-1 tvg-id="三口看電影(1920x1080)" tvg-name="三口看電影(1920x1080)" group-title="电影", 三口看電影(1920x1080)
 https://stream.freetv.fun/bc2414bb2300d7053c00f6b9a0fab800447d56da2b5f767654e7c285c3022420.ctv
 #EXTINF:-1 tvg-id="三明新闻综合(1280x720)" tvg-name="三明新闻综合(1280x720)" group-title="默认", 三明新闻综合(1280x720)
-https://stream.freetv.fun/6f5eebbfa2cfa3577d29b0264b5ef82b07675101fc276f407397de165e0e6c4a.m3u8
+https://stream.freetv.fun/7a15b48fac3bdd32b1955132f8bc94980c571e54574edcf9cbba5f5e9f618c53.m3u8
 #EXTINF:-1, 三明新闻综合(1280x720) (Backup 1)
+https://stream.freetv.fun/6f5eebbfa2cfa3577d29b0264b5ef82b07675101fc276f407397de165e0e6c4a.m3u8
+#EXTINF:-1, 三明新闻综合(1280x720) (Backup 2)
 https://stream.freetv.fun/916bb31a6db0c2584f446ee2fe463ef3a4bf76c3275729b118953b4404cf65a5.m3u8
+#EXTINF:-1, 三明新闻综合(1280x720) (Backup 3)
+https://stream.freetv.fun/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 #EXTINF:-1 tvg-id="三立 新聞(1920x1080)" tvg-name="三立 新聞(1920x1080)" group-title="港澳台", 三立 新聞(1920x1080)
 https://stream.freetv.fun/54fb2206910b62cd27cbaee569c332f6301795188cda97c9db3bd2ff93100069.m3u8
 #EXTINF:-1 tvg-id="三立戏剧(1280x720)" tvg-name="三立戏剧(1280x720)" group-title="港澳台", 三立戏剧(1280x720)
@@ -1266,39 +1270,39 @@ https://stream.freetv.fun/08ecacac96ca5d4326a59f5a0bf95c91730947d0f9b4d9d7fd92d1
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 23)
 https://stream.freetv.fun/b6d5d637bb28ce7da618bc99c679dcdb68480a83c96abacd8925551e46f4a1ba.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 24)
-https://stream.freetv.fun/3653dd2877991dd50c774b078378ae6674d028770af70deca104dc4dfa2f7cf9.m3u8
+https://stream.freetv.fun/4d7ac833df136bffef1468d0b0b9f1f5d56c620106e66856f1083f496885f81c.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 25)
-https://stream.freetv.fun/2b8120b5d51ab12481d65f34a10c64d0f8ec95006ff59924031be51ad82095cc.m3u8
+https://stream.freetv.fun/3653dd2877991dd50c774b078378ae6674d028770af70deca104dc4dfa2f7cf9.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 26)
-https://stream.freetv.fun/f2a60f0428d9f9eec4085a7756e2f3854819571b1e63c3fd31aa1b09eca007fa.m3u8
+https://stream.freetv.fun/2b8120b5d51ab12481d65f34a10c64d0f8ec95006ff59924031be51ad82095cc.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 27)
-https://stream.freetv.fun/15ea4c2ab3c8963f0d01a7f704a54533d40338618a69f729ad0f982abb64ffd0.m3u8
+https://stream.freetv.fun/f2a60f0428d9f9eec4085a7756e2f3854819571b1e63c3fd31aa1b09eca007fa.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 28)
-https://stream.freetv.fun/af3e25b0ef91947514f18604a7c770a792a168c5366f15be02c65de0dd009680.m3u8
+https://stream.freetv.fun/15ea4c2ab3c8963f0d01a7f704a54533d40338618a69f729ad0f982abb64ffd0.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 29)
-https://stream.freetv.fun/9a334a475adf8cc88196200a388562ccd9843346e0339a6917e66082ef7cfae2.m3u8
+https://stream.freetv.fun/af3e25b0ef91947514f18604a7c770a792a168c5366f15be02c65de0dd009680.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 30)
-https://stream.freetv.fun/e107cbdb3db41f72a62c05f652a6cebd52ca23bdc40477d2effd2fabf63d0b8a.m3u8
+https://stream.freetv.fun/9a334a475adf8cc88196200a388562ccd9843346e0339a6917e66082ef7cfae2.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 31)
-https://stream.freetv.fun/cc6ab124f97dc9f80a73449076e81610b6cef5a7efd084b2739f719de44ec098.m3u8
+https://stream.freetv.fun/e107cbdb3db41f72a62c05f652a6cebd52ca23bdc40477d2effd2fabf63d0b8a.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 32)
-https://stream.freetv.fun/fd06a7a4471f556b8e1b8b33c71e7cc3f359ffa85522ed3a89ff7c1c90517ec4.m3u8
+https://stream.freetv.fun/cc6ab124f97dc9f80a73449076e81610b6cef5a7efd084b2739f719de44ec098.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/20bf38fdd03b076ceca5866ab8380efdb0cc2864ef50639b5d5aa765ff17bd88.m3u8
+https://stream.freetv.fun/fd06a7a4471f556b8e1b8b33c71e7cc3f359ffa85522ed3a89ff7c1c90517ec4.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 34)
-https://stream.freetv.fun/28bf766e7146262abd28dd66a84d446a24e97cceca70dd74f2a77f9544b1358d.m3u8
+https://stream.freetv.fun/20bf38fdd03b076ceca5866ab8380efdb0cc2864ef50639b5d5aa765ff17bd88.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 35)
-https://stream.freetv.fun/1479abeb656da4038b3900c6ab6d2910f2f317b10c45e474852fa192ab5d1330.m3u8
+https://stream.freetv.fun/28bf766e7146262abd28dd66a84d446a24e97cceca70dd74f2a77f9544b1358d.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 36)
-https://stream.freetv.fun/4701669a51d83e864a2056f6bd58af5ef56424f5468615b51155ff6efd8b09df.m3u8
+https://stream.freetv.fun/1479abeb656da4038b3900c6ab6d2910f2f317b10c45e474852fa192ab5d1330.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 37)
-https://stream.freetv.fun/42dab7fb0c40bea46ea441a214472512d563fff258d19589a6a6502b9d167380.m3u8
+https://stream.freetv.fun/4701669a51d83e864a2056f6bd58af5ef56424f5468615b51155ff6efd8b09df.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 38)
-https://stream.freetv.fun/027f5341735605fa1b8315181344118a7a0044cd04625f55db27690f683ace1b.m3u8
+https://stream.freetv.fun/42dab7fb0c40bea46ea441a214472512d563fff258d19589a6a6502b9d167380.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 39)
-https://stream.freetv.fun/cdc72352d92fb2510f846a8cfa5a86d49b15e6471b33fab6c7b499161ae8a8fc.ctv
+https://stream.freetv.fun/027f5341735605fa1b8315181344118a7a0044cd04625f55db27690f683ace1b.m3u8
 #EXTINF:-1, 东南卫视(1920x1080) (Backup 40)
-https://stream.freetv.fun/37b5a90f5d450f61b33edee28483ed3c016af8785ba818d968a560524ea23da8.m3u8
+https://stream.freetv.fun/cdc72352d92fb2510f846a8cfa5a86d49b15e6471b33fab6c7b499161ae8a8fc.ctv
 #EXTINF:-1 tvg-id="东南卫视HD(1920x1080)" tvg-name="东南卫视HD(1920x1080)" group-title="地方台", 东南卫视HD(1920x1080)
 https://stream.freetv.fun/b87f05ccb1805f97b430f6d9a294e1098ffee705f7029ac3a724d37a0d0da406.m3u8
 #EXTINF:-1 tvg-id="东方先生I(1920x1080)" tvg-name="东方先生I(1920x1080)" group-title="地方台", 东方先生I(1920x1080)
@@ -1952,7 +1956,7 @@ https://stream.freetv.fun/217f4f75f9a74bf1809629bcbb3fa197c1ba1b4ba529514de80cde
 #EXTINF:-1, 北京卫视(1920x1080) (Backup 47)
 https://stream.freetv.fun/980982be3e065112b06535546c9fc50b0202b5244ba24d3c9dae2c8013b33fc3.m3u8
 #EXTINF:-1, 北京卫视(1920x1080) (Backup 48)
-https://stream.freetv.fun/5a20fa5ec6a4bf5ba25f3efd6f4521e86065d5cb07ac8cb90b1c4edac73a3265.m3u8
+https://stream.freetv.fun/ee7dbd9683ac6cf88aba32e1143668af708da41d4f9934eb8cf218a7b9a79710.m3u8
 #EXTINF:-1, 北京卫视(1920x1080) (Backup 49)
 https://stream.freetv.fun/81a83aae5e098095fc514c5ab802f00c5a651b3846694b4ad69e3fb649ed270a.m3u8
 #EXTINF:-1 tvg-id="北京国际(1920x1080)" tvg-name="北京国际(1920x1080)" group-title="地方台", 北京国际(1920x1080)
@@ -2222,29 +2226,29 @@ https://stream.freetv.fun/1e3692d9f3e6e367c78029455d60d2313e8d787f9e20300511b10d
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 17)
 https://stream.freetv.fun/1697770fc35e0b58c126dcb12177f1582114f5df46040a4d190e272707734deb.ctv
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 18)
-https://stream.freetv.fun/4df223dda9ac0d494f3242da528e5f580814440520540e575131a2df8f4780d7.m3u8
+https://stream.freetv.fun/9d949c94aab298bccd90983dc9c9f249b402a1176d240dc400996fedbfd574ff.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 19)
-https://stream.freetv.fun/cc63db31a91c9737b86bac23e628cd5d744d3c766ed4c2e3d845df717dc3b5a6.m3u8
+https://stream.freetv.fun/4df223dda9ac0d494f3242da528e5f580814440520540e575131a2df8f4780d7.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 20)
-https://stream.freetv.fun/1a39dcc5eb485ec258651bac95ae4c25c795204743b5432d0244c333696f8cbb.m3u8
+https://stream.freetv.fun/cc63db31a91c9737b86bac23e628cd5d744d3c766ed4c2e3d845df717dc3b5a6.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 21)
-https://stream.freetv.fun/ec115ddb27069ec189cbd1363c4bc06def34d3a19b57c979b96ed9201bda04bb.m3u8
+https://stream.freetv.fun/1a39dcc5eb485ec258651bac95ae4c25c795204743b5432d0244c333696f8cbb.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 22)
-https://stream.freetv.fun/2880a8a5bd4b175961466596fc96ffbc4c56b1bd0624d923497b926494813814.m3u8
+https://stream.freetv.fun/ec115ddb27069ec189cbd1363c4bc06def34d3a19b57c979b96ed9201bda04bb.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 23)
-https://stream.freetv.fun/fc5880d6b0276d9d7433f437dee8b4c1bb237bb99ed60b0b100cd24f2cfece1e.m3u8
+https://stream.freetv.fun/2880a8a5bd4b175961466596fc96ffbc4c56b1bd0624d923497b926494813814.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 24)
-https://stream.freetv.fun/1fa968a4943be74141667c1631148b001d83cafe2855278ba12a9f6b888db179.m3u8
+https://stream.freetv.fun/fc5880d6b0276d9d7433f437dee8b4c1bb237bb99ed60b0b100cd24f2cfece1e.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 25)
-https://stream.freetv.fun/912386d292a83af4968070ab1911448340cafce5621b5c6e88c70edcf146bb31.m3u8
+https://stream.freetv.fun/1fa968a4943be74141667c1631148b001d83cafe2855278ba12a9f6b888db179.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 26)
-https://stream.freetv.fun/1290393ff70ace538e5c8099d920df24e16de8957aafa41270bbcfb0b7390de5.m3u8
+https://stream.freetv.fun/912386d292a83af4968070ab1911448340cafce5621b5c6e88c70edcf146bb31.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 27)
-https://stream.freetv.fun/99f63bfc46ab7ee1f838bdbcee2d425229ad0b1d22f498e24c0189bdb9ab88a2.m3u8
+https://stream.freetv.fun/1290393ff70ace538e5c8099d920df24e16de8957aafa41270bbcfb0b7390de5.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 28)
-https://stream.freetv.fun/7ed1b9b2b0a87b2ece9c5d4907dcfd49e096ec6551491e62b8895e38f3b7d7d5.m3u8
+https://stream.freetv.fun/99f63bfc46ab7ee1f838bdbcee2d425229ad0b1d22f498e24c0189bdb9ab88a2.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 29)
-https://stream.freetv.fun/f845c6ed628a3f947bccdcffba4f8384f1d72236bebee05710123de7850c62b7.m3u8
+https://stream.freetv.fun/7ed1b9b2b0a87b2ece9c5d4907dcfd49e096ec6551491e62b8895e38f3b7d7d5.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 30)
 https://stream.freetv.fun/46eb55a9404bd0c67b21399c579df3ee2225565b74bed8590e06a719e11dc89a.m3u8
 #EXTINF:-1, 吉林卫视(1920x1080) (Backup 31)
@@ -2514,39 +2518,39 @@ https://stream.freetv.fun/456bc8843e0ddfcbcd753ee116444c5e0fd8e79634d776d5488b5e
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 21)
 https://stream.freetv.fun/d989f1f857bb56e9c77c055745354bbf0b840c9d1aef0f2195655c642c3c1bb5.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 22)
-https://stream.freetv.fun/bfe489d119161f13d9b92a5c5dd762c6b393fd776efce801eb7a74420c81280a.m3u8
+https://stream.freetv.fun/bfac79a90ad2a91c7371f70f6196e6e3bbc481e0f913e7cd3649b881dd81b641.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 23)
-https://stream.freetv.fun/065f5b390cc3382d67c297f0439393b4692295519cce1a933a29ac752ab12e18.m3u8
+https://stream.freetv.fun/bfe489d119161f13d9b92a5c5dd762c6b393fd776efce801eb7a74420c81280a.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 24)
-https://stream.freetv.fun/091a67b6800332d25189f5b79f4431dd4b6fc9fd76ad27f5b61c0daaf15c2c8f.m3u8
+https://stream.freetv.fun/065f5b390cc3382d67c297f0439393b4692295519cce1a933a29ac752ab12e18.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 25)
-https://stream.freetv.fun/cdbb317ad481240b3957b2cc1d45c5bacf39593ba83173d015112dab226b0341.m3u8
+https://stream.freetv.fun/091a67b6800332d25189f5b79f4431dd4b6fc9fd76ad27f5b61c0daaf15c2c8f.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 26)
-https://stream.freetv.fun/7b1a1bc2a44e772a95bc0c5cfcab62a7a7b82137ad2a9c948af4d76cb6f68155.m3u8
+https://stream.freetv.fun/cdbb317ad481240b3957b2cc1d45c5bacf39593ba83173d015112dab226b0341.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 27)
-https://stream.freetv.fun/825ff1165bfbdc1993d0a201f8e3f5ce97fd2cba9f4fa3371cf454c26ce59512.m3u8
+https://stream.freetv.fun/7b1a1bc2a44e772a95bc0c5cfcab62a7a7b82137ad2a9c948af4d76cb6f68155.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 28)
-https://stream.freetv.fun/e5b841378d8429c54ddf67938152df621b7a8a5d1a9fa05eaa138f0aec0a9fb6.m3u8
+https://stream.freetv.fun/825ff1165bfbdc1993d0a201f8e3f5ce97fd2cba9f4fa3371cf454c26ce59512.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 29)
-https://stream.freetv.fun/9bb3a53b6db62ecb53c69b99d4b342269873b573e1132398147a869414a76978.m3u8
+https://stream.freetv.fun/e5b841378d8429c54ddf67938152df621b7a8a5d1a9fa05eaa138f0aec0a9fb6.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 30)
-https://stream.freetv.fun/701d2047a1481f191b6d5108270b556b46ae5e5e506b4ba430662ad2e7b7407c.m3u8
+https://stream.freetv.fun/9bb3a53b6db62ecb53c69b99d4b342269873b573e1132398147a869414a76978.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 31)
-https://stream.freetv.fun/516d18b85324a28ba98f3469a86e3787da2fff814bfe2c3e8e4ecc4c70e3bd8e.m3u8
+https://stream.freetv.fun/701d2047a1481f191b6d5108270b556b46ae5e5e506b4ba430662ad2e7b7407c.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 32)
-https://stream.freetv.fun/4d012cc6d0cf9ec1b6101aa7351bb3b038d5a231ef437f62ea6908ff02667ffb.ctv
+https://stream.freetv.fun/516d18b85324a28ba98f3469a86e3787da2fff814bfe2c3e8e4ecc4c70e3bd8e.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/b31a727096a8d38925f1294609bb806c28d307eb0efcfb4f5fce99393f44ae64.m3u8
+https://stream.freetv.fun/4d012cc6d0cf9ec1b6101aa7351bb3b038d5a231ef437f62ea6908ff02667ffb.ctv
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 34)
-https://stream.freetv.fun/0c4f31fcc0d8c2747b2edbce79477108c1854af1d9bd237e8949196a9aa1db5c.m3u8
+https://stream.freetv.fun/b31a727096a8d38925f1294609bb806c28d307eb0efcfb4f5fce99393f44ae64.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 35)
-https://stream.freetv.fun/c2d9619f6b152dda29c27b52aa3e4efac5781fa677715d66a8a6ba9f0a7f3571.m3u8
+https://stream.freetv.fun/0c4f31fcc0d8c2747b2edbce79477108c1854af1d9bd237e8949196a9aa1db5c.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 36)
-https://stream.freetv.fun/121e7db1c81748a650bde662bc454d26530d875d67b63d420306f842c419f9c7.m3u8
+https://stream.freetv.fun/c2d9619f6b152dda29c27b52aa3e4efac5781fa677715d66a8a6ba9f0a7f3571.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 37)
-https://stream.freetv.fun/023c60079d2b6422d6f0e61b5153ae46b9dbbcbef1272c39d02614badbb56a13.ctv
+https://stream.freetv.fun/121e7db1c81748a650bde662bc454d26530d875d67b63d420306f842c419f9c7.m3u8
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 38)
-https://stream.freetv.fun/1c0122fc8f14c05006e2c348f842557a612d5307a960c42b95758d6f5c36119f.m3u8
+https://stream.freetv.fun/023c60079d2b6422d6f0e61b5153ae46b9dbbcbef1272c39d02614badbb56a13.ctv
 #EXTINF:-1, 四川卫视(1920x1080) (Backup 39)
 https://stream.freetv.fun/055343f080ad52a0036df3256adc71d8514fbcef7cbcbb115d1b2f4a186f4671.m3u8
 #EXTINF:-1 tvg-id="四川四姑娘山隆珠措(1920x1080)" tvg-name="四川四姑娘山隆珠措(1920x1080)" group-title="地方台", 四川四姑娘山隆珠措(1920x1080)
@@ -3168,49 +3172,49 @@ https://stream.freetv.fun/43361bd09b0118f63b5f492fcfd739e808a0d4768cfca86f5ae43f
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 16)
 https://stream.freetv.fun/a8ff1206c49fb98ce975fdd12d422605531835fd55009a45a8aeaee1f8775afa.ctv
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 17)
-https://stream.freetv.fun/5b3f8b55c9ab9a236c5a900671932cbf4e8483a632e066e57ea7436c63bbe588.ctv
+https://stream.freetv.fun/9aabc4954fac6ffb22335bd515e61fb98cb7111af64bc77cb5f3dd9d2849acff.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 18)
-https://stream.freetv.fun/77fcdd7055b42b099211d9090e0c4d549574a2fb5dc1d399bcacae168da77249.m3u8
+https://stream.freetv.fun/5b3f8b55c9ab9a236c5a900671932cbf4e8483a632e066e57ea7436c63bbe588.ctv
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 19)
-https://stream.freetv.fun/4878be9db22a1fb1c4c73f1b62fab6f15963d913c6cedf7c758f15f3178ee8a3.ctv
+https://stream.freetv.fun/77fcdd7055b42b099211d9090e0c4d549574a2fb5dc1d399bcacae168da77249.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 20)
-https://stream.freetv.fun/5ec5eab1f9270f6220a4bdaf841ac6c227e7ac44550ccdf87b2a6431c9bcc645.ctv
+https://stream.freetv.fun/4878be9db22a1fb1c4c73f1b62fab6f15963d913c6cedf7c758f15f3178ee8a3.ctv
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 21)
-https://stream.freetv.fun/ac1c15dc01a08667160c68a85717a5fab47c32c3861d361c102d0f3e96be2672.m3u8
+https://stream.freetv.fun/5ec5eab1f9270f6220a4bdaf841ac6c227e7ac44550ccdf87b2a6431c9bcc645.ctv
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 22)
-https://stream.freetv.fun/ee5f29385677d9ea1ff89cf38fa00166df33bc7a065c5821da8a74b1bae08262.ctv
+https://stream.freetv.fun/ac1c15dc01a08667160c68a85717a5fab47c32c3861d361c102d0f3e96be2672.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 23)
-https://stream.freetv.fun/aee8bc7a5ba9f1d1e3c8a23a53a6f06bb8048ec519d6fdfa04f1f0546a3f2a7c.m3u8
+https://stream.freetv.fun/ee5f29385677d9ea1ff89cf38fa00166df33bc7a065c5821da8a74b1bae08262.ctv
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 24)
-https://stream.freetv.fun/bdfeedd9cee7f96badac91e6dac2992ed6cdbe112d4cd5fddd82979fc2c9d0a5.m3u8
+https://stream.freetv.fun/aee8bc7a5ba9f1d1e3c8a23a53a6f06bb8048ec519d6fdfa04f1f0546a3f2a7c.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 25)
-https://stream.freetv.fun/84a9d650a24c7a23413122151ff352b3a984ce28327f3f844f0c77cad6c71d72.m3u8
+https://stream.freetv.fun/bdfeedd9cee7f96badac91e6dac2992ed6cdbe112d4cd5fddd82979fc2c9d0a5.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 26)
-https://stream.freetv.fun/43b5c6d81b60a71ae667d0421138ab14f488e8352ef1ed366c97a42143bed350.m3u8
+https://stream.freetv.fun/84a9d650a24c7a23413122151ff352b3a984ce28327f3f844f0c77cad6c71d72.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 27)
-https://stream.freetv.fun/196467d6d76f4f4ac05307f14da9677536743a9fc0dfc30d0435ade95f10622d.m3u8
+https://stream.freetv.fun/43b5c6d81b60a71ae667d0421138ab14f488e8352ef1ed366c97a42143bed350.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 28)
-https://stream.freetv.fun/5bdb53d672473ab1ffc81e5aa19ddfdd0d370c2bc967a8bc2ad506e622bb0928.m3u8
+https://stream.freetv.fun/196467d6d76f4f4ac05307f14da9677536743a9fc0dfc30d0435ade95f10622d.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 29)
-https://stream.freetv.fun/16beccb46f608524b3d3ae9bcb7410bce0bda616b5e850ccfc14753612f95a25.m3u8
+https://stream.freetv.fun/5bdb53d672473ab1ffc81e5aa19ddfdd0d370c2bc967a8bc2ad506e622bb0928.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 30)
-https://stream.freetv.fun/8627361e487ab4314a40aafbac8d41dc1895c0636b51ac627f694d32aadf90e5.m3u8
+https://stream.freetv.fun/16beccb46f608524b3d3ae9bcb7410bce0bda616b5e850ccfc14753612f95a25.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 31)
-https://stream.freetv.fun/3405e9bb72355c2bda8dae501cec4dbfb402f4225df810d5643dc58793783542.m3u8
+https://stream.freetv.fun/8627361e487ab4314a40aafbac8d41dc1895c0636b51ac627f694d32aadf90e5.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 32)
-https://stream.freetv.fun/934000425c51d50edc50e8dd48d609d7cf5cea31c296b2a86f780b5acf7434ad.m3u8
+https://stream.freetv.fun/3405e9bb72355c2bda8dae501cec4dbfb402f4225df810d5643dc58793783542.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/31ef39243b79bb4997d7de4cdd1c6babb9131d53bb0c333f4ccb94c9de178298.m3u8
+https://stream.freetv.fun/934000425c51d50edc50e8dd48d609d7cf5cea31c296b2a86f780b5acf7434ad.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 34)
-https://stream.freetv.fun/36638514009ec08528b4761b13a14f0da50b5984fc79e1b2d48398fe0c3562b8.m3u8
+https://stream.freetv.fun/31ef39243b79bb4997d7de4cdd1c6babb9131d53bb0c333f4ccb94c9de178298.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 35)
-https://stream.freetv.fun/c750ee30a144cca8c6ac7c5c694880e60d46e6dc756084042f67b49c3f51d277.m3u8
+https://stream.freetv.fun/36638514009ec08528b4761b13a14f0da50b5984fc79e1b2d48398fe0c3562b8.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 36)
-https://stream.freetv.fun/1bf3c475d1b2af7b92d33c8134825587c885c955507c7a385f183387f30505cf.m3u8
+https://stream.freetv.fun/c750ee30a144cca8c6ac7c5c694880e60d46e6dc756084042f67b49c3f51d277.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 37)
-https://stream.freetv.fun/220190fbb76291005f7129d1553ddad9ecc1d70bceaeca80ca0caef936c06861.m3u8
+https://stream.freetv.fun/1bf3c475d1b2af7b92d33c8134825587c885c955507c7a385f183387f30505cf.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 38)
-https://stream.freetv.fun/d89dc67caadabc802b130e2040f1ded08f8a4cc50a30ec2878de7569bdad21be.m3u8
+https://stream.freetv.fun/220190fbb76291005f7129d1553ddad9ecc1d70bceaeca80ca0caef936c06861.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 39)
 https://stream.freetv.fun/db68a456e97be3bf478378d8ec158b7c24f2cadca4e6717665debd43d11bc076.m3u8
 #EXTINF:-1, 山东卫视(1920x1080) (Backup 40)
@@ -3426,23 +3430,23 @@ https://stream.freetv.fun/3aee65c0cc80d85570f24ea065a78b77f1a197cacbd2fb4c2c1cbd
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 28)
 https://stream.freetv.fun/a1b75e7d5b52b0f5edd659fa655b8158482dbe87663451a2b3ae63e90d54d471.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 29)
-https://stream.freetv.fun/59e467cbe99f9c47c691a2cc25f6dcc063db5bcef353ab65a93de8024219567f.ctv
+https://stream.freetv.fun/554ae367b189947ae22239475d98c79bb561593e27ce8068c1107f250eb67e29.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 30)
-https://stream.freetv.fun/1dfb1c3da920a4f6fb3a92adf7c2131af6270e1305b770f67893168ba434682d.m3u8
+https://stream.freetv.fun/59e467cbe99f9c47c691a2cc25f6dcc063db5bcef353ab65a93de8024219567f.ctv
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 31)
-https://stream.freetv.fun/47de5926fb1e030f03cfb765fd20f20d022f44f221cf37f15a2c29c64502f660.m3u8
+https://stream.freetv.fun/1dfb1c3da920a4f6fb3a92adf7c2131af6270e1305b770f67893168ba434682d.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 32)
-https://stream.freetv.fun/b6927321383b72fd6c2e5bbb85b506cf0ba8e7dec5f5a44e1eb97ea8ed756b43.m3u8
+https://stream.freetv.fun/47de5926fb1e030f03cfb765fd20f20d022f44f221cf37f15a2c29c64502f660.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/9fce399e5ea5d65877b0db48ed8d5ee3e431554002a2b2103a5f62422012e240.m3u8
+https://stream.freetv.fun/b6927321383b72fd6c2e5bbb85b506cf0ba8e7dec5f5a44e1eb97ea8ed756b43.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 34)
-https://stream.freetv.fun/1030125c1822428eedca7e427d10a5718a20be44cb840176ba29c20f89d82e1a.m3u8
+https://stream.freetv.fun/9fce399e5ea5d65877b0db48ed8d5ee3e431554002a2b2103a5f62422012e240.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 35)
-https://stream.freetv.fun/d7583c831514d1afbbbe9b43805f95c6dcff36b61895f2d2e3180bc779db9649.m3u8
+https://stream.freetv.fun/1030125c1822428eedca7e427d10a5718a20be44cb840176ba29c20f89d82e1a.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 36)
-https://stream.freetv.fun/2621fff8256bbfa2eeeb1c1c9345c03a744d9d4a46e623a9a8720739f89a32b0.m3u8
+https://stream.freetv.fun/d7583c831514d1afbbbe9b43805f95c6dcff36b61895f2d2e3180bc779db9649.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 37)
-https://stream.freetv.fun/7f58eaa8048364264a26b34ef48d369820464c387c58f8311f3b9891083d951f.ctv
+https://stream.freetv.fun/2621fff8256bbfa2eeeb1c1c9345c03a744d9d4a46e623a9a8720739f89a32b0.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 38)
 https://stream.freetv.fun/613c2dd04a3376a12ad1b0688f92e26d873ea73d4d20e75999be97bc9e854596.m3u8
 #EXTINF:-1, 广东卫视(1920x1080) (Backup 39)
@@ -3558,18 +3562,20 @@ https://stream.freetv.fun/9b197f10a84e5a16697ed4669f062e2ad9f69c901d933a50b1a6a9
 #EXTINF:-1, 广东珠江(1280x720) (Backup 1)
 https://stream.freetv.fun/bda519d40a214c2bfff9c5a5949d89c7eb82aba6d67a36488b379ed75adb598d.ctv
 #EXTINF:-1 tvg-id="广东珠江(1920x1080)" tvg-name="广东珠江(1920x1080)" group-title="地方台", 广东珠江(1920x1080)
-https://stream.freetv.fun/be8bd9360b70364a0016680ed6b500199b87c48719344e99d444e271eccf9a7f.ctv
+https://stream.freetv.fun/222fab3b029021a3ff1d3c9e3339cff50d650454568304cc55942bc0c48520ec.m3u8
 #EXTINF:-1, 广东珠江(1920x1080) (Backup 1)
-https://stream.freetv.fun/bffa7e99ed8a4cb6782caf409e046c4b7191cd86a11e24cd8785e2b42e77a8b2.ctv
+https://stream.freetv.fun/be8bd9360b70364a0016680ed6b500199b87c48719344e99d444e271eccf9a7f.ctv
 #EXTINF:-1, 广东珠江(1920x1080) (Backup 2)
-https://stream.freetv.fun/3e6fc471258d87a17ee1526507579feb98631b7da463f165b74804463a8da980.ctv
+https://stream.freetv.fun/bffa7e99ed8a4cb6782caf409e046c4b7191cd86a11e24cd8785e2b42e77a8b2.ctv
 #EXTINF:-1, 广东珠江(1920x1080) (Backup 3)
-https://stream.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43adb6dc80aa8.ctv
+https://stream.freetv.fun/3e6fc471258d87a17ee1526507579feb98631b7da463f165b74804463a8da980.ctv
 #EXTINF:-1, 广东珠江(1920x1080) (Backup 4)
-https://stream.freetv.fun/e7045f18df8fa6b98756f4bc5cbd94d0099dd73e9ff3cf359d15d326ee1a733b.m3u8
+https://stream.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43adb6dc80aa8.ctv
 #EXTINF:-1, 广东珠江(1920x1080) (Backup 5)
-https://stream.freetv.fun/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
+https://stream.freetv.fun/e7045f18df8fa6b98756f4bc5cbd94d0099dd73e9ff3cf359d15d326ee1a733b.m3u8
 #EXTINF:-1, 广东珠江(1920x1080) (Backup 6)
+https://stream.freetv.fun/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
+#EXTINF:-1, 广东珠江(1920x1080) (Backup 7)
 https://stream.freetv.fun/9b164640f577980e8f5aea333fee0a60858fa7deaf5da55c5c0e7dc1cc123f77.m3u8
 #EXTINF:-1 tvg-id="广东珠江1080P(1920x1080)" tvg-name="广东珠江1080P(1920x1080)" group-title="地方台", 广东珠江1080P(1920x1080)
 https://stream.freetv.fun/d81a90f10cf479bd729f9546b4256f960c4bacabaab04ac1effabf885e218f30.ctv
@@ -3705,8 +3711,6 @@ https://stream.freetv.fun/271a909ddad66dfa43772cc1417a4dd194422b416fc07c40869e43
 https://stream.freetv.fun/4c867fa060d93364fea14f76352726bd2ebc55be6154220cd9adac87ffdb4728.m3u8
 #EXTINF:-1, 广西卫视(1920x1080) (Backup 30)
 https://stream.freetv.fun/eeb0f67095bd72341e7d6894c1c605b986628afee8f69174845095fc7bff093e.m3u8
-#EXTINF:-1, 广西卫视(1920x1080) (Backup 31)
-https://stream.freetv.fun/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42a72473ba60c.m3u8
 #EXTINF:-1 tvg-id="广西影视(1920x1080)" tvg-name="广西影视(1920x1080)" group-title="地方台", 广西影视(1920x1080)
 https://stream.freetv.fun/4d3bb2803e1e74c4241c0961a01d141457f7d3c230ee21dbb9da772d25f59569.m3u8
 #EXTINF:-1, 广西影视(1920x1080) (Backup 1)
@@ -3897,6 +3901,8 @@ https://stream.freetv.fun/aba239da8f628882fb881c4d34eb04e2521dd6d3fc7a057321adfd
 https://stream.freetv.fun/f54baeec1aef69aba7e263b1c5082b778f1cf19475559c2117ed9ab9fe317249.m3u8
 #EXTINF:-1 tvg-id="新疆卫视(1920x1080)" tvg-name="新疆卫视(1920x1080)" group-title="地方台", 新疆卫视(1920x1080)
 https://stream.freetv.fun/d6840abde0aa2e69f330e183b7121b048d1b6c73114b4cc60203f6e4f1938392.ctv
+#EXTINF:-1, 新疆卫视(1920x1080) (Backup 1)
+https://stream.freetv.fun/708b18d42d1ca63e7f143d0f5b2a22383f9bcd408efba40a7638e1f7c2176e0b.m3u8
 #EXTINF:-1 tvg-id="新疆天山(1280x720)" tvg-name="新疆天山(1280x720)" group-title="地方台", 新疆天山(1280x720)
 https://stream.freetv.fun/864b047c9d6c7a86c4b917c93ea40a5724ec1922337c145942955ab94690c7cb.m3u8
 #EXTINF:-1 tvg-id="新疆天山(1920x1080)" tvg-name="新疆天山(1920x1080)" group-title="地方台", 新疆天山(1920x1080)
@@ -3919,8 +3925,6 @@ https://stream.freetv.fun/e9f46bd9382a75cc97aaa461fe70bc32381de5695413f2d1270fc3
 https://stream.freetv.fun/3c0c3e89643356e166fc8b62b1d7210c9e18aca2a0ff303c6a4b74425bd1d077.m3u8
 #EXTINF:-1 tvg-id="新闻综合(1920x1080)" tvg-name="新闻综合(1920x1080)" group-title="默认", 新闻综合(1920x1080)
 https://stream.freetv.fun/b15ca8c8eccf56990df595ab996e237bea8d78d60312ad61da5559e1fd2c76ac.m3u8
-#EXTINF:-1, 新闻综合(1920x1080) (Backup 1)
-https://stream.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.ctv
 #EXTINF:-1 tvg-id="方城一套新闻综合(1920x1080)" tvg-name="方城一套新闻综合(1920x1080)" group-title="默认", 方城一套新闻综合(1920x1080)
 https://stream.freetv.fun/712c17dd717ab52c4782e80ad0ca1bb541278e980535858ec71b00c9fef2b692.m3u8
 #EXTINF:-1 tvg-id="日照新闻(1280x720)" tvg-name="日照新闻(1280x720)" group-title="默认", 日照新闻(1280x720)
@@ -4192,54 +4196,58 @@ https://stream.freetv.fun/37c608ba4020b4380ed13e30ddf83572600b405110111217451086
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 19)
 https://stream.freetv.fun/e1d3e7a2be45195218765b5e5bae47b78447ea055913c030eca702e8ce456b8a.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 20)
-https://stream.freetv.fun/564c11f78b665c210746b15519d7af15ad41df80757a62126959d26af6120b76.m3u8
+https://stream.freetv.fun/6d110195becaac1cfaebda40684cfb0ba48e2776d28491ebae5adc0cea8bbf64.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 21)
-https://stream.freetv.fun/25793e76da2b3a70cb1983f460e78270b39cc34e1b331a30369f17de2a8cb886.m3u8
+https://stream.freetv.fun/564c11f78b665c210746b15519d7af15ad41df80757a62126959d26af6120b76.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 22)
-https://stream.freetv.fun/25f7fb30789a0f35cce112a0013eefb4beebb6889fe436b489737658ee1a47bc.m3u8
+https://stream.freetv.fun/25793e76da2b3a70cb1983f460e78270b39cc34e1b331a30369f17de2a8cb886.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 23)
-https://stream.freetv.fun/a817f9431b266baa878ad83f5d8dee0868075b1cfceadcfe0a079a1e506fc9a2.m3u8
+https://stream.freetv.fun/c8e54cdb08758ca8dcf5f8c7c1999c02d4c7dd980a1caff72daa02ad684453ef.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 24)
-https://stream.freetv.fun/93be238f04ff73c8b6aaf305ed25450d41d7084f1bd8af53bd4040e5b09a0688.m3u8
+https://stream.freetv.fun/25f7fb30789a0f35cce112a0013eefb4beebb6889fe436b489737658ee1a47bc.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 25)
-https://stream.freetv.fun/b92648cadb25f036ebf123b57a88c945040cadd56347d7419906f322aedfd519.m3u8
+https://stream.freetv.fun/a817f9431b266baa878ad83f5d8dee0868075b1cfceadcfe0a079a1e506fc9a2.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 26)
-https://stream.freetv.fun/b4c1ff5b333c29f4ce0afa83287de974cbe836ef9c9a8d35453adc1063695ad2.m3u8
+https://stream.freetv.fun/93be238f04ff73c8b6aaf305ed25450d41d7084f1bd8af53bd4040e5b09a0688.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 27)
-https://stream.freetv.fun/eb6aa472d71e8bbdc7acb07b5a94da4d4942e39b077ee9581ea92c218e2e5295.m3u8
+https://stream.freetv.fun/b92648cadb25f036ebf123b57a88c945040cadd56347d7419906f322aedfd519.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 28)
-https://stream.freetv.fun/062707cfed9e108a58f7541c68cf390866602e38ba660ce2933590b46317c577.m3u8
+https://stream.freetv.fun/b4c1ff5b333c29f4ce0afa83287de974cbe836ef9c9a8d35453adc1063695ad2.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 29)
-https://stream.freetv.fun/af236d18c00c75749b4ecf0030d398dba80b5787616cf74b70167c8f2ccf7b3d.m3u8
+https://stream.freetv.fun/eb6aa472d71e8bbdc7acb07b5a94da4d4942e39b077ee9581ea92c218e2e5295.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 30)
-https://stream.freetv.fun/bfa445fe879be54e49b3d90225d39ac8bee7fe4d31c8d52816bf1e30705bcd24.m3u8
+https://stream.freetv.fun/062707cfed9e108a58f7541c68cf390866602e38ba660ce2933590b46317c577.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 31)
-https://stream.freetv.fun/41a6482331982badbd017d2b8999c4eb05146431f1178bc0dda6ed31d53cfb17.m3u8
+https://stream.freetv.fun/af236d18c00c75749b4ecf0030d398dba80b5787616cf74b70167c8f2ccf7b3d.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 32)
-https://stream.freetv.fun/a0cc27497e9160e33d3251e47bfc8eaee131065c58475f272167261b911d53e3.m3u8
+https://stream.freetv.fun/bfa445fe879be54e49b3d90225d39ac8bee7fe4d31c8d52816bf1e30705bcd24.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/f78e0470882da42d6a0d07c804b90c56baf1a591c8bf88c04dd8a7b93cc2d3cb.m3u8
+https://stream.freetv.fun/41a6482331982badbd017d2b8999c4eb05146431f1178bc0dda6ed31d53cfb17.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 34)
-https://stream.freetv.fun/1a9bf982e88044dc61c9c6fb0db063b3bcc090c252f1f7f43cfe4cf62b6ec7ce.m3u8
+https://stream.freetv.fun/a0cc27497e9160e33d3251e47bfc8eaee131065c58475f272167261b911d53e3.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 35)
-https://stream.freetv.fun/e61d0b2ff70a89a4a13d126f4fa6bba8faaaf145a78470643dad104f2b23c889.m3u8
+https://stream.freetv.fun/f78e0470882da42d6a0d07c804b90c56baf1a591c8bf88c04dd8a7b93cc2d3cb.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 36)
-https://stream.freetv.fun/fbc49007fb99d2819a0a73166772d98b4e2670f9f5cb47d17dcda356b1891426.m3u8
+https://stream.freetv.fun/1a9bf982e88044dc61c9c6fb0db063b3bcc090c252f1f7f43cfe4cf62b6ec7ce.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 37)
-https://stream.freetv.fun/4b3a79c01c9ae45646cd792c7c7818c22a58ed5cb47262cfd65e9895464207bf.m3u8
+https://stream.freetv.fun/e61d0b2ff70a89a4a13d126f4fa6bba8faaaf145a78470643dad104f2b23c889.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 38)
-https://stream.freetv.fun/257cde70337b6f54e49e911c2c5cc8049c829bdfb7cf2ebde2e4b5c19ecc5246.m3u8
+https://stream.freetv.fun/fbc49007fb99d2819a0a73166772d98b4e2670f9f5cb47d17dcda356b1891426.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 39)
-https://stream.freetv.fun/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
+https://stream.freetv.fun/4b3a79c01c9ae45646cd792c7c7818c22a58ed5cb47262cfd65e9895464207bf.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 40)
-https://stream.freetv.fun/3c400e138a465843c4649277da9e6ae4b996405d5c3421d1009bed70012d3b24.m3u8
+https://stream.freetv.fun/257cde70337b6f54e49e911c2c5cc8049c829bdfb7cf2ebde2e4b5c19ecc5246.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 41)
-https://stream.freetv.fun/6fb99a1b0136554df4ad636f99aa99109be07b603a17713d2cc7263995ef2311.ctv
+https://stream.freetv.fun/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 42)
-https://stream.freetv.fun/ef392bf9864ac65bdcd2d7125f7147c74343cf94350ad89ccbb84ed7885fa217.m3u8
+https://stream.freetv.fun/3c400e138a465843c4649277da9e6ae4b996405d5c3421d1009bed70012d3b24.m3u8
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 43)
-https://stream.freetv.fun/92ecd8819233648ab6c54f003268dffc50ed25c4831e70026554028fa478d561.m3u8
+https://stream.freetv.fun/6fb99a1b0136554df4ad636f99aa99109be07b603a17713d2cc7263995ef2311.ctv
 #EXTINF:-1, 江苏卫视(1920x1080) (Backup 44)
+https://stream.freetv.fun/ef392bf9864ac65bdcd2d7125f7147c74343cf94350ad89ccbb84ed7885fa217.m3u8
+#EXTINF:-1, 江苏卫视(1920x1080) (Backup 45)
+https://stream.freetv.fun/92ecd8819233648ab6c54f003268dffc50ed25c4831e70026554028fa478d561.m3u8
+#EXTINF:-1, 江苏卫视(1920x1080) (Backup 46)
 https://stream.freetv.fun/4766e2f07114295179bf992a944d1464fc9a832f4aea144a5c251ee4d5796a50.m3u8
 #EXTINF:-1 tvg-id="江苏卫视HD(1920x1080)" tvg-name="江苏卫视HD(1920x1080)" group-title="地方台", 江苏卫视HD(1920x1080)
 https://stream.freetv.fun/42da72a703584e826d2e50b1f243bd2e1b20759a7f08f5eb3c8bb769ec2bf9f1.ctv
@@ -4625,8 +4633,6 @@ https://stream.freetv.fun/144e10f91e065b779bb9571521c97da0d0e5de2f047a988acb2afa
 https://stream.freetv.fun/44d1ba0b8b68902f8f4dbefa1eec961d036aa6edbc3b241c1431530b820a9487.m3u8
 #EXTINF:-1, 河北影视(1920x1080) (Backup 6)
 https://stream.freetv.fun/63e02508479556952876d8cb5381dca6e4ec15fd046c55dc80b2d99393d4d126.m3u8
-#EXTINF:-1, 河北影视(1920x1080) (Backup 7)
-https://stream.freetv.fun/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8
 #EXTINF:-1 tvg-id="河北昌黎(1920x1080)" tvg-name="河北昌黎(1920x1080)" group-title="地方台", 河北昌黎(1920x1080)
 https://stream.freetv.fun/d6a8c07bf87d46e805e9c2240b4448e348a49888d1d947b9e09fa19da1bacbe5.ctv
 #EXTINF:-1 tvg-id="河北武汉新闻综合(1280x720)" tvg-name="河北武汉新闻综合(1280x720)" group-title="地方台", 河北武汉新闻综合(1280x720)
@@ -4787,8 +4793,6 @@ https://stream.freetv.fun/48699d7dd8b2828f8aeec2a464c34cb5e43a498106b4c2fd7f3d1a
 https://stream.freetv.fun/88edb00f067e0592f500e4738079acfb9343338232520f8407d89067f043a18e.m3u8
 #EXTINF:-1, 河南卫视(1920x1080) (Backup 41)
 https://stream.freetv.fun/23db28c32ab3480201f1786bd63814a74e07902931ef4aa44300461df3ec1495.m3u8
-#EXTINF:-1, 河南卫视(1920x1080) (Backup 42)
-https://stream.freetv.fun/56a967fa875811bfe29175960ccc4e3ad208b91dda53cfcc0c685ec02af340be.m3u8
 #EXTINF:-1 tvg-id="河南国学(1920x1080)" tvg-name="河南国学(1920x1080)" group-title="地方台", 河南国学(1920x1080)
 https://stream.freetv.fun/d2f1da94440b02d3247dc1b613064d3fa368fc59290a3ede0dcef65dee347a56.ctv
 #EXTINF:-1 tvg-id="河南国际(1920x1080)" tvg-name="河南国际(1920x1080)" group-title="地方台", 河南国际(1920x1080)
@@ -4998,53 +5002,53 @@ https://stream.freetv.fun/fd90943a715ef444a51d820af5f5b8b034a3d7feeeed32ddd143fb
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 31)
 https://stream.freetv.fun/0744106f5f54603b7f1db91932ef190461972e52f097878030d20cebd074e813.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 32)
-https://stream.freetv.fun/1dfb6922fecbbd9c82d3f15f5b70a6fb865e49b80f84b76dcc966132fbf10a33.m3u8
+https://stream.freetv.fun/e9b15e948a83ba5942e37594e61389e25a738e0473a38b0d1d2c9bbab53514f2.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/db58387eb2b7e0907401e1f7f79ea29266e6abef7c6983d12111d06b8cdb4279.m3u8
+https://stream.freetv.fun/1dfb6922fecbbd9c82d3f15f5b70a6fb865e49b80f84b76dcc966132fbf10a33.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 34)
-https://stream.freetv.fun/edd27b8bd5fae6ee1a0c9e9a30fda1b32668739b76209ca222648a02a5fe4b47.m3u8
+https://stream.freetv.fun/db58387eb2b7e0907401e1f7f79ea29266e6abef7c6983d12111d06b8cdb4279.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 35)
-https://stream.freetv.fun/225cae69f135e3220e243e7d07b9728715c948ce2e6125b1cbb2dbeef2c419d2.m3u8
+https://stream.freetv.fun/edd27b8bd5fae6ee1a0c9e9a30fda1b32668739b76209ca222648a02a5fe4b47.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 36)
-https://stream.freetv.fun/6ad7f2957dff4c8e0916441f54e0db0db1285ccff95c8c01d21a79cd5ff42161.m3u8
+https://stream.freetv.fun/225cae69f135e3220e243e7d07b9728715c948ce2e6125b1cbb2dbeef2c419d2.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 37)
-https://stream.freetv.fun/20723e64092cdac739243f7d7d7b5c895ea8eb5cdc24996a8b04881ec27a8813.m3u8
+https://stream.freetv.fun/6ad7f2957dff4c8e0916441f54e0db0db1285ccff95c8c01d21a79cd5ff42161.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 38)
-https://stream.freetv.fun/3eb3d236cb4dd06d03542e877e4b2272f930a6786271041e2cc182c61ceef61c.m3u8
+https://stream.freetv.fun/20723e64092cdac739243f7d7d7b5c895ea8eb5cdc24996a8b04881ec27a8813.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 39)
-https://stream.freetv.fun/ede8d0e16ef81e856490279b4529ff97c39504d4e9b9822f73f06546d54250f9.m3u8
+https://stream.freetv.fun/3eb3d236cb4dd06d03542e877e4b2272f930a6786271041e2cc182c61ceef61c.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 40)
-https://stream.freetv.fun/da9b87138c7645fc85320bcca110d0db11cc3e051515fc85e865ad766c88d336.m3u8
+https://stream.freetv.fun/ede8d0e16ef81e856490279b4529ff97c39504d4e9b9822f73f06546d54250f9.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 41)
-https://stream.freetv.fun/aab1443b762ff1d73ed167bc6fe69275dcf6e87389863d0891323bc317ea98d0.m3u8
+https://stream.freetv.fun/da9b87138c7645fc85320bcca110d0db11cc3e051515fc85e865ad766c88d336.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 42)
-https://stream.freetv.fun/7f280c90c0c7647b6816a25c4b4ec1732c7d84bd85d08cdd5f60489b14d7e33f.m3u8
+https://stream.freetv.fun/aab1443b762ff1d73ed167bc6fe69275dcf6e87389863d0891323bc317ea98d0.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 43)
-https://stream.freetv.fun/c39dfe7834dfa02969cae77ca87e9015409a3a115a2494652c23bc7c6a34d09a.m3u8
+https://stream.freetv.fun/7f280c90c0c7647b6816a25c4b4ec1732c7d84bd85d08cdd5f60489b14d7e33f.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 44)
-https://stream.freetv.fun/3e3f32122c045492c76067958069df98feeb15981dc6071e741f0f6b3e5f8717.m3u8
+https://stream.freetv.fun/c39dfe7834dfa02969cae77ca87e9015409a3a115a2494652c23bc7c6a34d09a.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 45)
-https://stream.freetv.fun/684376a6194a203a589e0d3507e50306093a681047673968c2bce8ff573f366a.m3u8
+https://stream.freetv.fun/3e3f32122c045492c76067958069df98feeb15981dc6071e741f0f6b3e5f8717.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 46)
-https://stream.freetv.fun/8f19ffa80587df7ce12caae69cfd3dc322e239a02f081eaf7991f5b3d994ae6f.m3u8
+https://stream.freetv.fun/684376a6194a203a589e0d3507e50306093a681047673968c2bce8ff573f366a.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 47)
-https://stream.freetv.fun/18109b1804a4d4c8acd2a83f3256b7495a047d7f5cf918ef92febd030933bfc2.m3u8
+https://stream.freetv.fun/8f19ffa80587df7ce12caae69cfd3dc322e239a02f081eaf7991f5b3d994ae6f.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 48)
-https://stream.freetv.fun/34fc3266d2d9c1ade142379c5fea00099374808c93233d10c47a397847ef4ef1.m3u8
+https://stream.freetv.fun/18109b1804a4d4c8acd2a83f3256b7495a047d7f5cf918ef92febd030933bfc2.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 49)
-https://stream.freetv.fun/270dd74ef290f8154afbcbc0b982707d0fce081500bf26a125c78bc9637162fa.m3u8
+https://stream.freetv.fun/34fc3266d2d9c1ade142379c5fea00099374808c93233d10c47a397847ef4ef1.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 50)
-https://stream.freetv.fun/dbca62818851739e3644da5dc0e9bd335d78256c242d371149dcbcc55883939c.m3u8
+https://stream.freetv.fun/270dd74ef290f8154afbcbc0b982707d0fce081500bf26a125c78bc9637162fa.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 51)
-https://stream.freetv.fun/971714a602d52cdfc19cf665add0e39c4baeefc8e2bb6e6b7edd81f9683147da.m3u8
+https://stream.freetv.fun/dbca62818851739e3644da5dc0e9bd335d78256c242d371149dcbcc55883939c.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 52)
-https://stream.freetv.fun/3112d79bd3c92202fececaa54174176210df127765c387ac3e572b22e719fadf.m3u8
+https://stream.freetv.fun/971714a602d52cdfc19cf665add0e39c4baeefc8e2bb6e6b7edd81f9683147da.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 53)
-https://stream.freetv.fun/f3e2be09d78572108f0dc1fae78ea5f728f20a9ffb6ff0afc4835d2fded6a23e.m3u8
+https://stream.freetv.fun/3112d79bd3c92202fececaa54174176210df127765c387ac3e572b22e719fadf.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 54)
-https://stream.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.m3u8
+https://stream.freetv.fun/f3e2be09d78572108f0dc1fae78ea5f728f20a9ffb6ff0afc4835d2fded6a23e.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 55)
-https://stream.freetv.fun/68f3157a7fc4f93e997642ba9ec0d1ef6563ffeb5663c4dbe01e1d1722fffe21.m3u8
+https://stream.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.m3u8
 #EXTINF:-1, 浙江卫视(1920x1080) (Backup 56)
 https://stream.freetv.fun/24779b89b8a011eb65ed7ed5fe7ac97153fb377de4c7259f39be8dde3bed2b48.m3u8
 #EXTINF:-1 tvg-id="浙江卫视HD(1920x1080)" tvg-name="浙江卫视HD(1920x1080)" group-title="地方台", 浙江卫视HD(1920x1080)
@@ -5186,8 +5190,10 @@ https://stream.freetv.fun/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17
 #EXTINF:-1 tvg-id="海南卫视(1280x720)" tvg-name="海南卫视(1280x720)" group-title="地方台", 海南卫视(1280x720)
 https://stream.freetv.fun/5f566bda63c98eaf917eb753437fd72546c9015a8495c02c3033d4185b2e560d.ctv
 #EXTINF:-1, 海南卫视(1280x720) (Backup 1)
-https://stream.freetv.fun/f31dd2475f21880b0a0d78b7c99d9091e57484a5b58c366a4969c2cfb868c593.ctv
+https://stream.freetv.fun/d5a8955e54357ba9337fc04c57f559f36098a3cfd81ee64a92e26ee18b098c12.m3u8
 #EXTINF:-1, 海南卫视(1280x720) (Backup 2)
+https://stream.freetv.fun/f31dd2475f21880b0a0d78b7c99d9091e57484a5b58c366a4969c2cfb868c593.ctv
+#EXTINF:-1, 海南卫视(1280x720) (Backup 3)
 https://stream.freetv.fun/c2050143891ad65886901531fce3a60bd082cf1d043bd0e8cdbef961ee74657e.m3u8
 #EXTINF:-1 tvg-id="海南卫视(1920x1080)" tvg-name="海南卫视(1920x1080)" group-title="地方台", 海南卫视(1920x1080)
 https://stream.freetv.fun/c07f118cdd595588f817c5025f96202d77a8a69fc1ab1354580d08871cdd0b6e.m3u8
@@ -5518,20 +5524,16 @@ https://stream.freetv.fun/49a8f1a9ca74606d5a2bec82b33dddf1f1cc78ce7d4f6337c44ba3
 #EXTINF:-1, 湖北卫视(1920x1080) (Backup 43)
 https://stream.freetv.fun/a0f73ea668a9a3a9300b9e8588af505375a0cc768d59a516d8cc42a93d628830.m3u8
 #EXTINF:-1, 湖北卫视(1920x1080) (Backup 44)
-https://stream.freetv.fun/37aa38a997eb8e568186fad85670c3a3a6684361c2b038c5cd0d0835216f299b.m3u8
-#EXTINF:-1, 湖北卫视(1920x1080) (Backup 45)
-https://stream.freetv.fun/ad8be29660967de48104cbb5d876a9433f1f631482a401cb0a30e263ce9f339c.m3u8
-#EXTINF:-1, 湖北卫视(1920x1080) (Backup 46)
 https://stream.freetv.fun/11a27a1eb12a1c6020ea2f80804d50db752fbd4c2c7cf3c456dd309d9033a98c.m3u8
-#EXTINF:-1, 湖北卫视(1920x1080) (Backup 47)
+#EXTINF:-1, 湖北卫视(1920x1080) (Backup 45)
 https://stream.freetv.fun/6aff3893ee6418761dc774fed7f23225c48284023d19eefb1678b01721c13fc0.m3u8
-#EXTINF:-1, 湖北卫视(1920x1080) (Backup 48)
+#EXTINF:-1, 湖北卫视(1920x1080) (Backup 46)
 https://stream.freetv.fun/3298477c4c8d437c353cadb2782404ba26df186e50ae7684666aa6670268fea8.m3u8
-#EXTINF:-1, 湖北卫视(1920x1080) (Backup 49)
+#EXTINF:-1, 湖北卫视(1920x1080) (Backup 47)
 https://stream.freetv.fun/622bdb14c81d58a5d35bce8ec1e1d77b9bc0a6986148e1d0eff2bffd552c9b88.m3u8
-#EXTINF:-1, 湖北卫视(1920x1080) (Backup 50)
+#EXTINF:-1, 湖北卫视(1920x1080) (Backup 48)
 https://stream.freetv.fun/49cc9ebf993e11022d8267050fcb838287ecb0537db193396d55c45227429b44.m3u8
-#EXTINF:-1, 湖北卫视(1920x1080) (Backup 51)
+#EXTINF:-1, 湖北卫视(1920x1080) (Backup 49)
 https://stream.freetv.fun/2cadff68f8e06b03d10536121b2764ac658a8cb451d1901107c2039ac49a6757.m3u8
 #EXTINF:-1 tvg-id="湖北卫视HD(1920x1080)" tvg-name="湖北卫视HD(1920x1080)" group-title="地方台", 湖北卫视HD(1920x1080)
 https://stream.freetv.fun/48fc8cf9e8fe72637e428ff90cf2c74d27aa76c1c6b9593c3b4473da25fb38de.ctv
@@ -5728,10 +5730,8 @@ https://stream.freetv.fun/178c8c1ddfb1636baa0cfd16ae47ad25451c023870063fe38be74c
 #EXTINF:-1, 湖南卫视(1920x1080) (Backup 54)
 https://stream.freetv.fun/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8
 #EXTINF:-1, 湖南卫视(1920x1080) (Backup 55)
-https://stream.freetv.fun/f4c5751c2f6c00be6eab4336cf2fae6507e385aa7af2ce8e657249ce22662898.m3u8
-#EXTINF:-1, 湖南卫视(1920x1080) (Backup 56)
 https://stream.freetv.fun/1dd17a1610c491e0f1348b41e1e53490314bfd67b6604e86c17cda6fed0630ac.m3u8
-#EXTINF:-1, 湖南卫视(1920x1080) (Backup 57)
+#EXTINF:-1, 湖南卫视(1920x1080) (Backup 56)
 https://stream.freetv.fun/672a48e9377f01e65fc0292606274042b12ef6c5c09a405a21258ff22e9e5ca9.m3u8
 #EXTINF:-1 tvg-id="湖南卫视高清(1920x1080)" tvg-name="湖南卫视高清(1920x1080)" group-title="地方台", 湖南卫视高清(1920x1080)
 https://stream.freetv.fun/f51b2b1a02ed9a80ef9deabd61381bed465aa665901bb78a8affebf15afa11fe.m3u8
@@ -5796,10 +5796,12 @@ https://stream.freetv.fun/44d843580a1d921fec7a408a79defdc3860cf484437e90948e014f
 #EXTINF:-1 tvg-id="湖南爱晚(1280x720)" tvg-name="湖南爱晚(1280x720)" group-title="地方台", 湖南爱晚(1280x720)
 https://stream.freetv.fun/2425b0d07ad9e1afca351e10e293287e9fd85614ccfce0272a8165477fd70865.m3u8
 #EXTINF:-1 tvg-id="湖南爱晚(1920x1080)" tvg-name="湖南爱晚(1920x1080)" group-title="地方台", 湖南爱晚(1920x1080)
-https://stream.freetv.fun/b0c099623778c509963cc2de0d58901e08c61dd23dad932c3b28ec113acf3f48.m3u8
+https://stream.freetv.fun/6c7591bab2ab0882a9d54b67b876a5755873b4261a353919c2073141263495b3.m3u8
 #EXTINF:-1, 湖南爱晚(1920x1080) (Backup 1)
-https://stream.freetv.fun/350c8a6f1b02e7359480b151de67109f361f8d86061fa3bc15b7bb49cd15fda1.m3u8
+https://stream.freetv.fun/b0c099623778c509963cc2de0d58901e08c61dd23dad932c3b28ec113acf3f48.m3u8
 #EXTINF:-1, 湖南爱晚(1920x1080) (Backup 2)
+https://stream.freetv.fun/350c8a6f1b02e7359480b151de67109f361f8d86061fa3bc15b7bb49cd15fda1.m3u8
+#EXTINF:-1, 湖南爱晚(1920x1080) (Backup 3)
 https://stream.freetv.fun/883c914486770e67a9c9f2333d5a9d4a2bd3eed69af1ae129a4bf2973f0ac911.m3u8
 #EXTINF:-1 tvg-id="湖南电影(1280x720)" tvg-name="湖南电影(1280x720)" group-title="地方台", 湖南电影(1280x720)
 https://stream.freetv.fun/e6fa77a96caae088e3f2b97e005ee4f4159ef6df6297132ba14ef741a5b571b3.m3u8
@@ -6384,10 +6386,8 @@ https://stream.freetv.fun/6a085e3c0744bd2ccd3743430b186afa53a8307566d5dbb8b40473
 #EXTINF:-1, 贵州卫视(1920x1080) (Backup 32)
 https://stream.freetv.fun/31fa41261f35a08c21f6201ebfc61bd5b122da71f06d8143c01a8c5105ca4b6b.m3u8
 #EXTINF:-1, 贵州卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/e13a733d71909c099105dc02358fb67f3341c94c0e0ac38a79f77b21462e6eda.m3u8
-#EXTINF:-1, 贵州卫视(1920x1080) (Backup 34)
 https://stream.freetv.fun/a43abffb48733277301316b698ef3c9f0205676eace17d52075157b05b76877b.m3u8
-#EXTINF:-1, 贵州卫视(1920x1080) (Backup 35)
+#EXTINF:-1, 贵州卫视(1920x1080) (Backup 34)
 https://stream.freetv.fun/312ad11b90b9c160ab27f6d44a5fb7b97bcd98c4f1f7c4c3f253320636a2d230.m3u8
 #EXTINF:-1 tvg-id="贵州卫视HD(1920x1080)" tvg-name="贵州卫视HD(1920x1080)" group-title="地方台", 贵州卫视HD(1920x1080)
 https://stream.freetv.fun/381cee5daf8ce59da507012f1fc831535bff58c391bec83453d25b4e64554509.ctv
@@ -6682,43 +6682,43 @@ https://stream.freetv.fun/85fc4a2baedb969b12f4e4458636a0faaf8cba3e4b756276ce6671
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 20)
 https://stream.freetv.fun/f0c771c1b7ea83b4c4df76ec91e316b580b89fd617821dae0c079d0a6a0632a9.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 21)
-https://stream.freetv.fun/3518c19b7d72af3bf818a6db52c47cad14bc2d628e5bf15e88d0dc1b1cce39b8.m3u8
+https://stream.freetv.fun/e7491b5ef84b535eb6674d6351da23e3aee0c560b91498d8b21d0e83ec7123f4.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 22)
-https://stream.freetv.fun/d3380f0b16a792f07187c790b1f375dab63d95922e109c48362f14c136e8f9b4.m3u8
+https://stream.freetv.fun/3518c19b7d72af3bf818a6db52c47cad14bc2d628e5bf15e88d0dc1b1cce39b8.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 23)
-https://stream.freetv.fun/c72f84278b832bcfd46c00f06205712127958af17226d7f200bc87ac10710657.m3u8
+https://stream.freetv.fun/d3380f0b16a792f07187c790b1f375dab63d95922e109c48362f14c136e8f9b4.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 24)
-https://stream.freetv.fun/78a051a342a71df81fa41fb6618485b90892cc78d2a2f2f70e5a73791d190fe8.m3u8
+https://stream.freetv.fun/c72f84278b832bcfd46c00f06205712127958af17226d7f200bc87ac10710657.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 25)
-https://stream.freetv.fun/c9de88d70a89323809e4369f019c1f040903bbbfc5a6bbb217aea961a82f7f8b.m3u8
+https://stream.freetv.fun/78a051a342a71df81fa41fb6618485b90892cc78d2a2f2f70e5a73791d190fe8.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 26)
-https://stream.freetv.fun/b4801973b5bc2b3a7c722ba0e558ec65e33e120e9af94f046b548bf033c652ea.m3u8
+https://stream.freetv.fun/c9de88d70a89323809e4369f019c1f040903bbbfc5a6bbb217aea961a82f7f8b.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 27)
-https://stream.freetv.fun/89737c8768d3b323ee99d0b08e5816e49535860be07cff293b5a480c4e9ab152.m3u8
+https://stream.freetv.fun/b4801973b5bc2b3a7c722ba0e558ec65e33e120e9af94f046b548bf033c652ea.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 28)
-https://stream.freetv.fun/fbf3f2cbad662cf57174cc207e39d5099a715c4f6af7906df3272ba385a2f00c.m3u8
+https://stream.freetv.fun/89737c8768d3b323ee99d0b08e5816e49535860be07cff293b5a480c4e9ab152.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 29)
-https://stream.freetv.fun/2285ab5ae7c4e7701d2a8aa3166efb9964c5b47e2089f118925e6bd0114601c9.m3u8
+https://stream.freetv.fun/fbf3f2cbad662cf57174cc207e39d5099a715c4f6af7906df3272ba385a2f00c.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 30)
-https://stream.freetv.fun/08193c8d2d4abd902ecd8da63d50465cff995678dba352d2f688f4ec84c5f68d.m3u8
+https://stream.freetv.fun/2285ab5ae7c4e7701d2a8aa3166efb9964c5b47e2089f118925e6bd0114601c9.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 31)
-https://stream.freetv.fun/5d6f8a391f1069359cbdb118d6bcbae5eaf1496658e39b668e2d29fc5c91bad9.m3u8
+https://stream.freetv.fun/08193c8d2d4abd902ecd8da63d50465cff995678dba352d2f688f4ec84c5f68d.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 32)
-https://stream.freetv.fun/ef5c5ff1feb9a93978d86c3cff73e02152ac9e9f747a3b369867653b3cc6672d.m3u8
+https://stream.freetv.fun/5d6f8a391f1069359cbdb118d6bcbae5eaf1496658e39b668e2d29fc5c91bad9.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 33)
-https://stream.freetv.fun/f086c767304aa159b2fabd7242210345a74838560a7016e8b06b107a024682e5.m3u8
+https://stream.freetv.fun/ef5c5ff1feb9a93978d86c3cff73e02152ac9e9f747a3b369867653b3cc6672d.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 34)
-https://stream.freetv.fun/e0bf6964d3e369d7c7a570dae78ea3476b66f02fe8c0f2670847f96cab05ce89.m3u8
+https://stream.freetv.fun/f086c767304aa159b2fabd7242210345a74838560a7016e8b06b107a024682e5.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 35)
-https://stream.freetv.fun/d7f394c967b93741b4ac57ce7cb72463f9da0d535753f355a3b16d7c2b1331a2.m3u8
+https://stream.freetv.fun/e0bf6964d3e369d7c7a570dae78ea3476b66f02fe8c0f2670847f96cab05ce89.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 36)
-https://stream.freetv.fun/ceedcbb7adf9d8b1421a8956c1436267ed01764ea26bec06d2658b7123b8adcf.m3u8
+https://stream.freetv.fun/d7f394c967b93741b4ac57ce7cb72463f9da0d535753f355a3b16d7c2b1331a2.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 37)
-https://stream.freetv.fun/bb04cf3c5dd759d4ff3784a39617f5420b570e0464db587458b3196430b09e94.m3u8
+https://stream.freetv.fun/ceedcbb7adf9d8b1421a8956c1436267ed01764ea26bec06d2658b7123b8adcf.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 38)
-https://stream.freetv.fun/0d2429c7e09cf4c6753cd0782edbe7ad2e0567eb6bf3bbfafd7171035e5f73d5.m3u8
+https://stream.freetv.fun/bb04cf3c5dd759d4ff3784a39617f5420b570e0464db587458b3196430b09e94.m3u8
 #EXTINF:-1, 重庆卫视(1920x1080) (Backup 39)
-https://stream.freetv.fun/c670bd09c70e16f7f37bbf2703a224f91f86bb3358a174044a13ff9c8cb1d4fb.m3u8
+https://stream.freetv.fun/0d2429c7e09cf4c6753cd0782edbe7ad2e0567eb6bf3bbfafd7171035e5f73d5.m3u8
 #EXTINF:-1 tvg-id="重庆卫视HD(1920x1080)" tvg-name="重庆卫视HD(1920x1080)" group-title="地方台", 重庆卫视HD(1920x1080)
 https://stream.freetv.fun/cc65e0f75bd5bf736f20b33121f3a9162f74042186a049f55cc2074c9d697639.ctv
 #EXTINF:-1 tvg-id="金乡生活(1920x1080)" tvg-name="金乡生活(1920x1080)" group-title="默认", 金乡生活(1920x1080)
@@ -7048,8 +7048,10 @@ https://stream.freetv.fun/454d92bbb7a3cd624225e35638e81a754cffe8fac9ffd2bb1b5ca9
 #EXTINF:-1, 黑龙江卫视 (IPV6)(1920x1080) (Backup 22)
 https://stream.freetv.fun/0d44ee99e0aebb0bdb18de41c7c8923f18473f638ed0eb4139d665cd5e3d2a15.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视(1280x720)" tvg-name="黑龙江卫视(1280x720)" group-title="地方台", 黑龙江卫视(1280x720)
-https://stream.freetv.fun/0eeff132651adc73a935c01f88939209db16d78d1dbc65ee6ca439d879d1a0f9.ctv
+https://stream.freetv.fun/f85f51d74f8baf8ccd0033ba1293a87e1227abc63ff92257ea998a21b930799a.m3u8
 #EXTINF:-1, 黑龙江卫视(1280x720) (Backup 1)
+https://stream.freetv.fun/0eeff132651adc73a935c01f88939209db16d78d1dbc65ee6ca439d879d1a0f9.ctv
+#EXTINF:-1, 黑龙江卫视(1280x720) (Backup 2)
 https://stream.freetv.fun/91f980623df2d6f6e2bdc1ade976bc8930d4e6cad8e116fd5f3c6fe91e60345c.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视(1920x1080)" tvg-name="黑龙江卫视(1920x1080)" group-title="地方台", 黑龙江卫视(1920x1080)
 https://stream.freetv.fun/c7bbd4a65e87bc37e2eb1133e367259cf105c34934e54061f4410f9a320d724e.m3u8
@@ -7140,8 +7142,6 @@ https://stream.freetv.fun/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf
 #EXTINF:-1, 黑龙江卫视(1920x1080) (Backup 43)
 https://stream.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv
 #EXTINF:-1, 黑龙江卫视(1920x1080) (Backup 44)
-https://stream.freetv.fun/008e6483219cd7a47f9f84104951ed460bffafb8d8dae434adbd10952e4b35b4.m3u8
-#EXTINF:-1, 黑龙江卫视(1920x1080) (Backup 45)
 https://stream.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视HD(1920x1080)" tvg-name="黑龙江卫视HD(1920x1080)" group-title="地方台", 黑龙江卫视HD(1920x1080)
 https://stream.freetv.fun/62a1e8a95c54e84ab7d27299d61531886cc8f4e32698d7acc0aee9edea4aecbe.ctv
