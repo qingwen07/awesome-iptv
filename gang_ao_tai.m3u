@@ -161,7 +161,7 @@ https://stream1.freetv.fun/7aee499ca94e0799a039594ad57e69ae516ba59a3f69cb5c161a2
 https://stream1.freetv.fun/e7b8eeab3d467eb2221645efc76ef27d126c7de745fa1d35df7853aa44c773e7.m3u8
 #EXTINF:-1 tvg-id="CLUBBINGTV(1280x720)" tvg-name="CLUBBINGTV(1280x720)" group-title="港澳台", CLUBBINGTV(1280x720)
 https://stream1.freetv.fun/6adef627c4276c8491700c07b9d543398d257ed4d43ec0604d470b6a272254b4.m3u8
-#EXTINF:-1 tvg-id="FGTV(1920x1080)" tvg-name="FGTV(1920x1080)" group-title="港澳台", FGTV(1920x1080)
+#EXTINF:-1 tvg-id="FGTV(1280x720)" tvg-name="FGTV(1280x720)" group-title="港澳台", FGTV(1280x720)
 https://stream1.freetv.fun/f6918f8a3eb1d891272c8f5bc364851642b06131cf1cfc428ace89bc513fc246.m3u8
 #EXTINF:-1 tvg-id="HGTV HD(1280x720)" tvg-name="HGTV HD(1280x720)" group-title="港澳台", HGTV HD(1280x720)
 https://stream1.freetv.fun/78ebdf0f15e7b0caafdfe801ca5af7a9cd645d18047076b31a11e84f1b1fce8f.m3u8
@@ -445,8 +445,6 @@ https://stream1.freetv.fun/232ed84b5006dabf9be23d99e0990b3f7088419b4907066362ee7
 https://stream1.freetv.fun/d0735558e1a216ef30c8398ae4159a1ead7e5137103fa1993fa7d3153ed277aa.ctv
 #EXTINF:-1 tvg-id="中天新闻(1280x720)" tvg-name="中天新闻(1280x720)" group-title="港澳台", 中天新闻(1280x720)
 https://stream1.freetv.fun/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.ctv
-#EXTINF:-1 tvg-id="中天新闻(1920x1080)" tvg-name="中天新闻(1920x1080)" group-title="港澳台", 中天新闻(1920x1080)
-https://stream1.freetv.fun/cbc18c441841a3f6774b895ef560a5d3e5d21ef76b9ae56ba73af893a29862cb.m3u8
 #EXTINF:-1 tvg-id="中天综合(1280x720)" tvg-name="中天综合(1280x720)" group-title="港澳台", 中天综合(1280x720)
 https://stream1.freetv.fun/4a92b03b34ab56a0cf1eda05967db956d17969948b5befeb82a6144e48aaf113.ctv
 #EXTINF:-1 tvg-id="中視 新聞(1920x1080)" tvg-name="中視 新聞(1920x1080)" group-title="港澳台", 中視 新聞(1920x1080)
@@ -827,8 +825,6 @@ https://stream1.freetv.fun/98ce2031e2af9a2faabaa615940eb33e11a656b6db9cfb217b5cd
 https://stream1.freetv.fun/60cbbce92cbc86d9cd9050d40fc5fc84c0ec7f748c263f931dc604f1b1562b75.ctv
 #EXTINF:-1 tvg-id="扁豆看電影2(1920x1080)" tvg-name="扁豆看電影2(1920x1080)" group-title="电影", 扁豆看電影2(1920x1080)
 https://stream1.freetv.fun/5d68966337dc9b154aabfd8e56e22e115b96cba73a4e5c0694c8d38da20cd0bc.ctv
-#EXTINF:-1 tvg-id="探秘中华美食(1280x720)" tvg-name="探秘中华美食(1280x720)" group-title="港澳台", 探秘中华美食(1280x720)
-https://stream1.freetv.fun/b2b678bcff1ff70dee821eb979c0dab461487715fd1e43ddb358afbc63f6898e.ctv
 #EXTINF:-1 tvg-id="曉傑侃電影(1280x720)" tvg-name="曉傑侃電影(1280x720)" group-title="电影", 曉傑侃電影(1280x720)
 https://stream1.freetv.fun/62655cefd9116e8f55bd63f6f35ddb7a7f7e8343bff658ddb47969c5a46bc29c.ctv
 #EXTINF:-1 tvg-id="月色說電影(1920x1080)" tvg-name="月色說電影(1920x1080)" group-title="电影", 月色說電影(1920x1080)
@@ -931,8 +927,6 @@ https://stream1.freetv.fun/48de653cc800e21b30fba59555a8c4696da972c895c29e5612006
 https://stream1.freetv.fun/06cfd8e823da9c45c37579cf46408f1e6707bf7f6a3a7ca12060d74de4195a3c.ctv
 #EXTINF:-1 tvg-id="舌尖上的中国第2季(1280x720)" tvg-name="舌尖上的中国第2季(1280x720)" group-title="港澳台", 舌尖上的中国第2季(1280x720)
 https://stream1.freetv.fun/041667bc14e04bc3653c4832f07b570b2ea396facdd2f7a162dcef3b25c0a8a2.ctv
-#EXTINF:-1 tvg-id="舌尖上的中国第2季(1280x720) (Backup 1)" tvg-name="舌尖上的中国第2季(1280x720) (Backup 1)" group-title="港澳台", 舌尖上的中国第2季(1280x720) (Backup 1)
-https://stream1.freetv.fun/ba536d07dad89fdd615575adb5c09d835f6f9be989bb3b45e7135aa2cdd95f85.ctv
 #EXTINF:-1 tvg-id="船長電影解說(1920x1080)" tvg-name="船長電影解說(1920x1080)" group-title="电影", 船長電影解說(1920x1080)
 https://stream1.freetv.fun/b1992ea2dd01bdbda63ced72f606ab608e95d78f5e10b3aacd194a67a641bed4.ctv
 #EXTINF:-1 tvg-id="虎妞說電影(1920x1080)" tvg-name="虎妞說電影(1920x1080)" group-title="电影", 虎妞說電影(1920x1080)
