@@ -389,8 +389,6 @@ https://stream1.freetv.fun/b06fdbb723b74c14d982965c4ab7147afdca6f38051b622f3330a
 https://stream1.freetv.fun/9a69bc135d63a10f5ab58b344848aab4838926cb531453edb28273719286f168.ctv
 #EXTINF:-1 tvg-id="三口看電影(1920x1080)" tvg-name="三口看電影(1920x1080)" group-title="电影", 三口看電影(1920x1080)
 https://stream1.freetv.fun/bc2414bb2300d7053c00f6b9a0fab800447d56da2b5f767654e7c285c3022420.ctv
-#EXTINF:-1 tvg-id="三立 新聞(1920x1080)" tvg-name="三立 新聞(1920x1080)" group-title="港澳台", 三立 新聞(1920x1080)
-https://stream1.freetv.fun/54fb2206910b62cd27cbaee569c332f6301795188cda97c9db3bd2ff93100069.m3u8
 #EXTINF:-1 tvg-id="三立台湾 SANLI TAIWAN(1920x1080)" tvg-name="三立台湾 SANLI TAIWAN(1920x1080)" group-title="港澳台", 三立台湾 SANLI TAIWAN(1920x1080)
 https://stream1.freetv.fun/aeaf906855f13256f7b6cc58a89bc41f14c23c21306871b2f2f8caf57b9e1aec.ctv
 #EXTINF:-1 tvg-id="三立戏剧(1280x720)" tvg-name="三立戏剧(1280x720)" group-title="港澳台", 三立戏剧(1280x720)
@@ -485,8 +483,6 @@ https://stream1.freetv.fun/8e6ad7c95be71b5080d2603ab8ce94a369f791cf88e81fc31cc17
 https://stream1.freetv.fun/a85afeb84946b75b6fcd44371c0b6d41636531a1975abed39ca02845773c2c9f.m3u8
 #EXTINF:-1 tvg-id="中国蓝新闻(1920x1080) (Backup 1)" tvg-name="中国蓝新闻(1920x1080) (Backup 1)" group-title="港澳台", 中国蓝新闻(1920x1080) (Backup 1)
 https://stream1.freetv.fun/75c010775991f8f79f3db4a242b28e11eb2aa309adaa25d6a378e62843ad9d3c.m3u8
-#EXTINF:-1 tvg-id="中天 亚洲(1920x1080)" tvg-name="中天 亚洲(1920x1080)" group-title="港澳台", 中天 亚洲(1920x1080)
-https://stream1.freetv.fun/7f7b0229858041b2c63feea70daf720a04a8f402a65a99cfb11ded6b410d4868.m3u8
 #EXTINF:-1 tvg-id="中天亚洲(1280x720)" tvg-name="中天亚洲(1280x720)" group-title="港澳台", 中天亚洲(1280x720)
 https://stream1.freetv.fun/b909b3a3128688914bef8d2109f8a2164390a0b5ac3534a83de277ece5a86987.ctv
 #EXTINF:-1 tvg-id="中天亚洲(1280x720) (Backup 1)" tvg-name="中天亚洲(1280x720) (Backup 1)" group-title="港澳台", 中天亚洲(1280x720) (Backup 1)
@@ -513,8 +509,6 @@ https://stream1.freetv.fun/cbc18c441841a3f6774b895ef560a5d3e5d21ef76b9ae56ba73af
 https://stream1.freetv.fun/d8750f65227611ab8d027398b1f34fae0b20e23715802147df4d93b20a22e5d1.ctv
 #EXTINF:-1 tvg-id="中天综合(1280x720)" tvg-name="中天综合(1280x720)" group-title="港澳台", 中天综合(1280x720)
 https://stream1.freetv.fun/4a92b03b34ab56a0cf1eda05967db956d17969948b5befeb82a6144e48aaf113.ctv
-#EXTINF:-1 tvg-id="中視 新聞(1920x1080)" tvg-name="中視 新聞(1920x1080)" group-title="港澳台", 中視 新聞(1920x1080)
-https://stream1.freetv.fun/2fd7329a67d08612856508489405b45f1847cbbf58f2386c2567c09bd87d47e1.m3u8
 #EXTINF:-1 tvg-id="中視(1280x720)" tvg-name="中視(1280x720)" group-title="港澳台", 中視(1280x720)
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="二哥說電影(1920x1080)" tvg-name="二哥說電影(1920x1080)" group-title="电影", 二哥說電影(1920x1080)
@@ -651,8 +645,6 @@ rtmp://f13h.mine.nu/sat/tv111
 https://stream1.freetv.fun/e0794b3d5e46e8ff5e8bc1fd146c10be6286d61bca41d587ffcb0e35ed07cbe9.ctv
 #EXTINF:-1 tvg-id="可樂撩電影(1280x720)" tvg-name="可樂撩電影(1280x720)" group-title="电影", 可樂撩電影(1280x720)
 https://stream1.freetv.fun/8a8a4cb3bd54e63879706eb02af31eac28e38cce685f7967ab10cbdb658ab547.ctv
-#EXTINF:-1 tvg-id="台視 新聞(1920x1080)" tvg-name="台視 新聞(1920x1080)" group-title="港澳台", 台視 新聞(1920x1080)
-https://stream1.freetv.fun/a87692d60b01e026cacfb1167f0269fb48350345de289a29dce212320e5aa9fa.m3u8
 #EXTINF:-1 tvg-id="台視新聞(1920x1080)" tvg-name="台視新聞(1920x1080)" group-title="港澳台", 台視新聞(1920x1080)
 https://stream1.freetv.fun/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
 #EXTINF:-1 tvg-id="吾聊電影(1920x1080)" tvg-name="吾聊電影(1920x1080)" group-title="电影", 吾聊電影(1920x1080)
@@ -919,8 +911,6 @@ https://stream1.freetv.fun/785785ce71f1b777aa6894af7298f29a94dc735d4d35f65a53b0d
 https://stream1.freetv.fun/0961504bd5efa732065ddeb2fd00b75e230c4db3c6a331e5ce517f1b21ce67ae.ctv
 #EXTINF:-1 tvg-id="正經說電影(1280x720)" tvg-name="正經說電影(1280x720)" group-title="电影", 正經說電影(1280x720)
 https://stream1.freetv.fun/a2c10e60535cded925ea648e3e718d336a1456b8babd33f99cf4ae896c751d59.ctv
-#EXTINF:-1 tvg-id="民視 新聞(1920x1080)" tvg-name="民視 新聞(1920x1080)" group-title="港澳台", 民視 新聞(1920x1080)
-https://stream1.freetv.fun/aa2a5c0d74d32a61e4db3dfe576ca481e8363abc6d36098a05555639607948d9.m3u8
 #EXTINF:-1 tvg-id="民視(1280x720)" tvg-name="民視(1280x720)" group-title="港澳台", 民視(1280x720)
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-id="民視新聞(1920x1080)" tvg-name="民視新聞(1920x1080)" group-title="港澳台", 民視新聞(1920x1080)
