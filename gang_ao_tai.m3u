@@ -48,10 +48,8 @@ https://stream1.freetv.fun/a5b9b05e290a727caf56e743c3a554ec0e6f80cdb3493998b08d4
 #EXTINF:-1 tvg-id="ASTRO MTV(1280x720)" tvg-name="ASTRO MTV(1280x720)" group-title="港澳台", ASTRO MTV(1280x720)
 https://stream1.freetv.fun/0ec36bf5528899342072ffa25c2bdaf3f25685048a088ec5070dd5b152fd97f9.ctv
 #EXTINF:-1 tvg-id="ASTRO OASIS(1280x720)" tvg-name="ASTRO OASIS(1280x720)" group-title="港澳台", ASTRO OASIS(1280x720)
-https://stream1.freetv.fun/c6c67854af21db5f89fa85ef61fa09ba099acba314c411e2c75312abe8043592.ctv
-#EXTINF:-1 tvg-id="ASTRO OASIS(1280x720) (Backup 1)" tvg-name="ASTRO OASIS(1280x720) (Backup 1)" group-title="港澳台", ASTRO OASIS(1280x720) (Backup 1)
 https://stream1.freetv.fun/152bc6649610c0bbe7e40d672730ae16ec2b54c834cdb33f85a5bb8c2da8b79d.ctv
-#EXTINF:-1 tvg-id="ASTRO OASIS(1280x720) (Backup 2)" tvg-name="ASTRO OASIS(1280x720) (Backup 2)" group-title="港澳台", ASTRO OASIS(1280x720) (Backup 2)
+#EXTINF:-1 tvg-id="ASTRO OASIS(1280x720) (Backup 1)" tvg-name="ASTRO OASIS(1280x720) (Backup 1)" group-title="港澳台", ASTRO OASIS(1280x720) (Backup 1)
 https://stream1.freetv.fun/e7760749cdc75b82156208e2b51bc4200c6ee5c62a7cb569b6e2b016e946aa8a.ctv
 #EXTINF:-1 tvg-id="ASTRO PREMIER(1280x720)" tvg-name="ASTRO PREMIER(1280x720)" group-title="港澳台", ASTRO PREMIER(1280x720)
 https://stream1.freetv.fun/1244812f14a6aa8c744641f1d7af24bad714c709a6c0e13245a6b8a5765c7126.ctv
@@ -63,8 +61,6 @@ https://stream1.freetv.fun/c62158e027d85c53e150ab495100520a4af10a978ab879e74bb09
 https://stream1.freetv.fun/65bcce1cbbcc5e577dedf6c4ea995bcdc14e52b17d67c2a27f8a98ae33c348ce.ctv
 #EXTINF:-1 tvg-id="ASTRO QJ(1280x720) (Backup 3)" tvg-name="ASTRO QJ(1280x720) (Backup 3)" group-title="港澳台", ASTRO QJ(1280x720) (Backup 3)
 https://stream1.freetv.fun/3c414f6296fb0939f097892dd465a3a068a922044592205f152ce005e0c8879a.ctv
-#EXTINF:-1 tvg-id="ASTRO QJ(1280x720) (Backup 4)" tvg-name="ASTRO QJ(1280x720) (Backup 4)" group-title="港澳台", ASTRO QJ(1280x720) (Backup 4)
-https://stream1.freetv.fun/9b2eb72c2032a61b9a9356de92930c68d755b54d6594cdadedb424ec2d733080.ctv
 #EXTINF:-1 tvg-id="ASTRO RIA(1280x720)" tvg-name="ASTRO RIA(1280x720)" group-title="港澳台", ASTRO RIA(1280x720)
 https://stream1.freetv.fun/aa2fa6aafcc0276bd1887481ce268837ab167d26a7ee9f06822c5cceff999335.ctv
 #EXTINF:-1 tvg-id="ASTRO RIA(1280x720) (Backup 1)" tvg-name="ASTRO RIA(1280x720) (Backup 1)" group-title="港澳台", ASTRO RIA(1280x720) (Backup 1)
@@ -313,11 +309,11 @@ https://stream1.freetv.fun/3e929a93419cba2a49535591605d5cce70f964a3ac26bc6c58685
 https://stream1.freetv.fun/eaca0e28869a4aae715c03c11f8e734fa35f3c3dcec11d6525a5f2de0a685dda.ctv
 #EXTINF:-1 tvg-id="ช่อง ASTRO SUPERSPORT 2(1280x720)" tvg-name="ช่อง ASTRO SUPERSPORT 2(1280x720)" group-title="港澳台", ช่อง ASTRO SUPERSPORT 2(1280x720)
 https://stream1.freetv.fun/dc5ac17b9c07910b0a54194e1a7c55ea423b4e48c2ee0e5410ad009a3c94d841.ctv
-#EXTINF:-1 tvg-id="ช่อง ASTRO SUPERSPORT 3(1920x1080)" tvg-name="ช่อง ASTRO SUPERSPORT 3(1920x1080)" group-title="港澳台", ช่อง ASTRO SUPERSPORT 3(1920x1080)
+#EXTINF:-1 tvg-id="ช่อง ASTRO SUPERSPORT 3(1280x720)" tvg-name="ช่อง ASTRO SUPERSPORT 3(1280x720)" group-title="港澳台", ช่อง ASTRO SUPERSPORT 3(1280x720)
 https://stream1.freetv.fun/61f8e2b77139c09b7b5c9db3e23c35a97fe81c4a839c9c691c4a3137afcbdac5.ctv
 #EXTINF:-1 tvg-id="ช่อง ASTRO SUPERSPORT 4(1280x720)" tvg-name="ช่อง ASTRO SUPERSPORT 4(1280x720)" group-title="港澳台", ช่อง ASTRO SUPERSPORT 4(1280x720)
 https://stream1.freetv.fun/d849afc52df603ee8f13083e384ccecfbd9448e3f54b4ef5a80a6740a1a4051e.ctv
-#EXTINF:-1 tvg-id="ช่อง ASTRO SUPERSPORT(1280x720)" tvg-name="ช่อง ASTRO SUPERSPORT(1280x720)" group-title="港澳台", ช่อง ASTRO SUPERSPORT(1280x720)
+#EXTINF:-1 tvg-id="ช่อง ASTRO SUPERSPORT(1920x1080)" tvg-name="ช่อง ASTRO SUPERSPORT(1920x1080)" group-title="港澳台", ช่อง ASTRO SUPERSPORT(1920x1080)
 https://stream1.freetv.fun/598f9776599a34439243adb2de89b1cb0472439c870c8149e04bb5fea828555a.ctv
 #EXTINF:-1 tvg-id="ช่อง ASTRO VELLITHIRAI(1280x720)" tvg-name="ช่อง ASTRO VELLITHIRAI(1280x720)" group-title="港澳台", ช่อง ASTRO VELLITHIRAI(1280x720)
 https://stream1.freetv.fun/df3d4d04171406ae7c1b47f2c57e4353afb1cefa637df4fb0e70f478822fc612.ctv
@@ -530,8 +526,6 @@ https://stream1.freetv.fun/fd3f587c16496807d24b3f3c58eff10439384428069068b6b8227
 #EXTINF:-1 tvg-id="凤凰中文(1920x1080) (Backup 8)" tvg-name="凤凰中文(1920x1080) (Backup 8)" group-title="港澳台", 凤凰中文(1920x1080) (Backup 8)
 https://stream1.freetv.fun/862844410f02bc7b8d15ff19f10a24883c9e89dfb31112fae24f066dbf89649e.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视(1280x720)" tvg-name="凤凰卫视(1280x720)" group-title="地方卫视台", 凤凰卫视(1280x720)
-https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv
-#EXTINF:-1 tvg-id="凤凰卫视(1280x720) (Backup 1)" tvg-name="凤凰卫视(1280x720) (Backup 1)" group-title="地方卫视台", 凤凰卫视(1280x720) (Backup 1)
 https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv
 #EXTINF:-1 tvg-id="凤凰卫视(1920x1080)" tvg-name="凤凰卫视(1920x1080)" group-title="地方卫视台", 凤凰卫视(1920x1080)
 https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
