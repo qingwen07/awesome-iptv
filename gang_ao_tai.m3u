@@ -85,7 +85,7 @@ https://stream1.freetv.fun/387695eaf9314d1db704f349c4bd60b1345117d3b71b6b0addb50
 https://stream1.freetv.fun/aa2fa6aafcc0276bd1887481ce268837ab167d26a7ee9f06822c5cceff999335.ctv
 #EXTINF:-1 tvg-id="ASTRO RIA(1280x720) (Backup 2)" tvg-name="ASTRO RIA(1280x720) (Backup 2)" group-title="港澳台", ASTRO RIA(1280x720) (Backup 2)
 https://stream1.freetv.fun/481540b8406e7a032135a830c6b2c72962d3861a06c6e5edc2e6785025d2ad88.ctv
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 1(1280x720)" tvg-name="ASTRO SUPERSPORT 1(1280x720)" group-title="港澳台", ASTRO SUPERSPORT 1(1280x720)
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 1(1920x1080)" tvg-name="ASTRO SUPERSPORT 1(1920x1080)" group-title="港澳台", ASTRO SUPERSPORT 1(1920x1080)
 https://stream1.freetv.fun/e991a603d8fde83347394ce5519cd6ef790a7627e49851af584739150c6b36c0.ctv
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2(1280x720)" tvg-name="ASTRO SUPERSPORT 2(1280x720)" group-title="港澳台", ASTRO SUPERSPORT 2(1280x720)
 https://stream1.freetv.fun/a6021743e0e0ea0da317a3ee3896777648a8ab3330e2afcab893808ee14ec054.ctv
@@ -207,6 +207,8 @@ https://stream1.freetv.fun/977f5d7416b635a78084f0161af876af32b93be70b586539ac5e1
 https://stream1.freetv.fun/25f72bd12e4c0959db2397d61d7316d61be6c8d25557bef613f4c0b68f5f6159.m3u8
 #EXTINF:-1 tvg-id="HGTV(1920x1080) (Backup 5)" tvg-name="HGTV(1920x1080) (Backup 5)" group-title="港澳台", HGTV(1920x1080) (Backup 5)
 https://stream1.freetv.fun/6da2eedba2fe984b336b35549a0488b991e66777a6e39f5fdd7d1addc2f23063.m3u8
+#EXTINF:-1 tvg-id="HOY TV 資訊(1920x1080)" tvg-name="HOY TV 資訊(1920x1080)" group-title="港澳台", HOY TV 資訊(1920x1080)
+https://stream1.freetv.fun/c543306057df73089c3660fdfc6f0eb923e239f6d535b7a1a4f23bce8a1b61c2.ctv
 #EXTINF:-1 tvg-id="KIENGIANGTV1(1920x1080)" tvg-name="KIENGIANGTV1(1920x1080)" group-title="港澳台", KIENGIANGTV1(1920x1080)
 https://stream1.freetv.fun/d3da372730bda920695b0d2725ac8d7223471d34d83452a718bd4d20ef455f2d.m3u8
 #EXTINF:-1 tvg-id="NASHUA GTV CHANNEL 16 NASHUA NH(1280x720)" tvg-name="NASHUA GTV CHANNEL 16 NASHUA NH(1280x720)" group-title="港澳台", NASHUA GTV CHANNEL 16 NASHUA NH(1280x720)
@@ -367,12 +369,6 @@ https://stream1.freetv.fun/30c842439557a20b9d2c917cc57acb92362218c84b3eee9aab4d9
 https://stream1.freetv.fun/4505e9e5e8ad50b8449f73c1fbb536c3952af9d3a319921cd4e02804ceea84cd.ctv
 #EXTINF:-1 tvg-id="ช่อง 中国功夫-经典大片(1280x720)" tvg-name="ช่อง 中国功夫-经典大片(1280x720)" group-title="港澳台", ช่อง 中国功夫-经典大片(1280x720)
 https://stream1.freetv.fun/cb6c35437d63d157812d556e9843e46c3321d9577499417814384fc56e33ad1a.ctv
-#EXTINF:-1 tvg-id="ช่อง 中天亚洲(1280x720)" tvg-name="ช่อง 中天亚洲(1280x720)" group-title="港澳台", ช่อง 中天亚洲(1280x720)
-https://stream1.freetv.fun/4069580c13262ae8cd4fbf2ecb37541d9753f6b1a25f651171c2cb899d56d9af.ctv
-#EXTINF:-1 tvg-id="ช่อง 凤凰美州(1920x1080)" tvg-name="ช่อง 凤凰美州(1920x1080)" group-title="港澳台", ช่อง 凤凰美州(1920x1080)
-https://stream1.freetv.fun/e5189381c9a7fef24cc7af8dedff9a3b16d9bb160df20604eb86830c8c5be708.ctv
-#EXTINF:-1 tvg-id="ช่อง 凤凰资讯(1920x1080)" tvg-name="ช่อง 凤凰资讯(1920x1080)" group-title="港澳台", ช่อง 凤凰资讯(1920x1080)
-https://stream1.freetv.fun/1a04e22c76c08f82793e3e15a586b5bbe51aa27c88cf8cd10e101445f8b844a4.ctv
 #EXTINF:-1 tvg-id="「RU」 TVBRICS(1920x1080)" tvg-name="「RU」 TVBRICS(1920x1080)" group-title="港澳台", 「RU」 TVBRICS(1920x1080)
 https://stream1.freetv.fun/a6a0aab4d0cd370a60828adc1ae513f39b620f23b4cf5e86796a4627fd3b4af7.m3u8
 #EXTINF:-1 tvg-id="「斗鱼」香港经典(1920x1080)" tvg-name="「斗鱼」香港经典(1920x1080)" group-title="港澳台", 「斗鱼」香港经典(1920x1080)
@@ -562,8 +558,6 @@ https://stream1.freetv.fun/862844410f02bc7b8d15ff19f10a24883c9e89dfb31112fae24f0
 #EXTINF:-1 tvg-id="凤凰卫视(1280x720)" tvg-name="凤凰卫视(1280x720)" group-title="地方卫视台", 凤凰卫视(1280x720)
 https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv
 #EXTINF:-1 tvg-id="凤凰卫视(1920x1080)" tvg-name="凤凰卫视(1920x1080)" group-title="地方卫视台", 凤凰卫视(1920x1080)
-https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视(1920x1080) (Backup 1)" tvg-name="凤凰卫视(1920x1080) (Backup 1)" group-title="地方卫视台", 凤凰卫视(1920x1080) (Backup 1)
 https://stream1.freetv.fun/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视香港(1280x720)" tvg-name="凤凰卫视香港(1280x720)" group-title="地方卫视台", 凤凰卫视香港(1280x720)
 https://stream1.freetv.fun/169d769e40dfe46931c8376b8f2ff9758a3132888a172aae168d6c9a101fe5ea.m3u8
@@ -1017,6 +1011,8 @@ https://stream1.freetv.fun/48de653cc800e21b30fba59555a8c4696da972c895c29e5612006
 https://stream1.freetv.fun/06cfd8e823da9c45c37579cf46408f1e6707bf7f6a3a7ca12060d74de4195a3c.ctv
 #EXTINF:-1 tvg-id="舌尖上的中国第2季(1280x720)" tvg-name="舌尖上的中国第2季(1280x720)" group-title="港澳台", 舌尖上的中国第2季(1280x720)
 https://stream1.freetv.fun/041667bc14e04bc3653c4832f07b570b2ea396facdd2f7a162dcef3b25c0a8a2.ctv
+#EXTINF:-1 tvg-id="舌尖上的中国第2季(1280x720) (Backup 1)" tvg-name="舌尖上的中国第2季(1280x720) (Backup 1)" group-title="港澳台", 舌尖上的中国第2季(1280x720) (Backup 1)
+https://stream1.freetv.fun/ba536d07dad89fdd615575adb5c09d835f6f9be989bb3b45e7135aa2cdd95f85.ctv
 #EXTINF:-1 tvg-id="船長電影解說(1920x1080)" tvg-name="船長電影解說(1920x1080)" group-title="电影", 船長電影解說(1920x1080)
 https://stream1.freetv.fun/b1992ea2dd01bdbda63ced72f606ab608e95d78f5e10b3aacd194a67a641bed4.ctv
 #EXTINF:-1 tvg-id="虎妞說電影(1920x1080)" tvg-name="虎妞說電影(1920x1080)" group-title="电影", 虎妞說電影(1920x1080)
