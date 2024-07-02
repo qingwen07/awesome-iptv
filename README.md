@@ -24,6 +24,9 @@
 
 2、https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/gang_ao_tai.m3u
 
+## TVBOX直播加速源
+1、https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt
+
 ## 建议客户端【排名不分先后，不断更新】
 
 #### Android
