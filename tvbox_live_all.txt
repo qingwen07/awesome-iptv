@@ -1,6 +1,6 @@
 maiduidui,#genre#
 
-maiduidui_1280x720,https://stream1.freetv.fun/63c60ae316507096eec1ee8b5357f531d765cc825292009f6968e82f109987dc.ctv
+maiduidui_1280x720,https://www.goodiptv.club/huya/23824164
 maiduidui_1280x720,https://stream1.freetv.fun/d67c60745f76ba6c71528aeb2745cac6d7284469c43303a11ac8c2aca3500dda.ctv
 maiduidui_1280x720,https://stream1.freetv.fun/ad18b59474ace384a3bc873be3574e62950c4854fa33bf9b499c3dc9d84f845b.ctv
 maiduidui_1280x720,https://stream1.freetv.fun/d0fb019d92842cf12d6953a8f73d4d7059e14bc59bf288d3ad8d24627ece9b24.ctv
