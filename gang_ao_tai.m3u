@@ -406,10 +406,8 @@ https://stream1.freetv.fun/b909b3a3128688914bef8d2109f8a2164390a0b5ac3534a83de27
 #EXTINF:-1 tvg-id="中天亚洲 (Backup 1)" tvg-name="中天亚洲 (Backup 1)" group-title="港澳台", 中天亚洲 (Backup 1)
 https://stream1.freetv.fun/29c76020a78bd29394d47dae5a9533e7a2212abc1007b5b3c0bff802f82df302.ctv
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" group-title="港澳台", 中天亚洲台
-https://stream1.freetv.fun/8ea89d5d3267f066ccf49a7b1ece1ab6f1315b7f55ba4910963ef01612e7f317.ctv
-#EXTINF:-1 tvg-id="中天亚洲台 (Backup 1)" tvg-name="中天亚洲台 (Backup 1)" group-title="港澳台", 中天亚洲台 (Backup 1)
 https://stream1.freetv.fun/7c52c13261613622eb59f30a1d057e9d985e79969d03f7bdfcbbe31061d2d7c6.ctv
-#EXTINF:-1 tvg-id="中天亚洲台 (Backup 2)" tvg-name="中天亚洲台 (Backup 2)" group-title="港澳台", 中天亚洲台 (Backup 2)
+#EXTINF:-1 tvg-id="中天亚洲台 (Backup 1)" tvg-name="中天亚洲台 (Backup 1)" group-title="港澳台", 中天亚洲台 (Backup 1)
 https://stream1.freetv.fun/232ed84b5006dabf9be23d99e0990b3f7088419b4907066362ee7c539e27afcf.ctv
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" group-title="港澳台", 中天娱乐
 https://stream1.freetv.fun/d0735558e1a216ef30c8398ae4159a1ead7e5137103fa1993fa7d3153ed277aa.ctv
@@ -924,8 +922,10 @@ https://stream1.freetv.fun/48de653cc800e21b30fba59555a8c4696da972c895c29e5612006
 #EXTINF:-1 tvg-id="老皮講電影" tvg-name="老皮講電影" group-title="电影", 老皮講電影
 https://stream1.freetv.fun/06cfd8e823da9c45c37579cf46408f1e6707bf7f6a3a7ca12060d74de4195a3c.ctv
 #EXTINF:-1 tvg-id="舌尖上的中国第2季" tvg-name="舌尖上的中国第2季" group-title="港澳台", 舌尖上的中国第2季
-https://stream1.freetv.fun/041667bc14e04bc3653c4832f07b570b2ea396facdd2f7a162dcef3b25c0a8a2.ctv
+https://stream1.freetv.fun/bded6a2a416b63b8185d8211fc77f5ece9ddab2182dea96fe98f5cdc931d042c.ctv
 #EXTINF:-1 tvg-id="舌尖上的中国第2季 (Backup 1)" tvg-name="舌尖上的中国第2季 (Backup 1)" group-title="港澳台", 舌尖上的中国第2季 (Backup 1)
+https://stream1.freetv.fun/041667bc14e04bc3653c4832f07b570b2ea396facdd2f7a162dcef3b25c0a8a2.ctv
+#EXTINF:-1 tvg-id="舌尖上的中国第2季 (Backup 2)" tvg-name="舌尖上的中国第2季 (Backup 2)" group-title="港澳台", 舌尖上的中国第2季 (Backup 2)
 https://stream1.freetv.fun/ba536d07dad89fdd615575adb5c09d835f6f9be989bb3b45e7135aa2cdd95f85.ctv
 #EXTINF:-1 tvg-id="船長電影解說" tvg-name="船長電影解說" group-title="电影", 船長電影解說
 https://stream1.freetv.fun/b1992ea2dd01bdbda63ced72f606ab608e95d78f5e10b3aacd194a67a641bed4.ctv
