@@ -45,7 +45,7 @@ https://stream1.freetv.fun/e7760749cdc75b82156208e2b51bc4200c6ee5c62a7cb569b6e2b
 https://stream1.freetv.fun/1244812f14a6aa8c744641f1d7af24bad714c709a6c0e13245a6b8a5765c7126.ctv
 #EXTINF:-1 tvg-id="ASTRO RIA(1280x720)" tvg-name="ASTRO RIA(1280x720)" group-title="港澳台", ASTRO RIA(1280x720)
 https://stream1.freetv.fun/481540b8406e7a032135a830c6b2c72962d3861a06c6e5edc2e6785025d2ad88.ctv
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 1(1920x1080)" tvg-name="ASTRO SUPERSPORT 1(1920x1080)" group-title="港澳台", ASTRO SUPERSPORT 1(1920x1080)
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 1(1280x720)" tvg-name="ASTRO SUPERSPORT 1(1280x720)" group-title="港澳台", ASTRO SUPERSPORT 1(1280x720)
 https://stream1.freetv.fun/e991a603d8fde83347394ce5519cd6ef790a7627e49851af584739150c6b36c0.ctv
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2(1280x720)" tvg-name="ASTRO SUPERSPORT 2(1280x720)" group-title="港澳台", ASTRO SUPERSPORT 2(1280x720)
 https://stream1.freetv.fun/a6021743e0e0ea0da317a3ee3896777648a8ab3330e2afcab893808ee14ec054.ctv
@@ -137,8 +137,6 @@ https://stream1.freetv.fun/977f5d7416b635a78084f0161af876af32b93be70b586539ac5e1
 https://stream1.freetv.fun/25f72bd12e4c0959db2397d61d7316d61be6c8d25557bef613f4c0b68f5f6159.m3u8
 #EXTINF:-1 tvg-id="HGTV(1920x1080) (Backup 5)" tvg-name="HGTV(1920x1080) (Backup 5)" group-title="港澳台", HGTV(1920x1080) (Backup 5)
 https://stream1.freetv.fun/6da2eedba2fe984b336b35549a0488b991e66777a6e39f5fdd7d1addc2f23063.m3u8
-#EXTINF:-1 tvg-id="HOY TV 資訊(1920x1080)" tvg-name="HOY TV 資訊(1920x1080)" group-title="港澳台", HOY TV 資訊(1920x1080)
-https://stream1.freetv.fun/c543306057df73089c3660fdfc6f0eb923e239f6d535b7a1a4f23bce8a1b61c2.ctv
 #EXTINF:-1 tvg-id="HOY TV(1920x1080)" tvg-name="HOY TV(1920x1080)" group-title="港澳台", HOY TV(1920x1080)
 https://stream1.freetv.fun/1496043c9019ec1e6c21f1257e1f303b901a1f4effc143fb7da3c19cc4de0ecc.ctv
 #EXTINF:-1 tvg-id="KIENGIANGTV1(1920x1080)" tvg-name="KIENGIANGTV1(1920x1080)" group-title="港澳台", KIENGIANGTV1(1920x1080)
@@ -240,8 +238,10 @@ https://stream1.freetv.fun/b61eefca7ff1bda31563587a1d9263c869bf61f2dc1cc016fad05
 #EXTINF:-1 tvg-id="TVB华丽(1920x1080)" tvg-name="TVB华丽(1920x1080)" group-title="港澳台", TVB华丽(1920x1080)
 https://stream1.freetv.fun/1bea804b4f385fd7e1435630bbabe3a6f5d8736d70d5320cdcbd5a23c7c77f08.ctv
 #EXTINF:-1 tvg-id="TVB无线新闻(1920x1080)" tvg-name="TVB无线新闻(1920x1080)" group-title="港澳台", TVB无线新闻(1920x1080)
-https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv
+https://stream1.freetv.fun/a2870617ade0afbb63a2c2b2bfd3a3a9b696d34ef4bc2ab60c9105524842f63c.ctv
 #EXTINF:-1 tvg-id="TVB无线新闻(1920x1080) (Backup 1)" tvg-name="TVB无线新闻(1920x1080) (Backup 1)" group-title="港澳台", TVB无线新闻(1920x1080) (Backup 1)
+https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv
+#EXTINF:-1 tvg-id="TVB无线新闻(1920x1080) (Backup 2)" tvg-name="TVB无线新闻(1920x1080) (Backup 2)" group-title="港澳台", TVB无线新闻(1920x1080) (Backup 2)
 https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.m3u8
 #EXTINF:-1 tvg-id="TVB星河(1280x720)" tvg-name="TVB星河(1280x720)" group-title="港澳台", TVB星河(1280x720)
 https://stream1.freetv.fun/db266a0db0c0ceb78963becb87d0ec13ff182280a05dc63c3ad2008a8b7193b7.m3u8
@@ -255,8 +255,6 @@ https://stream1.freetv.fun/9907d2f4a063d7a27ffcfa5a96593f19493b8b0467452c6d2db05
 https://stream1.freetv.fun/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
 #EXTINF:-1 tvg-id="TVB直播台(1280x720)" tvg-name="TVB直播台(1280x720)" group-title="港澳台", TVB直播台(1280x720)
 https://stream1.freetv.fun/15a4d9b14584162693dad7500429996e928d4b354d6ed0ac20b2e551ddbc348f.m3u8
-#EXTINF:-1 tvg-id="TVB翡翠(1920x1080)" tvg-name="TVB翡翠(1920x1080)" group-title="港澳台", TVB翡翠(1920x1080)
-https://stream1.freetv.fun/2e6086d8521831aaee1fb341265cb51856e28e1c3990bf59e29c1f4f60523101.ctv
 #EXTINF:-1 tvg-id="VIUTV香港(1920x1080)" tvg-name="VIUTV香港(1920x1080)" group-title="港澳台", VIUTV香港(1920x1080)
 https://stream1.freetv.fun/7142dde61feb0ccaaee370f5e04b1ac05297f1312345f22340d2455f39413320.ctv
 #EXTINF:-1 tvg-id="WCGTV PUBLIC(1280x720)" tvg-name="WCGTV PUBLIC(1280x720)" group-title="港澳台", WCGTV PUBLIC(1280x720)
@@ -314,8 +312,6 @@ https://stream1.freetv.fun/ece494811b790a24619e83140192ea464f2d125864e5975b80daa
 #EXTINF:-1 tvg-id="三立台湾 SANLI TAIWAN(1920x1080)" tvg-name="三立台湾 SANLI TAIWAN(1920x1080)" group-title="港澳台", 三立台湾 SANLI TAIWAN(1920x1080)
 https://stream1.freetv.fun/aeaf906855f13256f7b6cc58a89bc41f14c23c21306871b2f2f8caf57b9e1aec.ctv
 #EXTINF:-1 tvg-id="三立戏剧(1280x720)" tvg-name="三立戏剧(1280x720)" group-title="港澳台", 三立戏剧(1280x720)
-https://stream1.freetv.fun/69c04747e23c65ecce1dfe2febc6fca2cb0bfbb03229007cb0ffa9abbf7e6381.m3u8
-#EXTINF:-1 tvg-id="三立戏剧(1280x720) (Backup 1)" tvg-name="三立戏剧(1280x720) (Backup 1)" group-title="港澳台", 三立戏剧(1280x720) (Backup 1)
 https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.ctv
 #EXTINF:-1 tvg-id="三立新聞(1920x1080)" tvg-name="三立新聞(1920x1080)" group-title="港澳台", 三立新聞(1920x1080)
 https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
