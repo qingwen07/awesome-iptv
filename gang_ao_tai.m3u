@@ -673,6 +673,8 @@ https://stream1.freetv.fun/ccb84ee4445225c1699623838d9ed1ba2e3a1a7daef990351be23
 https://stream1.freetv.fun/67142ea4f3a1e1f958c20df0e86d77638546e46a4b3f3608e7bd13c469b105e2.m3u8
 #EXTINF:-1 tvg-id="咪咕直播-27「IPV6」 (IPV6)" tvg-name="咪咕直播-27「IPV6」 (IPV6)" group-title="咪咕", 咪咕直播-27「IPV6」 (IPV6)
 https://stream1.freetv.fun/6ee926d0c8d8b1c7dc59968dfe9197454593c852570a082fb77c83f3ce97eecc.m3u8
+#EXTINF:-1 tvg-id="咪咕直播4K Ⅰ「IPV4」" tvg-name="咪咕直播4K Ⅰ「IPV4」" group-title="咪咕", 咪咕直播4K Ⅰ「IPV4」
+https://stream1.freetv.fun/bf613285a522638ada48b9a91ea730234d2efc26e17c48cb8f79bf00b5ffb490.m3u8
 #EXTINF:-1 tvg-id="咪咕篮球 (IPV6)" tvg-name="咪咕篮球 (IPV6)" group-title="咪咕", 咪咕篮球 (IPV6)
 https://stream1.freetv.fun/112d6c9600c4410c287958196a77f3fd21c0572cf6b6a4c074841f9fcccb13a7.m3u8
 #EXTINF:-1 tvg-id="咪咕视频 (IPV6)" tvg-name="咪咕视频 (IPV6)" group-title="咪咕", 咪咕视频 (IPV6)
