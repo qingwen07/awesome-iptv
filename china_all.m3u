@@ -74,6 +74,8 @@ https://stream1.freetv.fun/b2f206d92de17f4d4d14ed02e5e3b57b561593a0551f8d1ccde88
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视", CCTV1
 https://stream1.freetv.fun/4e3d10e4d83b5ac96384fc0da10f8d0af2cb60ced0bdbb81c639c92352b22e69.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视", CCTV1
+https://stream1.freetv.fun/99b71c837047da3124410388891a6eda75bd93b35fdba0f860f51acdbf6cc435.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视", CCTV1
 https://stream1.freetv.fun/9876d81212493c875adfb18a78cbe1aff1bc490a544892184acf91f4bbd3f3fa.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视", CCTV1
 https://stream1.freetv.fun/a5906a28a102dcf06a322abb9f6e26261979346f1fbdf8a7f00d3a55571e061a.m3u8
@@ -234,6 +236,8 @@ https://stream1.freetv.fun/1102ee77a2897e42421ecc079e37f3cef428c0b722a2e1bc2738e
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视", CCTV10
 https://stream1.freetv.fun/c6c520444699df4118ddd205c642d442b8960bfa39b507d24c7f63d5db1189d9.ctv
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视", CCTV10
+https://stream1.freetv.fun/16ec643ca00f45cd4d894617adc2bc8ccfbcb093b5ed1d2dbee8e1a74c224a9f.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视", CCTV10
 https://stream1.freetv.fun/315de825d82af1ab7423066f882931310e824a0bcac5f523e3e6dc6e19268bb3.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视", CCTV10
 https://stream1.freetv.fun/12b438311fd3bf7ba587401d5556e1b63ae164525e1985d74b94337c107242ed.m3u8
@@ -338,8 +342,6 @@ https://stream1.freetv.fun/42171068f1cd623e711b6a2434af0f7c2aa912dac5cddd30f68d7
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视", CCTV10
 https://stream1.freetv.fun/fcdb440a95a057a6cc01920219cec167d1a89cc5b7f51378eaac29205810544d.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
-https://stream1.freetv.fun/9ffa45eed023e45fbc4daa825cd2fcaf7aba86f445d5b7e3598662aa9573e5d0.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
 https://stream1.freetv.fun/1fdf1bb742375ffd71d1c17db986ea49c58c8150e4b61f51ca556cbba410b5bd.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
 https://stream1.freetv.fun/4875e04b9a06f26e1bbb19c6d6d682f526c6000b361d5435debf8b69d8b21d6a.m3u8
@@ -371,6 +373,8 @@ https://stream1.freetv.fun/4ae53865135f0bbfebed92b2fd4a9bbcc3ba04c8ef342b9686c9c
 https://stream1.freetv.fun/ebd5a275ee95ecb232efa907676ef78adce2563574fb22a99c2e6ab1f6ab8aa4.ctv
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
 https://stream1.freetv.fun/81d72a50e0a4ee47066368f71c968181457e9ff8f831e2d84b05fe6ce0c170ea.ctv
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
+https://stream1.freetv.fun/37b1c14c3378e510bd07d553a1abcca238f13e040b5b0419b3ece2c9d4f50efd.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
 https://stream1.freetv.fun/46df4fd77e5b0f81cac28c58be63cc59a62dc76792f5c290ff7c9048e63eeaea.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
@@ -460,8 +464,6 @@ https://stream1.freetv.fun/675d68ed0047805ce30a2f8406f1e254d34befcf413d9239fa3d1
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视", CCTV11
 https://stream1.freetv.fun/748505633a520c17012bc2a44c6986e85f7314f56f5e6c0bec23efa70fdcceb7.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视", CCTV12
-https://stream1.freetv.fun/4d2e32df05ce0e3185c59c41de539dd2fd88adffdbad1be055198e1319c6b564.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视", CCTV12
 https://stream1.freetv.fun/242301ccf3dd594b5ba54b51fca495719b587904021829183a913b3bc99b19bf.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视", CCTV12
 https://stream1.freetv.fun/210269d2514fa28ca2f9c57b3f3f25754cc6dd076a425bc6c59d47f7b6e87039.m3u8
@@ -505,6 +507,8 @@ https://stream1.freetv.fun/91b1ed9d7cee1906d9d9e76096e51820b457a6d56c39471b28941
 https://stream1.freetv.fun/d61dff31353318efad92c62e5c1e578a5e2584cacfb61a8631754248ca9ebc86.ctv
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视", CCTV12
 https://stream1.freetv.fun/caa9ce863c6b6ff19296f3aa21ac0f5cadc9a8a60a5a199f54a405852c0f8ab8.ctv
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视", CCTV12
+https://stream1.freetv.fun/04e7cf8fc3a01931b8302dc7d8d5c7c5ad50cb287e728e98a7a129d3ee9370a7.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视", CCTV12
 https://stream1.freetv.fun/7741debb508650457a04688bd67c81b0ba975e1a48c8745f511acde2e93bab2f.ctv
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视", CCTV12
@@ -666,6 +670,8 @@ https://stream1.freetv.fun/13b3b6fbdf010d7baa87b7d1152c75372ade4e2f0edfa72a04bb4
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视", CCTV13
 https://stream1.freetv.fun/35b9c0750bff98ddfef59f6133207185cd8247f628c998c1d62348976e9ad5b9.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视", CCTV13
+https://stream1.freetv.fun/ae1953aa9b85348e0d61c6c529027bd95618e2fee3cae1a6ed459d4c910f2367.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视", CCTV13
 https://stream1.freetv.fun/476ac36087954d632a7b1755fd8ccc8411a3be0d70ba423e7ce3d901d282e18f.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视", CCTV13
 https://stream1.freetv.fun/eadc6b41208ea290632d595c4ed195a4781b61fbfaea1e683169e89336172a68.m3u8
@@ -814,6 +820,8 @@ https://stream1.freetv.fun/680e08b9319225cb395f27189879ab3ad7c24799b44c14f492e93
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视", CCTV14
 https://stream1.freetv.fun/4eacfec2cce243245c8b96a890b0d21baa7b5c3269ca4569f8b64d11169133e0.ctv
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视", CCTV14
+https://stream1.freetv.fun/fbc5879b365aa835b4bba41de9983306a2f8f9a42d1844db1844c3e7ceb562c7.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视", CCTV14
 https://stream1.freetv.fun/42eff2ece8961ea3482558a01253af9c8362e8f498f71e244233be7bdd11fd65.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视", CCTV14
 https://stream1.freetv.fun/c70b25acf8c596f41ed9fc3da128376f410f93d30bea0444f54f6f9c117478e6.m3u8
@@ -912,8 +920,6 @@ https://stream1.freetv.fun/c375661a94c310dd112505c98740c9917785676f84443adf5246e
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视", CCTV14
 https://stream1.freetv.fun/3cb65b76db2d276d37838b0933586c787af9cd11aeac524d3b7a4bb67bcd2d8d.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视", CCTV15
-https://stream1.freetv.fun/3def11d4c4c94d7daca14a62a425b9718b61249524f2363538e0714bbe2a54d2.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视", CCTV15
 https://stream1.freetv.fun/e68dcee8f37b7d4635e99b92de58d3154d6757846d5e1d4a215e6a41718c73f2.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视", CCTV15
 https://stream1.freetv.fun/93bb7823111540890a36326c352ed19991b46b571fbd056e20f009db2ecd2bfa.m3u8
@@ -955,6 +961,8 @@ https://stream1.freetv.fun/1ef482561e116056c4621178d9b23d92db65125006c4164e19e5e
 https://stream1.freetv.fun/3cd5992c0bc678290fbfb3ea5c9e3ae07fde910fecbb9119dec4ef12ecd4a717.ctv
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视", CCTV15
 https://stream1.freetv.fun/c28b19dc44c936240e3c92d5de30f134d25a696c1050c95f9fa70058af7992f4.ctv
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视", CCTV15
+https://stream1.freetv.fun/9350a599d0593a4eb692e9a5c26a4b0777dc9758db460b4e02a9ffa970765999.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视", CCTV15
 https://stream1.freetv.fun/ee5b27e7c2a74b13ae5a311795f7499b4acd4bb7a4d04d98377e3ba52ed42c62.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视", CCTV15
@@ -1046,15 +1054,11 @@ https://stream1.freetv.fun/ecd4b5aa3960959c33cfdf65566e3bc1130992aefe7227dbfae0c
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
 https://stream1.freetv.fun/596ee61f806ca311333ddcf6f12a4f34a0809af23c2fddd77f2e621f9d549750.ctv
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
-https://stream1.freetv.fun/e047eb487c54e566c13f3935ddc6a68d18aeb7f0cb83f1374dded18d2b1af878.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
 https://stream1.freetv.fun/c27f34d53afb9383745f0542f8b7a6f3279a784294a98ecb6861ede086e4014f.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
 https://stream1.freetv.fun/aca05eca124790568091fe1386a7106e920f236cda076e51628454a20b4df6ec.ctv
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
 https://stream1.freetv.fun/0b75031af1875039a6b6d3b8117835b86eac461dea5c789693819e4b9e1ed554.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
-https://stream1.freetv.fun/8dca1ae319bd62ae06d46c2b4a194240afa19d41ce7f463e1933cd7e9dec13d8.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
 https://stream1.freetv.fun/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
@@ -1065,6 +1069,8 @@ https://stream1.freetv.fun/89b9dc1017a0a101b88798c53db4114d2a298d0c6f2a6ec5548fc
 https://stream1.freetv.fun/974e243252379c59baa7642219eb120edf388562c7540334da1c1af7f4875d78.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
 https://stream1.freetv.fun/3fdf0f306aff7ff8f06a0421165845bc7accd3e90c5adfd4481acbd42d8d6bae.ctv
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
+https://stream1.freetv.fun/9bc3209b2650a5c3f7097dd721bf9ad3f0cb24b3d9cf37d1fbf73ef917f7e210.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
 https://stream1.freetv.fun/75ea2ba5c8e205ed60b191cf2b54e1ad628d19f0fba17b787305f98ab2be17cc.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视", CCTV16
@@ -1179,6 +1185,8 @@ https://stream1.freetv.fun/0ca659d43c4eece9ae7a74cc0dae87880de385142e49b5f711fc4
 https://stream1.freetv.fun/77f0cb901ac6238ba2c42bc1269e3c7295d829f0282e8847752b4bf74079f2bf.ctv
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视", CCTV17
 https://stream1.freetv.fun/0bb290147c22b8826e5d7176cb9e65abec715d40a65692c2a5f0bd4b90075707.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视", CCTV17
+https://stream1.freetv.fun/636e450cd5ee210d294abfb3b819f0d80ecee5c29a8d1b4391c7609d94a64156.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视", CCTV17
 https://stream1.freetv.fun/dc5b878546f3d155dba0581faea2a9dba1720909a1a1e60bd46ba03a8cecaef3.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视", CCTV17
@@ -1315,6 +1323,8 @@ https://stream1.freetv.fun/76a180f4ec71678999abd65c5303b95dac06a0981957491005f0d
 https://stream1.freetv.fun/6c733dc4127069d00cc9942a9378308b2146d7ae36826db13d85460c36b248cb.ctv
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视", CCTV2
 https://stream1.freetv.fun/003e72c1f06bce6008cd17835ed74ea2ba90aa05bce057940b265050009b82c3.ctv
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视", CCTV2
+https://stream1.freetv.fun/23579280e6fc038a06d257074014a59f4e59ee0c779af97dfa8924aeb1a4d62e.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视", CCTV2
 https://stream1.freetv.fun/ec740c02a796fee646d7872fcf574581b258791170a229402b7a9265737c8d27.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视", CCTV2
@@ -1486,6 +1496,8 @@ https://stream1.freetv.fun/03cea22a576715e6f0de285d26d3b365846a6531a3ced1a72a3e9
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视", CCTV3
 https://stream1.freetv.fun/d7d432023b6f6d63bb1e1517ca4fdc52fc22b2c7b2295d9b7048e093794a898a.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视", CCTV3
+https://stream1.freetv.fun/f839eb7b5d1df8d53a6f71a98ee9b1424bdfd2f8110fb566821bf8ac365aebd8.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视", CCTV3
 https://stream1.freetv.fun/90f418fb5396eb8506e634f18398f59438378c8057efa159299897dfa8088304.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视", CCTV3
 https://stream1.freetv.fun/67550102420f875410d82eadd06d8c5996bfe637b26fb81bc96e7bfdb4f847b5.m3u8
@@ -1614,6 +1626,8 @@ https://stream1.freetv.fun/9412834f5b6776f61656abde63b42d0d968dd2ac3d27423f54c54
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视", CCTV4
 https://stream1.freetv.fun/c31f56fe7ce3b0b434e74b1e949c5112c2d858213666e3840d0476106d069d1a.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视", CCTV4
+https://stream1.freetv.fun/acfd7185a732b727a345a616152b790cb512b355ea70d19cbb91b3c8b0065f83.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视", CCTV4
 https://stream1.freetv.fun/6a64719709acd630cf84f8d0fd1217e83aceded831134bf14e06834475938e14.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视", CCTV4
 https://stream1.freetv.fun/54376a4d22fadd3ac7fb8fcc0b92321f9a5736c597ad6f68cacb0a2e835cf92b.m3u8
@@ -1720,11 +1734,7 @@ https://stream1.freetv.fun/880cf2911be2cb89b60ce088e1727d834425895cf417ae5987247
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视", CCTV4K
 https://stream1.freetv.fun/644644b9d904dc12d7334b92834fd65ccbf01fdb67011653831633e7323cf571.ctv
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
-https://stream1.freetv.fun/fb6118dfedd64cb324326ad38cdb33ef2b8a32c26bbd9d7778706c135077ec08.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/84889c368455242134e8cedb384b6ffd8778882ff5256882538141edcf4a74d6.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
-https://stream1.freetv.fun/cdf6e797e9d07471a551bb7c16862382b55cd3672bbd11172aaccaa03747b829.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/7ae2773229d40b5442e59be5a1408188314ceddb0ba53f60130fa3a5b0b3bd4d.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
@@ -1734,13 +1744,9 @@ https://stream1.freetv.fun/bf945925156b4e75d80982f48873cefa5a95d18f497655c0cf305
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/5808bb6d7555ba5a01c1cef1f9b1e2dbe957d065add9706ff85320accac8cebf.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
-https://stream1.freetv.fun/a8d223055684f1b2485b9ac7a8aceec0d7e118feefbf627dc516cd064e8d117d.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/02df05b1cd9238da47d9b5f8e0d6abde5b221dda445ab47f737282aff1d33c3a.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/050d14d1ea7112f7e87346a847078c64187dfa125e0e5e6980170931467a990d.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
-https://stream1.freetv.fun/281e7dc01e521c6487fae5cf777b2484a5c9d0d6793883a3f13b99e68da8ee2a.ctv
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/96ab1bb99e9c71e69972e5406721a1970fa437c2723ca1f75132b0296923f977.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
@@ -1752,8 +1758,6 @@ https://stream1.freetv.fun/7e18319834d88b172f57a3a019b567924e6a1e301d05029af46a4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/4283e40fa5f19d7fa3839af5cc61be97ef66c5079b829d482eab7bd72e86e3d0.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
-https://stream1.freetv.fun/307cd85c74b975219efe568ba329232587e9296f1ed29772d494179210b4ce08.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/3eb3fa1140e44a48ba4c144aafc9829528c9f1c8a8966bc9872870f05886a1da.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/3ea5153fdba5005cc7211727e52be5c762a3db706fb679c88bb7b86ba2419fec.m3u8
@@ -1764,17 +1768,15 @@ https://stream1.freetv.fun/397c743d62e0d6a5e3414609c8ea6941dfb022ebb8428d5126705
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/bc0a8ca1ad48fe0d260a2f54585f64e847ac6f4501cd7a1957232a4f2377ed84.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
-https://stream1.freetv.fun/a0c61e4f762cb3fb0688e4f03a253d56e07be8276135173b4edf6ee2fc1ad7b5.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/72bea55328212ff2754ad3d7914bf4a499666b63858063cdd759c2ab343368ee.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
-https://stream1.freetv.fun/260b9f0cb939ff667a7a848531eb1e3074055eaa25b95d639a7bdc148e6ba471.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/d1d492a153f75164cbbc0fde6fd4a17844d27c977dc2c4849861b14a223df9b0.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/0affc85b808124f239fc1a50c7c975da538a17c2def9b78d7d73d596e5d4bff3.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/82f6ed4d011a9b6e7d00a295f5aa7837bdcbb16ffe6b9895ce41502644fc4b8a.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
+https://stream1.freetv.fun/ec0053199c74ce2bb15e7e2beb8280d6c554e7a1b2582178ac883e10a847af9d.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/61df3be1490c927a746d671e52c9f9cb197fba5a08184c147a68eb80f84c4824.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
@@ -1831,6 +1833,8 @@ https://stream1.freetv.fun/9dd856a16138c1ec7c16aa3f939b05cda79ea7c92dbd281d2b12c
 https://stream1.freetv.fun/c77c26b2f9bdd9ee149159ab1300ca90037a48168f9b4942991d8b451cab485c.ctv
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/7d7df5cd6969d6a9fbc902e327bc66b1174986e528924abef67eb8543e99ea06.ctv
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
+https://stream1.freetv.fun/ee99546a63468c88c035932ad781079cb0e0fe2039d780ce172a16db30680309.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
 https://stream1.freetv.fun/641553d49a491054b923f0416c2084435d44d05a98599f3317f465f70da78480.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视", CCTV5
@@ -2029,8 +2033,6 @@ https://stream1.freetv.fun/4ac8702f7f5a5b0d972e76862b0bb9b1f43f695fe78adcafcc0f9
 https://stream1.freetv.fun/f6e72adae94d04b13488c829391932dc44c2c128b9fb383bb35b702605c9ea40.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视", CCTV6
 https://stream1.freetv.fun/f86793e57822c9c467998d41df0ed76b78589664331eee408adbece8e0e65771.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视", CCTV6
-https://stream1.freetv.fun/89d1a1467c347a32aac46b5c624731cad9efb26f812b09b02d1ace30173cfda8.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视", CCTV6
 https://stream1.freetv.fun/8726ac7204108f533c8f480adf20b82a9036f4f66e62122575d7b743480a3f7a.ctv
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视", CCTV6
@@ -2234,6 +2236,8 @@ https://stream1.freetv.fun/a214a0f0d47c221cc592897ef8775a88a787443f3a5579218d578
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视", CCTV7
 https://stream1.freetv.fun/b1b5703692de7211a7a3efebe99b53b11b019301c9fad281a469e56c3df0c38c.ctv
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视", CCTV7
+https://stream1.freetv.fun/5c2e3370e0e54bea4f87ffd53e6df5df8172e6ddb40ee12aee7541245bd5ef3a.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视", CCTV7
 https://stream1.freetv.fun/b57c61a1dd819c5be3348b18d2486223834c75750d22e1fe058f750e2584abf9.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视", CCTV7
 https://stream1.freetv.fun/9cbf5e6edabe6a7f19eedf3ddd203985a054165df6d2c7c14c3f60e907512125.m3u8
@@ -2365,6 +2369,8 @@ https://stream1.freetv.fun/7a4c6bade705b2282f5de6e05b41b39c6cfa77e777529f8820c46
 https://stream1.freetv.fun/524a47448eee53e15bc3b52fad7b3b2936983dca17703face8d6dad8eeb54586.ctv
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视", CCTV8
 https://stream1.freetv.fun/107d97d27bba8b2564f6910900fa65cdda0c069dab207f0a78e2e96a854823d4.ctv
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视", CCTV8
+https://stream1.freetv.fun/670cd6f1914d6d02a3e30eea8ba992228837063facd5ada08d07d32ded5b1c4d.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视", CCTV8
 https://stream1.freetv.fun/0caa73b5851b519005838054f558888957f8ca060c967e17a843fe68cee5f395.ctv
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视", CCTV8
@@ -2540,6 +2546,8 @@ https://stream1.freetv.fun/219243736e35e4e98ba3a86c93f384c5f58fc5fdf4b34b362552a
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视", CCTV9
 https://stream1.freetv.fun/2c618ab3068975abb8a5dd48b31c3360d435ee9586b39d42d143c711699e4b37.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视", CCTV9
+https://stream1.freetv.fun/879b47bd7d1a524dd3918cb6c78030dbcb3e32189248652ceceb076917166da2.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视", CCTV9
 https://stream1.freetv.fun/a48bd3e56bf90338a9823c0b7ebd46dbb37139fc90821e228460ac4b633d9c9c.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视", CCTV9
 https://stream1.freetv.fun/0e9fd9cfe51cea289d83a32d105a5022986653a890e54415b64c391480f02d1a.m3u8
@@ -2629,8 +2637,6 @@ https://stream1.freetv.fun/4cdbbc32cb5aeb291b9c11bb0d726de18d864ae6fb87e3fb6ee25
 https://stream1.freetv.fun/cc4b515b9c5844e63e97b06985f19acc21bdfb1d1841940b73e8f069f5214e9c.ctv
 #EXTINF:-1 tvg-id="CGTN新闻" tvg-name="CGTN新闻" group-title="其他", CGTN新闻
 https://stream1.freetv.fun/58e06946e69c1a193a26b4bc45771f72ddbd3a81344c0437eadfd153feb1e302.ctv
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="港澳台", HGTV
-https://stream1.freetv.fun/ff995a582af867c159ac7cc30fcc2bb923a0b08c931e61aa287694d8ef865ee8.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="港澳台", HGTV
 https://stream1.freetv.fun/1e08fadcdfc3fb29e62fdfa7e3d53fd4f6ac9ecf1f1c27103d8f009b4b315dff.ctv
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="港澳台", HGTV
@@ -2757,8 +2763,6 @@ https://stream1.freetv.fun/9907d2f4a063d7a27ffcfa5a96593f19493b8b0467452c6d2db05
 https://stream1.freetv.fun/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
 #EXTINF:-1 tvg-id="TVB直播台" tvg-name="TVB直播台" group-title="港澳台", TVB直播台
 https://stream1.freetv.fun/15a4d9b14584162693dad7500429996e928d4b354d6ed0ac20b2e551ddbc348f.m3u8
-#EXTINF:-1 tvg-id="VIUTV香港" tvg-name="VIUTV香港" group-title="港澳台", VIUTV香港
-https://stream1.freetv.fun/7142dde61feb0ccaaee370f5e04b1ac05297f1312345f22340d2455f39413320.ctv
 #EXTINF:-1 tvg-id="ช่อง HGTV" tvg-name="ช่อง HGTV" group-title="港澳台", ช่อง HGTV
 https://stream1.freetv.fun/ad3c2cf542ad7a111f80e724bcb7b5e55d25713ac5c24952eb255adcadf1ec18.m3u8
 #EXTINF:-1 tvg-id="ช่อง HGTV" tvg-name="ช่อง HGTV" group-title="港澳台", ช่อง HGTV
@@ -2963,8 +2967,6 @@ https://stream1.freetv.fun/08cbe758b939ec0f64e6cfc26ac43b6f5eb0f0b7b9b16cdcc99d6
 https://stream1.freetv.fun/cea72dff1de4df52e13e36361415e0a8842252b59497d55518705741349c4843.ctv
 #EXTINF:-1 tvg-id="「移动1」汕头生活HD" tvg-name="「移动1」汕头生活HD" group-title="其他", 「移动1」汕头生活HD
 https://stream1.freetv.fun/df6b575878137cd2534fb143e129349b91327c63b4191849f7a9e3ab73047843.ctv
-#EXTINF:-1 tvg-id="「移动2」广东体育" tvg-name="「移动2」广东体育" group-title="地方台", 「移动2」广东体育
-https://stream1.freetv.fun/cc2163a2de21939ed1d60eae9d2d7167a777f3a656dfdfe9c1f590a3359e9f82.ctv
 #EXTINF:-1 tvg-id="「移动」河北公共" tvg-name="「移动」河北公共" group-title="地方台", 「移动」河北公共
 https://stream1.freetv.fun/e0495d8f814850b35d9e2cf8a012a046652a200f96d7691d176a9e75de018a05.m3u8
 #EXTINF:-1 tvg-id="「移动」河北农民" tvg-name="「移动」河北农民" group-title="地方台", 「移动」河北农民
@@ -3083,6 +3085,8 @@ https://stream1.freetv.fun/db75299a4263cfd1fd76e9c8985c84fdc7c2e628bb4ce20b4581e
 https://stream1.freetv.fun/05758dfb5697a6ba35437fccd4d868eccbb2d1e8be677281fc0f2f0851f6801c.ctv
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="地方卫视", 东南卫视
 https://stream1.freetv.fun/a526ffcc0247e30866d62f56ec708f3749be02584a72ea00b176d0cbc09fb44e.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="地方卫视", 东南卫视
+https://stream1.freetv.fun/81a56acd4a00ed2a915a1e38284a4dfc07b00fd65e3186616ffb49dd58700382.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="地方卫视", 东南卫视
 https://stream1.freetv.fun/4338a3d090bcb27a037a7bbea5923bee4e143282f624660e6bd35744df5272fb.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="地方卫视", 东南卫视
@@ -3307,6 +3311,8 @@ https://stream1.freetv.fun/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a98
 https://stream1.freetv.fun/b3cd9e070039e195a8745c6c2ce17dd0f310700f8efab2615b7b3951af6ad0c9.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="地方卫视", 东方卫视
 https://stream1.freetv.fun/db72318da9003718197a9ce56d7ad27e81eafaab37c97deb3a5c5537dbcd8d03.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="地方卫视", 东方卫视
+https://stream1.freetv.fun/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.m3u8
 #EXTINF:-1 tvg-id="东方影视 (IPV6)" tvg-name="东方影视 (IPV6)" group-title="地方台", 东方影视 (IPV6)
 https://stream1.freetv.fun/d6aa34abeda5d5bc36571ec0f6fbc4e35794d709ada64149646edccc2470ab76.m3u8
 #EXTINF:-1 tvg-id="东方影视 (IPV6)" tvg-name="东方影视 (IPV6)" group-title="地方台", 东方影视 (IPV6)
@@ -3341,8 +3347,6 @@ https://stream1.freetv.fun/1b93d0e561aedb2226293888f57bcfa6f03c79694e2f4d67968a5
 https://stream1.freetv.fun/c5c9844f45648237f457a06df11c0c36bb2a50a457161f948d13fe585f3d5330.ctv
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="港澳台", 东森电影
 https://stream1.freetv.fun/93a03cbed75762466910af326fd4ca18aa69c93f658aea592d09d9043ee2a44d.m3u8
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="港澳台", 东森电影
-https://stream1.freetv.fun/e0eb43da03e796ba7ff0f0e15429a4f5e0f86365a1a47198869e5cf35a47096e.m3u8
 #EXTINF:-1 tvg-id="东森电影 ETTV MOVIE" tvg-name="东森电影 ETTV MOVIE" group-title="港澳台", 东森电影 ETTV MOVIE
 https://stream1.freetv.fun/559ccd849a4482b50354803e7aef2d59cef594d500a4bc06d2080cf77b65cbb5.ctv
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" group-title="港澳台", 东森综合
@@ -3375,8 +3379,6 @@ https://stream1.freetv.fun/d5ffbfe432a7d143ab09b683064d01db744bbf6371c0271eefbcb
 https://stream1.freetv.fun/bf0c93b73b47a18039f8e42d027ba66e63d7627ddfbfbd47a2ea77784413a4bc.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" group-title="港澳台", 东森超视
 https://stream1.freetv.fun/d6d49169b4bd9d092af133265046491f07446ae84f0ca15eda8e6153ed221669.m3u8
-#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" group-title="港澳台", 东森超视
-https://stream1.freetv.fun/fb51c7d5bbccbee98c70c5887eeaeabfe219ed975176cf5a63122f969fad07ac.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" group-title="港澳台", 东森超视
 https://stream1.freetv.fun/d8756df4416806c5ce981bdef2ac99098b8a3a99e05b32affdd6e324187cf1b4.ctv
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" group-title="港澳台", 东森超视
@@ -3421,8 +3423,6 @@ https://stream1.freetv.fun/624273d135358285ca58b9e31a1949cf7ea31020c1c2e600fd0ef
 https://stream1.freetv.fun/1d399c90d4abdab81a9472457dde5ab5de8de688ae23dc18ba7075abc413a69d.m3u8
 #EXTINF:-1 tvg-id="中国教育电视台 1 (IPV6)" tvg-name="中国教育电视台 1 (IPV6)" group-title="港澳台", 中国教育电视台 1 (IPV6)
 https://stream1.freetv.fun/76b511f4e8124e7479341e643559d99016c1ad19ef21c45e3339dfae51b4f8fd.m3u8
-#EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" group-title="港澳台", 中国电影
-https://stream1.freetv.fun/a0b1ee8cb8f0345a5720ceb609aeb083c682611b1e227651b40df79e0fe815b0.m3u8
 #EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" group-title="港澳台", 中国电影
 https://stream1.freetv.fun/9185f61073bdd3e3798ab263bbf5a362bb32debe3bf1bd13d792f071a4b1ef45.m3u8
 #EXTINF:-1 tvg-id="中国蓝新闻" tvg-name="中国蓝新闻" group-title="港澳台", 中国蓝新闻
@@ -3555,12 +3555,10 @@ https://stream1.freetv.fun/1637fb300bd304852b5f9d1b2b8fcc026298f6152e6167e688780
 https://stream1.freetv.fun/633407a9916d5d431e5d90da5dd50355fe1b1dd9ad22d628ae793c39fbbcf2f2.m3u8
 #EXTINF:-1 tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" group-title="地方台", 云南麻栗坡
 https://stream1.freetv.fun/47e75d93b3d6224bbd271eac008f56abccf28d49cd1f7c2a0da338f7f9a2c78d.m3u8
-#EXTINF:-1 tvg-id="云南｜康旅" tvg-name="云南｜康旅" group-title="地方台", 云南｜康旅
-https://stream1.freetv.fun/52cd6aba5b08230cf41a276cc1c6dd198b811c8df3e6e32ef56bbd2d0a388df0.m3u8
+#EXTINF:-1 tvg-id="云南｜娱乐" tvg-name="云南｜娱乐" group-title="地方台", 云南｜娱乐
+https://stream1.freetv.fun/66b2d9dc3c7e8a9b5d11f9fdde010ba080b05e9e2cb2f6b24707576f3e2188bc.m3u8
 #EXTINF:-1 tvg-id="云南｜新平综合" tvg-name="云南｜新平综合" group-title="地方台", 云南｜新平综合
 https://stream1.freetv.fun/bcff90ff998101b3c0b51e3596692b7fba49810424bd28f15a920ed18866e503.m3u8
-#EXTINF:-1 tvg-id="云南｜都市" tvg-name="云南｜都市" group-title="地方台", 云南｜都市
-https://stream1.freetv.fun/0facf23086eb408f3b597d229ed7ec6dc606a6d887058af8bac03c45c012be17.m3u8
 #EXTINF:-1 tvg-id="云南｜麻栗坡" tvg-name="云南｜麻栗坡" group-title="地方台", 云南｜麻栗坡
 https://stream1.freetv.fun/499ea81f6e13b690cbf2bb320ce32501bb924fef4aaa48be632589885948158d.ctv
 #EXTINF:-1 tvg-id="云和新闻" tvg-name="云和新闻" group-title="其他", 云和新闻
@@ -3807,6 +3805,8 @@ https://stream1.freetv.fun/aff457b7a0e7f44227f0c996a1c02d344cdba6bf06793854a837a
 https://stream1.freetv.fun/4ca6b8c180674c4d49b66ec138347a7400c23b5e5cef1a7a182b53dcc56eb573.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="地方卫视", 北京卫视
 https://stream1.freetv.fun/2ce2af3d88c35dfe016e1328b74db67018940ff0fb0e34b0127a48b900dcbdce.ctv
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="地方卫视", 北京卫视
+https://stream1.freetv.fun/5a2f0a58ec2df2587f84db31196934e8f52f7af15e3139904785e9931102ef90.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="地方卫视", 北京卫视
 https://stream1.freetv.fun/93dcfcb3229f771981bb51f4141ee3d398306a143113f665f5dc97ae967a9ff0.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="地方卫视", 北京卫视
@@ -4637,6 +4637,8 @@ https://stream1.freetv.fun/72078ced53b6a4f440c82744225c37ee6c2a3bf00ad47642a128e
 https://stream1.freetv.fun/da1c5e6b4adc18fa0a1eec1ac9b3ddaa7d4d978d315dd65c293a937eb90e4ad4.ctv
 #EXTINF:-1 tvg-id="大蔥電影" tvg-name="大蔥電影" group-title="电影", 大蔥電影
 https://stream1.freetv.fun/5c4ccf98c78b3ef346a8da619449b87d8372748a51df34009a83438c1b250560.ctv
+#EXTINF:-1 tvg-id="大连新闻" tvg-name="大连新闻" group-title="其他", 大连新闻
+https://stream1.freetv.fun/4b811bd8cc14e035756ecc490b6d8672ecf9dc37e1441d22a52eaf25ac325502.ctv
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" group-title="地方台", 天津体育
 https://stream1.freetv.fun/a137da26c01802f405d96f6544fd73feedf62dfce3f044d5756d183423faf93b.m3u8
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" group-title="地方台", 天津体育
@@ -4645,8 +4647,6 @@ https://stream1.freetv.fun/c6b4c9e054f4a00fb94a7b9b7616b9ff2acf7f9aca0988efb050b
 https://stream1.freetv.fun/e550462ba6e8b39f7caf7c0bdc83da7588e66a734647e08fe81a12e1ade63fcd.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
 https://stream1.freetv.fun/edd04477410bc9d84a99467ac26480afb1ccc1a9ebc5f699fba65cb4dfbb0936.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
-https://stream1.freetv.fun/42253ea93f29eb972b487b7a95f569aabb7d29663f0e21e51692eeafc7443f1d.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
 https://stream1.freetv.fun/2b637bb58bb9882d4adcdf1e111338e0828b11d8086e2e95c611d320db808dc7.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
@@ -4787,6 +4787,8 @@ https://stream1.freetv.fun/359dae68ab539173de12549828dddae6a6eaad7a2bfcc58023dad
 https://stream1.freetv.fun/41caea5ac22a9b085acb510d5124266e943767ea6920eed2e424d97cf916aafa.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
 https://stream1.freetv.fun/f37f043d64a5cf5ce745d4b08ffc152f44296419a9bf05d27b8bb6f54177ad0c.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
+https://stream1.freetv.fun/81fd8101136ee31270d97afe1200f09884d27b4606ad7d14ec44166af1546675.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
 https://stream1.freetv.fun/c53b590edd83259c81e0c7236308f727d152af9ddb24496c8db1485b6a046e32.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="地方卫视", 天津卫视
@@ -4989,8 +4991,6 @@ https://stream1.freetv.fun/52a67a7e9039d1da74047e93f2e80984a72f6c4103046de2f54f8
 https://stream1.freetv.fun/4d9bcae4949f8154e66da375cb3a4fb2bcc4c7169843a446d4dfb9533552772d.m3u8
 #EXTINF:-1 tvg-id="安徽黟县西递牌坊" tvg-name="安徽黟县西递牌坊" group-title="地方台", 安徽黟县西递牌坊
 https://stream1.freetv.fun/8c9807eb09eb4e35d4f7c650a5f8fcc21ea44173c0aade820250e2238da6c7fe.m3u8
-#EXTINF:-1 tvg-id="安徽｜卫视 (IPV6)" tvg-name="安徽｜卫视 (IPV6)" group-title="地方卫视", 安徽｜卫视 (IPV6)
-https://stream1.freetv.fun/1331a01f16ecbf1c990cc60776b0fdf0ac95260928a04c1436a949a019afd1c6.m3u8
 #EXTINF:-1 tvg-id="安徽｜卫视 (IPV6)" tvg-name="安徽｜卫视 (IPV6)" group-title="地方卫视", 安徽｜卫视 (IPV6)
 https://stream1.freetv.fun/11d66fe718bc3c428293f5ca1c67cd120aa23172e604107f56e68febeb03a2d9.m3u8
 #EXTINF:-1 tvg-id="定陶新闻" tvg-name="定陶新闻" group-title="其他", 定陶新闻
@@ -5228,6 +5228,8 @@ https://stream1.freetv.fun/f86ede7f851b8ab88dc1281e69267f84f0091f03b5cef83adf74b
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
 https://stream1.freetv.fun/9280112dcef2c7ae0be2779b3551d136e41948dcbc4a704740d9a0adfc41c4ff.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
+https://stream1.freetv.fun/5181883e7c158d09923c771982914ef62ef79085afcfccf7d507c19ba9656b21.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
 https://stream1.freetv.fun/8022d2ff0910ab31c8d38a5eb60e180390aa69b5388307df86e49924de8b09f5.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
 https://stream1.freetv.fun/71ea8ca3962a422d24d7b6fc81370ebe3e2d54b341e17a3f52cb711a671265e3.m3u8
@@ -5239,6 +5241,8 @@ https://stream1.freetv.fun/3bd56485c5f0d9c62b5c864695794e1ef946b46de7c1468e56ac2
 https://stream1.freetv.fun/5f39acea526cd74aa15e3852da96647bf3a9c332c1eab12375a027aed4711ced.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
 https://stream1.freetv.fun/fbbc23095f2a182fc33a4bcb6df22183abb6962cab34f4a7c4dd2315adb614b5.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
+https://stream1.freetv.fun/00ed820f3d708049ebc0dfb351f41a5453116a013e448db639d3e49c8847f643.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
 https://stream1.freetv.fun/3dac7f3b2a79467e6e76cef5622fa9c22684c5238d2361f38461e3a2dd5df6b0.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="地方台", 广东体育
@@ -5286,6 +5290,8 @@ https://stream1.freetv.fun/b4f7739ed9aa23a2be37c0d8e2ae2f596292c7cc9d32a0e477100
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
 https://stream1.freetv.fun/5cd864101ee0b041adb3482c8f3c4ee5f51550bc21ab008962cbc37ef6fb858e.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
+https://stream1.freetv.fun/af85fee1b8e836bd54cf69276660c22fffd54e31fe634856f6fd550ec77304d9.ctv
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
 https://stream1.freetv.fun/9ebcd6321ba50e1c99f45d6bd814c5a54b895c580ffe57b2513aed246e843db3.ctv
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
 https://stream1.freetv.fun/d9de27eb8679fb048a17cbe2b9b62be83a3757094a4dc2af0604d6456c27d48a.ctv
@@ -5319,6 +5325,8 @@ https://stream1.freetv.fun/391a7701c8cac71081ad768d6cbc52db5f63a52ad5f637c157a88
 https://stream1.freetv.fun/1a233cdf5ea6a2160bffab22a99ef7cdb69d050e4981f20450ca5d2729693bff.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
 https://stream1.freetv.fun/16bac08f66b9e703ace8fca107225f5e110b8132d147347fd83c1a414d34a2a6.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
+https://stream1.freetv.fun/62ad7479fc754f87993e3d0fd2258bc326453df98d1b628aa8b6ebac0ccb6610.ctv
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
 https://stream1.freetv.fun/ba4c52ba16df6797819210f3e54f9558647eeb15076665edee2860b6e0a4ee08.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
@@ -5365,6 +5373,8 @@ https://stream1.freetv.fun/9fce399e5ea5d65877b0db48ed8d5ee3e431554002a2b2103a5f6
 https://stream1.freetv.fun/59964d8a83c23ecd4a57c870d01f0ddc776ac8059c6acb29ec76c88f94668152.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
 https://stream1.freetv.fun/7d406dcd929d6156668e69fbe2e9700fd0eab9cf8296c8f036fc53d06f36d327.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
+https://stream1.freetv.fun/07f9e5dfaacdc44e430dc8e454cfddca71863d616e3e8e9c01f84fea7e60493b.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
 https://stream1.freetv.fun/4b357e62c2154776a89b1a23aa2c10f7b57e0b7b70c9c579185e84f84bf78ddf.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="地方卫视", 广东卫视
@@ -5420,15 +5430,15 @@ https://stream1.freetv.fun/ae49e0e485c66e5672bb6fdf3c2c8df5912f3f5c68036ede175c8
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
 https://stream1.freetv.fun/84fceffc00accf6798a3a22a5dad0d084a620a394c7434b21ff3fee3f39fcd78.ctv
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
-https://stream1.freetv.fun/cefaf54af5064b54121abca08dc0bab32059c8b527ac5d343fd60905a62ea92e.m3u8
-#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
-https://stream1.freetv.fun/a7763d1708bb28a6a0a87b995b9ec34dbd90dd33b8001a33761b62c2b9cb30e9.m3u8
-#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
 https://stream1.freetv.fun/3ef89f8cafffb087599c6e7ccb37d746c8e0c614c63fa0a798b8cad26829cae2.m3u8
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
+https://stream1.freetv.fun/cfbb4054ce4b6fbdeef0a9c6ded08a6f62d43765665a592f1fb6942c3051a40a.ctv
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
 https://stream1.freetv.fun/ba9c2acd3246a61d0a0de0f3e0e5067452c860d5ed11348ac966b5ebfb674b5f.ctv
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
 https://stream1.freetv.fun/d5acf38f5802c683a6ce250558c47dff511107c2e3f56c844e12bdcdd3a0fc78.m3u8
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
+https://stream1.freetv.fun/ebb8138bb56e55b0568bed42400b555abd65bea49e1a1efbb64e4b66c818d9f1.ctv
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
 https://stream1.freetv.fun/a05edc5f347bdf55ab857398a822ccb05247c9ba824ee67416563df114a09728.ctv
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" group-title="地方台", 广东少儿
@@ -5439,6 +5449,10 @@ https://stream1.freetv.fun/cb3e1d8fe708cb08a4b3b6476fdffa8e267e5f8af1c8a52b6068f
 https://stream1.freetv.fun/6506a8f0b1f8d585f20e6811c05f00dab879dea6a2c5e604a6f773aece51cd3f.ctv
 #EXTINF:-1 tvg-id="广东少儿频道" tvg-name="广东少儿频道" group-title="地方台", 广东少儿频道
 https://stream1.freetv.fun/d18bbaaf970df65cdfd5ac717f7ad75d351dd28b1540d8a5923de2ae1d30105c.m3u8
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="地方台", 广东影视
+https://stream1.freetv.fun/00bfec14d5b488d6536da7e2dc0a072f3d5d4eb956b3e345c86c1b0f910f81d1.ctv
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="地方台", 广东影视
+https://stream1.freetv.fun/89a8f54151cbd1cdcc5d8c75ddc62df88a8f1153d71bdf389b8e9534bcf2b2ea.ctv
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="地方台", 广东影视
 https://stream1.freetv.fun/5d7104bb77990a8fd94a6610f463103c51aa7ca0294507e278a52e4404482217.m3u8
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" group-title="地方台", 广东影视
@@ -5461,6 +5475,10 @@ https://stream1.freetv.fun/0e5e1a883fa882ec8428eb963ec6a5ba550bb484275c587fc3ac4
 https://stream1.freetv.fun/f9f8154221b596dc3f9ea17c3e493d2cf0a72e773a1e9caec81a1fa86abb3910.ctv
 #EXTINF:-1 tvg-id="广东影视频道" tvg-name="广东影视频道" group-title="地方台", 广东影视频道
 https://stream1.freetv.fun/1ff6119d5e413fe0606131280f53479c64174769c0966721cfbb64c242bf6b78.m3u8
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="地方台", 广东新闻
+https://stream1.freetv.fun/67751c1546d0c28416d614d106e4e65e5b47811c5ce4ed8db676e2651bdb5bfc.ctv
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="地方台", 广东新闻
+https://stream1.freetv.fun/61af649b46fb0f83611cb74691b414cb6785672e9d3b8ff5a266e9d43e6a37c1.ctv
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="地方台", 广东新闻
 https://stream1.freetv.fun/275b407034c712c6e60c716340cc0c3612cbbf91e6296a34b679a3fe2c3fc934.ctv
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="地方台", 广东新闻
@@ -5494,6 +5512,10 @@ https://stream1.freetv.fun/aacfe255321c041092fc54fe1250336c49e3a785cb7e76a122805
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="地方台", 广东民生
 https://stream1.freetv.fun/a27314a00d292bc048fa52ec90e49576fb8b2c281a9b327732dc4e9fd82e862c.ctv
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="地方台", 广东民生
+https://stream1.freetv.fun/2354bc4edf14a9ba6814c448e808d276bbca0f1fe8133b1e0812e0322ce83beb.ctv
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="地方台", 广东民生
+https://stream1.freetv.fun/68f2612150667cf3ff5a8ea7636ba84d93f77dd3f23731590a4ec5131b961030.ctv
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="地方台", 广东民生
 https://stream1.freetv.fun/d705bf2698d0b56ef2db9514c5bdf14406bd0c7fbdfd887eb3b649750bb83361.ctv
 #EXTINF:-1 tvg-id="广东民生频道" tvg-name="广东民生频道" group-title="地方台", 广东民生频道
 https://stream1.freetv.fun/a86ba95495fc12646208a35f932b7a879caa7ea319971c201e533a0cce39a737.m3u8
@@ -5512,7 +5534,11 @@ https://stream1.freetv.fun/bda519d40a214c2bfff9c5a5949d89c7eb82aba6d67a36488b379
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="地方台", 广东珠江
 https://stream1.freetv.fun/ac8f9da3dc774d6672d450c9168295e186070ee189416efa1e9724368f9fc0a3.ctv
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="地方台", 广东珠江
+https://stream1.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43adb6dc80aa8.ctv
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="地方台", 广东珠江
 https://stream1.freetv.fun/e7045f18df8fa6b98756f4bc5cbd94d0099dd73e9ff3cf359d15d326ee1a733b.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="地方台", 广东珠江
+https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.ctv
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="地方台", 广东珠江
 https://stream1.freetv.fun/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="地方台", 广东珠江
@@ -5536,6 +5562,10 @@ https://stream1.freetv.fun/a9e7b3b98cb0187806c71c0682bc06b3926f61bab2ae30048e41f
 #EXTINF:-1 tvg-id="广东科教1080P" tvg-name="广东科教1080P" group-title="地方台", 广东科教1080P
 https://stream1.freetv.fun/a304f030ffa0784694560c1ff06a10b508080d9b7a31c317b4aaefba18ffa533.ctv
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="地方台", 广东经济科教
+https://stream1.freetv.fun/bd916e2eec179db60658c14fcde694067a4d62a24282d882d0aa9746208a67c8.ctv
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="地方台", 广东经济科教
+https://stream1.freetv.fun/5a0986b6a939aa3905cc9f471e2a4b51bb8dab17b16ecfb2e83d2a669f504e5b.ctv
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="地方台", 广东经济科教
 https://stream1.freetv.fun/ba124df4595784ecb881a21c57f2c6e41dec70966466819ec37b8299037283a7.ctv
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="地方台", 广东经济科教
 https://stream1.freetv.fun/5b43dab24f2da87b1988b0953f72ebbb0f9c7d448b4a22f45888de75d091e58c.ctv
@@ -5548,7 +5578,11 @@ https://stream1.freetv.fun/195a90c7fd53ffd35bcd310057c96c96f0ee8b0cdcae125e5bfab
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" group-title="地方台", 广东综艺
 https://stream1.freetv.fun/e36ab558fbb6d496c5ab4ea54cb36a218ac6cbbf65280108ae37646f6eaec60c.ctv
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" group-title="地方台", 广东综艺
+https://stream1.freetv.fun/d0d100d63ef798458de7891d30ba4c595a3f8b3b928e7d3c9eaccc1f21689894.ctv
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" group-title="地方台", 广东综艺
 https://stream1.freetv.fun/0310c1b28b8b12811f8f098474951dfc0a92ef126b58b862efd681bcbe90c041.m3u8
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" group-title="地方台", 广东综艺
+https://stream1.freetv.fun/6ee099cd2faeb63ea6ce01a44b88213af8afba80d862572bf085571a908b3bc2.ctv
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" group-title="地方台", 广东综艺
 https://stream1.freetv.fun/48efc230ff2c3f33a94b5b6df6486df7aaaad4ec8fc5ed430f1be88c2d2d6ce9.ctv
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" group-title="地方台", 广东综艺
@@ -5560,11 +5594,15 @@ rtmp://live1.gatv.com.cn:1935/live/XWZH_HD
 #EXTINF:-1 tvg-id="广安新闻综合频道" tvg-name="广安新闻综合频道" group-title="其他", 广安新闻综合频道
 https://stream1.freetv.fun/b778266ea65e9ea74520cfcc77f05280df219c2527795ef56452e8f18294db4c.m3u8
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="其他", 广州新闻
+https://stream1.freetv.fun/28b58908a7f7f9095eaf8b3af5ff75814bd940fbb738c4b7830cd90c92492ba6.ctv
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="其他", 广州新闻
 https://stream1.freetv.fun/687a8ae332b2c6e764fb86e799bf136fec2e194733af563cd7a57d116a84aacc.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="其他", 广州新闻
 https://stream1.freetv.fun/b2588af111311cb4636075cac0397c6db87218edd8bab05e801fb2ddd7870570.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="其他", 广州新闻
 https://stream1.freetv.fun/d85db11a46950343792558eabc684c0fe4c8a0ccb81e7c4a3acd3b02f304f0fb.ctv
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="其他", 广州新闻
+https://stream1.freetv.fun/48779b47a1d0019d4dfa11c4030d2e74ac8e8b17b247dc78448ff8a3c34358bf.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="其他", 广州新闻
 https://stream1.freetv.fun/23e2042f052e6d5b3f33bab813fe3db2fd6b946b491363a38a14b4e5c9e5f388.ctv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="其他", 广州新闻
@@ -5668,10 +5706,6 @@ https://stream1.freetv.fun/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="地方卫视", 广西卫视
 https://stream1.freetv.fun/fd42bf7648f41c0bc4f2824aa17b174b4588405985baa28a887022e04791489e.m3u8
 #EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" group-title="地方台", 广西影视
-https://stream1.freetv.fun/77e44f7e56d9f59fd31a2b2df8d26b35e0459d59981361485ae6f4b5d75ab291.m3u8
-#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" group-title="地方台", 广西影视
-https://stream1.freetv.fun/baf52f6a1df0d102b85e1823f06da63ba1238ac1fcb09bfd24fbe1080f49e1f4.m3u8
-#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" group-title="地方台", 广西影视
 https://stream1.freetv.fun/4d3bb2803e1e74c4241c0961a01d141457f7d3c230ee21dbb9da772d25f59569.m3u8
 #EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" group-title="地方台", 广西影视
 https://stream1.freetv.fun/efc7071e9ba6c75f50bd782607402fe00ec77418243f96a462272f9c85624520.m3u8
@@ -5683,8 +5717,6 @@ https://stream1.freetv.fun/5282fc6e5e2e276fb764f0c50f2acf570df7f696d4265bd8da3f8
 https://stream1.freetv.fun/78af31c8ef37e32980528471ebb4855a66eb5190baed183896bcdb09491cfbdf.m3u8
 #EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" group-title="地方台", 广西影视
 https://stream1.freetv.fun/397ad4626ff6079e13990bc6474d9a855c149a7fdf3c827d83bd1277547dc025.m3u8
-#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" group-title="地方台", 广西新闻
-https://stream1.freetv.fun/126de7e4e9d2770459236cf4658b416bee191c30d7718d711e68a3256f809423.m3u8
 #EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" group-title="地方台", 广西新闻
 https://stream1.freetv.fun/3c471d2f76d9316d5ddc6fb2794870eaa9fba3224a967580e51d60f47fc5232f.m3u8
 #EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" group-title="地方台", 广西新闻
@@ -5701,8 +5733,6 @@ https://stream1.freetv.fun/68a679e6850d892f7c96a069c48f859793ca3c7930fc3c343cc7f
 https://stream1.freetv.fun/0f452681b2ca183ed1c6f1f9349ec0116c4b123e5dd6381e93e01088cd2315a6.m3u8
 #EXTINF:-1 tvg-id="广西综艺" tvg-name="广西综艺" group-title="地方台", 广西综艺
 https://stream1.freetv.fun/a4b4f68ce7c6d859538a85ef14d38f2123e370799943ed95fd21f7c6d2e37463.m3u8
-#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" group-title="地方台", 广西都市
-https://stream1.freetv.fun/d5863dd595299d9731f0d1878885c853e060466e2c3a9dafe5d42584d6dd4eb2.m3u8
 #EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" group-title="地方台", 广西都市
 https://stream1.freetv.fun/e1cfb2c962146b8f9ab9fb0c0d37a363d5a6bde03f2bf22c1c43b398be644edd.m3u8
 #EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" group-title="地方台", 广西都市
@@ -6882,6 +6912,8 @@ https://stream1.freetv.fun/904638be1ed96ff1bd69382ce33bd0e338f7c99ecd4b484183a06
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="地方卫视", 浙江卫视
 https://stream1.freetv.fun/7cc9da744761f219953f5f948eef774129410a58493360f0d7b1c67e2f8ff099.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="地方卫视", 浙江卫视
+https://stream1.freetv.fun/19e9b07ac5e3d8b7472760a48e52970a5d1fe8dcacce0ec907ae61531121c829.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="地方卫视", 浙江卫视
 https://stream1.freetv.fun/9eaebd80bda2a01d03b2c4b631823349ca1d6b4c95e08b06847d6ae2dc7d5111.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="地方卫视", 浙江卫视
 https://stream1.freetv.fun/3f1fd035ba696f5782e9c294c3c69749fe20b8329d8e23281517029b2d3db204.m3u8
@@ -7033,8 +7065,6 @@ https://stream1.freetv.fun/472e87d11e98f96d8255a57f2c0c86205014740b12936723a7267
 https://stream1.freetv.fun/3e8c1d009597cfb66e871e6d5dc0f3d42e447f7def4839f6e7f27ba45f82ab76.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" group-title="地方台", 浙江新闻
 https://stream1.freetv.fun/e49c3e942fdda148437c92e0082be0e8baed40698aae39e6d7674bc1b406b82f.m3u8
-#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" group-title="地方台", 浙江新闻
-https://stream1.freetv.fun/a649138959871ee6dbdeb61ecffe86b5b622c61eb435826f2067aa8888619ea4.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" group-title="地方台", 浙江新闻
 https://stream1.freetv.fun/e5d695052a7933bcebadd46f6b7a5ac54458f494246b99846db0329b81e30fbd.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" group-title="地方台", 浙江新闻
@@ -7305,8 +7335,6 @@ https://stream1.freetv.fun/86b6966044dfff14926e05ab0a4cbb37f868cea5befe6ccdb99f4
 https://stream1.freetv.fun/a999ed237a4047cfbe47ed21be8e097cdf3c74879a87b089422b24e29727b4d4.m3u8
 #EXTINF:-1 tvg-id="海安新闻综合" tvg-name="海安新闻综合" group-title="其他", 海安新闻综合
 https://stream1.freetv.fun/0cc66c496008f0a400f589015dcd24aeddfe5de0898f8395ff4d610a15f7ef98.m3u8
-#EXTINF:-1 tvg-id="海安新闻综合" tvg-name="海安新闻综合" group-title="其他", 海安新闻综合
-https://stream1.freetv.fun/fe8fa1496ddbd6f3e9b769c7769a97f041eceeed0b8ed8a51b1353b6d516ea0c.m3u8
 #EXTINF:-1 tvg-id="涉县新闻" tvg-name="涉县新闻" group-title="其他", 涉县新闻
 https://stream1.freetv.fun/30aeddda7c1d2a2e3294fc4aa746ca3afacd7441a0947bee9248919d92ad7ddb.m3u8
 #EXTINF:-1 tvg-id="涉县新闻" tvg-name="涉县新闻" group-title="其他", 涉县新闻
@@ -7890,8 +7918,6 @@ https://stream1.freetv.fun/daadd4f7e2b6f09feb17a353f4c7aa59e0797082572aa2aa48a40
 #EXTINF:-1 tvg-id="甘肃兰州新闻综合 (IPV6)" tvg-name="甘肃兰州新闻综合 (IPV6)" group-title="地方台", 甘肃兰州新闻综合 (IPV6)
 https://stream1.freetv.fun/edda061a42e3f65ca76623967cb1ccc607d00e2fef1f10c8b2382beda72062fb.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="地方卫视", 甘肃卫视
-https://stream1.freetv.fun/9c7c70ecfd4353d960f5ee84654b872b267675120c5e5ea608f8c44ef4ee1704.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="地方卫视", 甘肃卫视
 https://stream1.freetv.fun/90aa9a061c6af0d24b84d714b682f71133bf5deae8b6453b1566b9c44b1c52bf.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="地方卫视", 甘肃卫视
 https://stream1.freetv.fun/c66fc0c137e841bd00f484b5867ee741a398beb7c4e7967aa789a0e14a65d804.m3u8
@@ -7966,8 +7992,6 @@ https://stream1.freetv.fun/175ece5dafe1e2079c5f57cbdb0600789ad06e27deb3b52e1afff
 #EXTINF:-1 tvg-id="直播中国精编直播" tvg-name="直播中国精编直播" group-title="港澳台", 直播中国精编直播
 https://stream1.freetv.fun/4c21469bc0b9d5adcfa384ab3c6d9663ab8a035a844649cd77d93247ea29e92c.m3u8
 #EXTINF:-1 tvg-id="睛彩河北" tvg-name="睛彩河北" group-title="地方台", 睛彩河北
-https://stream1.freetv.fun/572cf8f073b615f8b2f01df6396ecd157995bfd5b3275313697fa2419eef8771.m3u8
-#EXTINF:-1 tvg-id="睛彩河北" tvg-name="睛彩河北" group-title="地方台", 睛彩河北
 https://stream1.freetv.fun/67cbcd8a3ddcbb1d33892466dfee63499ed84d791343e02c4ce75f94e3b2dca4.ctv
 #EXTINF:-1 tvg-id="睛彩河北" tvg-name="睛彩河北" group-title="地方台", 睛彩河北
 https://stream1.freetv.fun/80b7c2cdd95dcc720ed344fc0c21f32c7609bd4e5ae66a5275df881c240555de.m3u8
@@ -7975,8 +7999,6 @@ https://stream1.freetv.fun/80b7c2cdd95dcc720ed344fc0c21f32c7609bd4e5ae66a5275df8
 https://stream1.freetv.fun/d55e1c22b63c741d2110ad7424ce020fd560eeabf620ef618daf07ddd3726368.m3u8
 #EXTINF:-1 tvg-id="睢宁生活教育" tvg-name="睢宁生活教育" group-title="其他", 睢宁生活教育
 https://stream1.freetv.fun/2af73d7633777678a595c1490fa4ba2a9d54bc3ec3e25982f8cb817d5264811f.m3u8
-#EXTINF:-1 tvg-id="睢宁生活教育" tvg-name="睢宁生活教育" group-title="其他", 睢宁生活教育
-https://stream1.freetv.fun/adf88754e06cf341e1e0fd4d882dc3a7deece710f5e27093b236647ea80fc0b8.m3u8
 #EXTINF:-1 tvg-id="石家庄新闻" tvg-name="石家庄新闻" group-title="其他", 石家庄新闻
 https://stream1.freetv.fun/11ae12b03f0c601ed760e06ffa426cc4dceea9c15de97070fb3b3884f925dd88.ctv
 #EXTINF:-1 tvg-id="石家庄新闻" tvg-name="石家庄新闻" group-title="其他", 石家庄新闻
@@ -8205,8 +8227,6 @@ https://stream1.freetv.fun/866d725783c0cf7004cc67003839a51a64c6d431b8b6efdb8a3c2
 https://stream1.freetv.fun/8812e9ba7d6a864962fee5cb6226ad62807fb0a1ef813976ee1cbb71c1d7677e.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="地方卫视", 西藏卫视
 https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.ctv
-#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" group-title="地方台", 西藏影视文化
-https://stream1.freetv.fun/fa190c1260bcc01bbb2e56759de8ce087aed65c4c4699db809985d0152e4445c.m3u8
 #EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" group-title="地方台", 西藏影视文化
 https://stream1.freetv.fun/c81a555962f383888669f729afa0303c466520db6b41f649f3d7036a0a5a6065.ctv
 #EXTINF:-1 tvg-id="西青新闻综合" tvg-name="西青新闻综合" group-title="其他", 西青新闻综合
@@ -8469,6 +8489,8 @@ https://stream1.freetv.fun/c386d9c7cbbd54acd5c62d1e68d3b89f76f9f7a926691e4ad6939
 https://stream1.freetv.fun/91916992fb62b120939e6706e0afe5b3f293ac89ef6e02481b3f54c9a869c6c3.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="地方卫视", 辽宁卫视
 https://stream1.freetv.fun/4cec02e6ee84731aee7c1ac29be903709bf4cf93ae34ae6ad1076b5323e01c75.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="地方卫视", 辽宁卫视
+https://stream1.freetv.fun/839305f9ff7f16cfa4632450cdc7e07207e9a29b8a2346e2a0f2e53a4b7f5e8a.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="地方卫视", 辽宁卫视
 https://stream1.freetv.fun/e0e6a6088fac2bb3e8dde1bd0ecf96325c3cf0a9617c1ce3dc41e2f2ac290ac7.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="地方卫视", 辽宁卫视
@@ -8899,8 +8921,6 @@ https://stream1.freetv.fun/7d5644415d672ff3d314474b1b8ce769c5213f92a813b15efc66f
 https://stream1.freetv.fun/e7e0027583f79b12d4c19e52792231374a99461a4fb78d961ba780016b0d31cc.m3u8
 #EXTINF:-1 tvg-id="高邮一套新闻综合" tvg-name="高邮一套新闻综合" group-title="其他", 高邮一套新闻综合
 https://stream1.freetv.fun/560ccb1f7d570fd1e5724e26bc9d16f2f96aa188f30949d1ab4af64e0b6914f7.m3u8
-#EXTINF:-1 tvg-id="高邮一套新闻综合" tvg-name="高邮一套新闻综合" group-title="其他", 高邮一套新闻综合
-https://stream1.freetv.fun/3155dea8109406c5374854e2a6009cecfc5b7660dccf96d1eec535737e1232d4.m3u8
 #EXTINF:-1 tvg-id="魚丸說電影" tvg-name="魚丸說電影" group-title="电影", 魚丸說電影
 https://stream1.freetv.fun/41b767c9d93ee906f35971d9796734fb6bc30c0d94e662cd5e3b9afc2250c5df.ctv
 #EXTINF:-1 tvg-id="鱼台新闻" tvg-name="鱼台新闻" group-title="其他", 鱼台新闻
@@ -8950,8 +8970,6 @@ https://stream1.freetv.fun/611389ae6decc92406c6c26b1bcd3924b8e5cf948c09ece5feea9
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
 https://stream1.freetv.fun/c7bbd4a65e87bc37e2eb1133e367259cf105c34934e54061f4410f9a320d724e.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
-https://stream1.freetv.fun/3c31b11f45e2dcb232536abb027893cf8b886bab5a72feae46a999539c6895f1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
 https://stream1.freetv.fun/a36da614e647aa81e493b75215bf763a5aa61011064d2cfb60d236c99a09c2c9.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
 https://stream1.freetv.fun/62a1e8a95c54e84ab7d27299d61531886cc8f4e32698d7acc0aee9edea4aecbe.ctv
@@ -8997,6 +9015,8 @@ https://stream1.freetv.fun/31a880373cf03e36e8968db045324adc880b02ef8630d646649d3
 https://stream1.freetv.fun/5666ba5eba0da10ed0739d64ae597ba356fbd03e690e8c83e1e6b1b2758a699c.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
 https://stream1.freetv.fun/e0393ff251189ecb7a7144d01c3631ff597a6020ebe0468cf76f80ae4c174722.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
+https://stream1.freetv.fun/f85f51d74f8baf8ccd0033ba1293a87e1227abc63ff92257ea998a21b930799a.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
 https://stream1.freetv.fun/9e0eca0a4582ed9d3eb8e9fa8c2b291af0874f6849130b62a53196bbcd02716b.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="地方卫视", 黑龙江卫视
