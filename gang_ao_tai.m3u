@@ -225,8 +225,6 @@ https://stream1.freetv.fun/624273d135358285ca58b9e31a1949cf7ea31020c1c2e600fd0ef
 https://stream1.freetv.fun/1d399c90d4abdab81a9472457dde5ab5de8de688ae23dc18ba7075abc413a69d.m3u8
 #EXTINF:-1 tvg-id="中国教育电视台 1 (IPV6)" tvg-name="中国教育电视台 1 (IPV6)" group-title="港澳台", 中国教育电视台 1 (IPV6)
 https://stream1.freetv.fun/76b511f4e8124e7479341e643559d99016c1ad19ef21c45e3339dfae51b4f8fd.m3u8
-#EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" group-title="港澳台", 中国电影
-https://stream1.freetv.fun/9185f61073bdd3e3798ab263bbf5a362bb32debe3bf1bd13d792f071a4b1ef45.m3u8
 #EXTINF:-1 tvg-id="中国蓝新闻" tvg-name="中国蓝新闻" group-title="港澳台", 中国蓝新闻
 https://stream1.freetv.fun/a85afeb84946b75b6fcd44371c0b6d41636531a1975abed39ca02845773c2c9f.m3u8
 #EXTINF:-1 tvg-id="中国蓝新闻 (Backup 1)" tvg-name="中国蓝新闻 (Backup 1)" group-title="港澳台", 中国蓝新闻 (Backup 1)
@@ -756,8 +754,6 @@ https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc
 #EXTINF:-1 tvg-id="翡翠 (Backup 1)" tvg-name="翡翠 (Backup 1)" group-title="港澳台", 翡翠 (Backup 1)
 https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
 #EXTINF:-1 tvg-id="翡翠 (Backup 2)" tvg-name="翡翠 (Backup 2)" group-title="港澳台", 翡翠 (Backup 2)
-https://stream1.freetv.fun/aab1e3c651061ddc2ce266030239f13d8d808461e910a16ce9d60cf803082470.ctv
-#EXTINF:-1 tvg-id="翡翠 (Backup 3)" tvg-name="翡翠 (Backup 3)" group-title="港澳台", 翡翠 (Backup 3)
 https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台", 翡翠台
 https://stream1.freetv.fun/900349a66d6cc08ff6baaaad614745f6be22ceb6d30c002daecab13b142bc91d.ctv
@@ -770,8 +766,6 @@ https://stream1.freetv.fun/06cfd8e823da9c45c37579cf46408f1e6707bf7f6a3a7ca12060d
 #EXTINF:-1 tvg-id="舌尖上的中国第2季" tvg-name="舌尖上的中国第2季" group-title="港澳台", 舌尖上的中国第2季
 https://stream1.freetv.fun/bded6a2a416b63b8185d8211fc77f5ece9ddab2182dea96fe98f5cdc931d042c.ctv
 #EXTINF:-1 tvg-id="舌尖上的中国第2季 (Backup 1)" tvg-name="舌尖上的中国第2季 (Backup 1)" group-title="港澳台", 舌尖上的中国第2季 (Backup 1)
-https://stream1.freetv.fun/041667bc14e04bc3653c4832f07b570b2ea396facdd2f7a162dcef3b25c0a8a2.ctv
-#EXTINF:-1 tvg-id="舌尖上的中国第2季 (Backup 2)" tvg-name="舌尖上的中国第2季 (Backup 2)" group-title="港澳台", 舌尖上的中国第2季 (Backup 2)
 https://stream1.freetv.fun/ba536d07dad89fdd615575adb5c09d835f6f9be989bb3b45e7135aa2cdd95f85.ctv
 #EXTINF:-1 tvg-id="船長電影解說" tvg-name="船長電影解說" group-title="电影", 船長電影解說
 https://stream1.freetv.fun/b1992ea2dd01bdbda63ced72f606ab608e95d78f5e10b3aacd194a67a641bed4.ctv
