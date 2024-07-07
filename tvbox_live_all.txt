@@ -109,7 +109,7 @@ URBAN MOVIES,http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 刘老师说电影,https://www.goodiptv.club/huya/20289754
 刘老师说电影,https://www.goodiptv.club/douyu/8317926
 前任电影,http://epg.112114.xyz/douyu/9329242
-动作电影,http://222.218.159.80:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+动作电影,http://171.108.239.99:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 动作电影,http://171.108.239.98:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 动作电影,http://171.108.239.80:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 动作电影,http://171.108.239.79:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -200,7 +200,7 @@ URBAN MOVIES,http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 广州电视台影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=da4e7946ce44b3e1150e257961439a77&txTime=19071ed9221
 广州电视台影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
 广州电视台影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=cbfba109d1fef4ef29e93a1c6bba208e&txTime=19019e62015
-广西影视,http://113.15.187.9:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://219.159.194.57:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.80:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.98:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.79:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2392,7 +2392,7 @@ CCTV12,http://61.136.67.238:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&
 CCTV12,http://58.57.21.166:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV12,http://220.164.192.48:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://221.5.12.130:2223/hls/81/index.m3u8
-CCTV12,http://219.159.194.243:8181/tsfile/live/0012_1.m3u8
+CCTV12,http://171.108.239.98:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
 CCTV12,http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
@@ -2667,7 +2667,7 @@ CCTV16,http://117.12.148.183:12345/udp/225.1.2.237:5002
 CCTV16,http://60.164.229.229:4040/udp/239.255.30.80:8231
 CCTV16,http://www.unraidd.top:8282/udp/239.29.1.146:5000
 CCTV16,http://171.108.239.79:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://171.108.239.115:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://171.108.239.99:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv
 CCTV16,http://114.252.229.26:9876/rtp/239.3.1.184:8001
 CCTV16,http://58.17.48.228:808/hls/25/index.m3u8
@@ -3007,10 +3007,10 @@ CCTV5,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv
 CCTV5,http://219.159.194.166:8181/tsfile/live/0016_1.m3u8
 CCTV5,http://58.57.21.166:9901/tsfile/live/0016_1.m3u8
 CCTV5,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://119.125.134.155:9901/tsfile/live/1148_1.m3u8
-CCTV5,http://119.125.134.171:9901/tsfile/live/1148_1.m3u8
+CCTV5,http://106.46.114.6:8011/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://219.159.194.57:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://221.5.12.130:2223/hls/89/index.m3u8
-CCTV5,http://219.159.194.189:8181/tsfile/live/0016_1.m3u8
+CCTV5,http://219.159.194.197:8181/tsfile/live/0016_1.m3u8
 CCTV5,http://119.62.28.157:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://222.218.158.202:8181/tsfile/live/0016_1.m3u8
 CCTV5,http://171.108.239.98:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3625,7 +3625,7 @@ MOVIES_DOUYU,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 山东综艺,http://113.120.108.236:4000/udp/239.21.1.177:5002
 广东 4K 超高清频道,http://183.11.239.36:808/hls/9/index.m3u8
 广东 Ⅰ 韶关综合台,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-广东公共,http://113.15.187.9:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://219.159.194.57:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共,http://www.zzlag.top:9087/tsfile/live/1042_1.m3u8?key=txiptv
 广东公共1080P,http://120.234.5.28:6000/udp/239.21.0.86:3684
 广东民生,http://113.110.200.37:8888/udp/239.77.0.225:5146
@@ -3878,7 +3878,7 @@ MOVIES_DOUYU,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 上海卫视,http://223.159.8.145:8099/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 上海卫视,http://119.62.28.157:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://222.241.154.37:9901/tsfile/live/23033_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视,http://222.218.159.80:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://219.159.194.57:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://124.128.73.58:9901/tsfile/live/0107_2.m3u8?key=txiptv
 上海卫视,http://171.116.59.153:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://223.151.51.74:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4544,7 +4544,7 @@ MOVIES_DOUYU,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 新疆卫视,http://119.62.28.157:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 旅游卫视,http://124.128.73.58:9901/tsfile/live/0114_1.m3u8?key=txiptv
 星空卫视,http://13457610200.8866.org:2018/live/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86/index.m3u8
-星空卫视,http://171.108.239.115:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://171.108.239.98:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://171.108.239.80:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 江苏卫视,http://120.7.85.152:8088/hls/20/index.m3u8
@@ -5329,7 +5329,7 @@ MOVIES_DOUYU,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 黑龙江卫视,http://120.7.85.152:8088/hls/27/index.m3u8
-黑龙江卫视,http://113.15.187.9:8181/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://219.159.194.57:8181/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://114.252.229.26:9876/rtp/239.3.1.133:8016
 黑龙江卫视,http://222.241.154.37:9901/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
@@ -5400,7 +5400,7 @@ MOVIES_DOUYU,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 
 咪咕,#genre#
 
-咪咕体育,http://live-cmvideo.cmread.com:80/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d71afdb4433cfb1ced90779b543d1dee
+咪咕体育,http://2edddd.netsite.cc/proxy/1168525477/1168525477.m3u8
 咪咕直播 「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
 咪咕直播 「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
 咪咕直播 「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
