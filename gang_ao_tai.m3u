@@ -389,6 +389,8 @@ https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf1
 https://stream1.freetv.fun/36c7d0cf35c80188b4ce46f58597e4c5327a7174f0b8b9f961a26057d6d587ad.ctv
 #EXTINF:-1 tvg-id="呆瓜侃電影" tvg-name="呆瓜侃電影" group-title="影视", 呆瓜侃電影
 https://stream1.freetv.fun/2c53753390bda0fbd8e77c2ffba4c44f7ab3cf7bff829a0683ecab28bd1de241.ctv
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" group-title="咪咕", 咪咕体育
+https://stream1.freetv.fun/719331c9156a38f54cafa7ec522c5d8958a70a8312a8716639a835d337ba7c4e.m3u8
 #EXTINF:-1 tvg-id="咪咕全民热练 (IPV6)" tvg-name="咪咕全民热练 (IPV6)" group-title="IPV6", 咪咕全民热练 (IPV6)
 https://stream1.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
 #EXTINF:-1 tvg-id="咪咕直播 *「IPV6」 (IPV6)" tvg-name="咪咕直播 *「IPV6」 (IPV6)" group-title="IPV6", 咪咕直播 *「IPV6」 (IPV6)
