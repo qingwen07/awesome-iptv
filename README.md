@@ -10,13 +10,13 @@
 
 ### 1、使用了好几年，稳定、快速的VPN：https://33226.kejibear.site/auth/register?code=BRli
 
-### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐【优惠码：顶级开源】：[点击上车](https://nf.video/xpga4x)
+### 2、各种AI、电视伴侣、流媒体账号，家庭影音设备推荐【优惠码：顶级开源】[点击上车](https://nf.video/xpga4x)
 
 ### 3、顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
 
-### 4、Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
+### 4、Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007](https://t.me/hackerNewsSummary007)
 
-### 5、只有想不到没有搜不到的搜索神器🔥搜片神器🔥中文搜索🔥TG 神器🔥:[https://t.me/jisou_007](https://t.me/jisou_007)
+### 5、只有想不到没有搜不到的搜索神器🔥搜片神器🔥中文搜索🔥TG 神器🔥 [https://t.me/jisou_007](https://t.me/jisou_007)
 
 ## 使用方法：
 1、找到对应的m3u文件，比如gang_ao_tai.m3u；
