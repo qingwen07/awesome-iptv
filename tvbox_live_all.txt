@@ -106,7 +106,7 @@ CCTV2,http://222.218.158.202:8181/tsfile/live/0002_1.m3u8
 CCTV2,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv2b&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV2,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv2c&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV2,http://111.230.30.193/php/lyd.php?id=6540
-CCTV2,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/1300.m3u8
+CCTV2,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&livodToken=3c65cf8c046f4fa02293a900a4fb002a1581aa92702ef56b1b4b66d7c9d5dcd3_1720507803_604800&fromCDN=ws
 CCTV2,http://27.10.72.127:8001/udp/225.0.4.132:7980
 CCTV2,http://dms.yryyj.site:8188/udp/239.76.246.152:1234
 CCTV2,http://222.218.158.230:8181/tsfile/live/0002_1.m3u8
@@ -2244,7 +2244,7 @@ TVB无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 天津卫视,http://219.135.208.218:8083/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://123.163.55.234:9901/tsfile/live/0135_1.m3u8?key=txiptv
 宁夏卫视,http://119.39.97.2:9002/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://113.218.229.25:8081/tsfile/live/0112_1.m3u8?key=txiptv
+宁夏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/NXWS/index.m3u8?gMac=unknown&livodToken=bb22c5f4d3c4454881ad6741e0393486ff814674e1f47dda0fb9f0458516c2dc_1720518643_604800&fromCDN=ws
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=fa85a7111719921825
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140
@@ -3080,7 +3080,7 @@ TVB无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002160/index.m3u8
 莲花卫视,https://yang-1989.eu.org/mo/lhws
 藏语卫视,http://ygbh.live/xz.php?id=xzzy
-西藏卫视,http://113.218.229.25:8081/tsfile/live/0111_1.m3u8?key=txiptv
+西藏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/XZWS/index.m3u8?gMac=unknown&livodToken=869833d1e922fd2adfbda722dd7633da4bba9b82e35962c8375cc1caf4e2b549_1720509408_604800&fromCDN=ws
 西藏卫视,http://ygbh.live/xz.php?id=xzws
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=ae96e9569da6f90946c83f3729ec5fbc&time=668cd3b4
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
@@ -4462,7 +4462,7 @@ URBAN MOVIES,http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 韩小囧说电影,https://www.goodiptv.club/huya/20695907
 香兰爱影视,https://www.goodiptv.club/douyu/9487090
 高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-高清电影,http://hjf.sihanlin.top:9901/tsfile/live/1114_1.m3u8
+高清电影,http://171.108.239.99:8181/tsfile/live/1008_1.m3u8?key=txiptv
 魚丸說電影,https://live.metshop.top/huya/16615910
 鱼丸说电影,https://www.goodiptv.club/huya/16615910
 鹿哥电影,https://www.goodiptv.club/huya/24396360
@@ -4803,7 +4803,7 @@ ZOO MOO KIDS,https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 山东少儿,http://123.132.233.194:352/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://119.129.205.172:4000/udp/239.77.0.250:5146
 广东少儿,http://119.122.214.182:4022/udp/239.77.0.250:5146
-广东少儿,http://113.110.200.37:8888/udp/239.77.0.250:5146
+广东少儿,http://113.118.207.12:4022/udp/239.77.0.250:5146
 广东少儿,http://113.65.233.218:2888/udp/239.77.0.250:5146
 广东少儿,http://www.zzlag.top:9087/tsfile/live/1039_1.m3u8?key=txiptv
 广东少儿,http://219.159.194.57:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -5433,7 +5433,7 @@ NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 山西文体生活,https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/o19Yn00.m3u8
 山西生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 巴音生活,rtmp://tv.loulannews.cn/channellive/ch3
-常州生活,http://2edddd.netsite.cc/proxy/692207623/692207623.m3u8
+常州生活,https://livekcz.cztv.tv/kcz/cztv3.m3u8?auth_key=1720516054-0-0-2903ca54a58b4aa795b64fe0c976f69e
 常州生活,http://597ca2.netsite.cc/proxy/692207623/692207623.m3u8
 平潭电视,http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
 广丰电视台,http://live02.jxtvcn.com.cn/live/ganyun_guangfeng.m3u8?t=1&token=1
