@@ -261,7 +261,7 @@ CCTV4,http://219.159.194.57:8181/tsfile/live/0004_1.m3u8
 CCTV4,http://110.80.17.38:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4,http://59.62.8.250:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?
-CCTV4,http://61.52.158.139:808/hls/4/index.m3u8
+CCTV4,http://171.108.239.79:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?
 CCTV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8?
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8?
@@ -549,7 +549,7 @@ CCTV7,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479fa
 CCTV7,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv7c&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV7,http://111.230.30.193/php/lyd.php?id=5733
 CCTV7,http://219.159.194.197:8181/tsfile/live/0007_1.m3u8
-CCTV7,http://61.52.158.24:808/hls/7/index.m3u8
+CCTV7,http://223.159.10.33:8099/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?
 CCTV7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8?
 CCTV7,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8?
@@ -683,13 +683,13 @@ CCTV9,http://1b6467f415.iok.la:9931/tsfile/live/1029_1.m3u8
 CCTV9,http://mail.petzhu.top:7000/rtp/239.254.200.59:8112
 CCTV9,http://221.5.12.130:2223/hls/90/index.m3u8
 CCTV9,http://dms.yryyj.site:8188/udp/239.76.246.159:1234
-CCTV9,http://61.52.158.139:808/hls/9/index.m3u8
+CCTV9,http://219.159.194.57:8181/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv9c&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV9,http://111.230.30.193/php/lyd.php?id=5734
 CCTV9,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=7962fd0fc672036d700e4e49a432622a74e060a23f1b55b1cc1e2ee7ee13b4a9_1720504614_604800&fromCDN=ws
 CCTV9,http://219.159.194.197:8181/tsfile/live/0009_1.m3u8
 CCTV9,http://171.108.239.79:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://61.52.158.24:808/hls/9/index.m3u8
+CCTV9,http://223.159.10.33:8099/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9,http://61.52.158.215:808/hls/9/index.m3u8
 CCTV9,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?
 CCTV9,http://110.80.17.38:9901/tsfile/live/0009_1.m3u8?key=txiptv
@@ -834,7 +834,7 @@ CCTV11,http://120.234.5.29:6000/udp/239.21.0.35:3480
 CCTV11,http://mail.petzhu.top:7000/rtp/239.254.201.123:8120
 CCTV11,http://alvin.ergotron.net:8000/udp/239.77.1.238:5146
 CCTV11,http://222.218.158.230:8181/tsfile/live/0011_1.m3u8
-CCTV11,http://61.52.158.24:808/hls/11/index.m3u8
+CCTV11,http://219.159.194.57:8181/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://219.159.194.233:8181/tsfile/live/0011_1.m3u8
 CCTV11,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv11c&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV11,http://111.230.30.193/php/lyd.php?id=6565
@@ -906,12 +906,13 @@ CCTV12,http://120.234.5.29:6000/udp/239.20.0.201:2200
 CCTV12,http://mail.petzhu.top:7000/rtp/239.254.200.161:6000
 CCTV12,http://alvin.ergotron.net:8000/udp/239.77.1.109:5146
 CCTV12,http://171.108.239.79:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://220.164.192.48:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://111.230.30.193/php/lyd.php?id=6568
 CCTV12,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=2c98acaa80392eb7cfc5167a9a71482882518255259852ee6387715d5104fd23_1720504686_604800&fromCDN=ws
 CCTV12,http://222.241.154.37:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://[2409:8087:74F1:0021::0008]/270000001322/69900158041111100000002147/index.m3u8
 CCTV12,http://171.116.59.153:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://61.52.158.24:808/hls/12/index.m3u8
+CCTV12,http://223.159.10.33:8099/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://58.51.111.46:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://219.159.194.233:8181/tsfile/live/0012_1.m3u8
 CCTV12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
@@ -1064,7 +1065,7 @@ CCTV14,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479f
 CCTV14,http://111.230.30.193/php/lyd.php?id=6591
 CCTV14,http://219.159.194.57:8181/tsfile/live/0014_1.m3u8
 CCTV14,http://171.108.239.80:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://61.52.158.24:808/hls/14/index.m3u8
+CCTV14,http://223.159.10.33:8099/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8?
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8?
@@ -1126,7 +1127,7 @@ CCTV15,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 CCTV15,http://218.241.192.50:8808/rtp/239.3.1.153:8136
 CCTV15,http://222.218.158.202:8181/tsfile/live/0015_1.m3u8
 CCTV15,http://219.159.194.197:8181/tsfile/live/0015_1.m3u8
-CCTV15,http://61.52.158.24:808/hls/15/index.m3u8
+CCTV15,http://219.159.194.57:8181/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://120.234.5.29:6000/udp/239.21.0.36:3484
 CCTV15,http://mail.petzhu.top:7000/rtp/239.254.201.124:8136
 CCTV15,http://alvin.ergotron.net:8000/udp/239.77.1.239:5146
@@ -1239,6 +1240,7 @@ CCTV17,http://58.23.26.184:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 CCTV17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 CCTV17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+CCTV17,http://171.108.239.99:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://120.234.5.29:6000/udp/239.20.0.7:3376
 CCTV17,http://mail.petzhu.top:7000/rtp/239.254.201.120:8144
 CCTV17,http://alvin.ergotron.net:8000/udp/239.77.1.121:5146
@@ -2601,6 +2603,7 @@ TVB无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 江西卫视,http://gouwu.pthv.gitv.tv:91/live/JXWShd-8M/live.m3u8
 江西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=84e38030fc4f1248603777a24ade5ab82ef30103522330bb3444634a1b66307f_1720509019_604800&fromCDN=ws
 江西卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?
+江西卫视,http://223.159.10.33:8099/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,http://113.240.177.80:8082/hls/27/index.m3u8
 江西卫视,http://222.241.154.37:9901/tsfile/live/23034_1.m3u8?key=txiptv
 江西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=474c90d882097b2d562398658075287e1e21930013b659af3a1922509cd4bbd1_1720505073_604800&fromCDN=ws
@@ -3572,7 +3575,7 @@ TVB无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 广东民生,http://113.118.207.12:4022/udp/239.77.0.225:5146
 广东民生,http://119.129.205.172:4000/udp/239.77.0.225:5146
 广东民生,http://119.122.214.182:4022/udp/239.77.0.225:5146
-广东民生,http://113.87.251.83:4000/udp/239.77.0.225:5146
+广东民生,http://113.87.248.154:4000/udp/239.77.0.225:5146
 广东民生,http://113.65.233.218:2888/udp/239.77.0.225:5146
 广东民生,http://113.109.248.232:9999/udp/239.77.0.225:5146
 广东民生,http://58.252.12.164:8000/udp/239.77.0.225:5146
@@ -3905,7 +3908,7 @@ TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 凤凰中文,http://ayolee.com:5253/udp/239.93.1.9:2192
-凤凰中文,http://ayolee.com:5253/udp/239.93.1.9:2192
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?
