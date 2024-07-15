@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ASTRO 华丽台" tvg-name="ASTRO 华丽台" group-title="05港澳台", ASTRO 华丽台
+https://stream1.freetv.fun/79bd740e97a131d5778d10bcb4b7781c089a5e78aaaf2d32eebd945e0ae8df14.ctv
+#EXTINF:-1 tvg-id="ASTRO 华丽台 (Backup 1)" tvg-name="ASTRO 华丽台 (Backup 1)" group-title="05港澳台", ASTRO 华丽台 (Backup 1)
+https://stream1.freetv.fun/4863e2e4a39a5684407ed6cd7e57eee6994f6f1b41e1e39746200b26c7a0fcad.ctv
+#EXTINF:-1 tvg-id="ASTRO华丽台" tvg-name="ASTRO华丽台" group-title="05港澳台", ASTRO华丽台
+https://stream1.freetv.fun/7106e6ee396fb8b0f7cf704060c2b66f869feb5820e31ac31b26bb4fb5616f98.ctv
+#EXTINF:-1 tvg-id="ASTRO华丽台 (Backup 1)" tvg-name="ASTRO华丽台 (Backup 1)" group-title="05港澳台", ASTRO华丽台 (Backup 1)
+https://stream1.freetv.fun/dda971f816741b40d7ba50815d7de5c7c0ef12eb21de8879e564074560678c32.ctv
 #EXTINF:-1 tvg-id="CETV1中国教育电视台一套" tvg-name="CETV1中国教育电视台一套" group-title="05港澳台", CETV1中国教育电视台一套
 https://stream1.freetv.fun/7aee499ca94e0799a039594ad57e69ae516ba59a3f69cb5c161a26e2994ebd8c.m3u8
 #EXTINF:-1 tvg-id="CETV1中国教育电视台一套 (Backup 1)" tvg-name="CETV1中国教育电视台一套 (Backup 1)" group-title="05港澳台", CETV1中国教育电视台一套 (Backup 1)
@@ -12,7 +20,7 @@ https://stream1.freetv.fun/4cdbbc32cb5aeb291b9c11bb0d726de18d864ae6fb87e3fb6ee25
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="05港澳台", HGTV
 https://stream1.freetv.fun/be566f589f44793ab0cf1c2c69d1eb73fdbc3aa744bb7b886684b5b2c69742ed.ctv
 #EXTINF:-1 tvg-id="HGTV (Backup 1)" tvg-name="HGTV (Backup 1)" group-title="05港澳台", HGTV (Backup 1)
-https://stream1.freetv.fun/67f7c70b207c1c9ed8184b38e67e2d7f9218e356daab53c64415e258514184c1.m3u8
+https://stream1.freetv.fun/22a303759954bfc75e11a259e8fee9e73f0d97126a2a1ac3ac61a8a50d4e9551.ctv
 #EXTINF:-1 tvg-id="HGTV (Backup 2)" tvg-name="HGTV (Backup 2)" group-title="05港澳台", HGTV (Backup 2)
 https://stream1.freetv.fun/977f5d7416b635a78084f0161af876af32b93be70b586539ac5e1243f01040b8.m3u8
 #EXTINF:-1 tvg-id="HGTV (Backup 3)" tvg-name="HGTV (Backup 3)" group-title="05港澳台", HGTV (Backup 3)
@@ -40,9 +48,9 @@ https://stream1.freetv.fun/650ce090b7a77d31d8ad6299bc38ccad461bfa4b966c460a24ada
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" group-title="05港澳台", TVB PLUS
 https://stream1.freetv.fun/85817057181a8f1bf3f836030ee27b9cc3bbf2fdc5f4977985a4e9b38af2d689.ctv
 #EXTINF:-1 tvg-id="TVB PLUS (Backup 1)" tvg-name="TVB PLUS (Backup 1)" group-title="05港澳台", TVB PLUS (Backup 1)
-https://stream1.freetv.fun/b996dd550768a18d19dbc153fa89886a83e077c384455daea3beea366092c826.m3u8
+https://stream1.freetv.fun/63e9879537d97c1c03d6bf8b53ab33a7c1494327769d230a13815bcb6f2fecb7.m3u8
 #EXTINF:-1 tvg-id="TVB PLUS (Backup 2)" tvg-name="TVB PLUS (Backup 2)" group-title="05港澳台", TVB PLUS (Backup 2)
-https://stream1.freetv.fun/0588a4627434f713ed54f5f3c49d0b4820136436b66cda56f8238b06306a20e6.m3u8
+https://stream1.freetv.fun/b996dd550768a18d19dbc153fa89886a83e077c384455daea3beea366092c826.m3u8
 #EXTINF:-1 tvg-id="TVB THAI" tvg-name="TVB THAI" group-title="05港澳台", TVB THAI
 https://stream1.freetv.fun/5569dd3490d75e16b9bca331bc538c3f38a60a0660a82e8db70408253bb4e92f.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" group-title="05港澳台", TVBS
@@ -128,14 +136,20 @@ https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d4520
 #EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" group-title="05港澳台", 三立新聞
 https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="05港澳台", 东森洋片
-https://stream1.freetv.fun/7e2982f5889af5d8c03c773d7cd2742a1595bf464ac49fdd012b1a29e4a00af3.m3u8
+https://stream1.freetv.fun/655defa1b13557098ce84f1d9175711177f5f764407a30a8c434d97495c49266.m3u8
 #EXTINF:-1 tvg-id="东森洋片 (Backup 1)" tvg-name="东森洋片 (Backup 1)" group-title="05港澳台", 东森洋片 (Backup 1)
-https://stream1.freetv.fun/1b93d0e561aedb2226293888f57bcfa6f03c79694e2f4d67968a5aa3eb2300a1.m3u8
+https://stream1.freetv.fun/8d8f38af7f0c0be0be70d760340e67049bd41f3f5bf30fb68bcedcd38396f914.m3u8
 #EXTINF:-1 tvg-id="东森洋片 (Backup 2)" tvg-name="东森洋片 (Backup 2)" group-title="05港澳台", 东森洋片 (Backup 2)
+https://stream1.freetv.fun/7e2982f5889af5d8c03c773d7cd2742a1595bf464ac49fdd012b1a29e4a00af3.m3u8
+#EXTINF:-1 tvg-id="东森洋片 (Backup 3)" tvg-name="东森洋片 (Backup 3)" group-title="05港澳台", 东森洋片 (Backup 3)
+https://stream1.freetv.fun/1b93d0e561aedb2226293888f57bcfa6f03c79694e2f4d67968a5aa3eb2300a1.m3u8
+#EXTINF:-1 tvg-id="东森洋片 (Backup 4)" tvg-name="东森洋片 (Backup 4)" group-title="05港澳台", 东森洋片 (Backup 4)
 https://stream1.freetv.fun/36c36c10c753997dd33f30ba27722c8ed095ca8a26b487b9dd499309d7726b0a.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="07影视", 东森电影
 https://stream1.freetv.fun/93a03cbed75762466910af326fd4ca18aa69c93f658aea592d09d9043ee2a44d.m3u8
 #EXTINF:-1 tvg-id="东森电影 (Backup 1)" tvg-name="东森电影 (Backup 1)" group-title="07影视", 东森电影 (Backup 1)
+https://stream1.freetv.fun/e0eb43da03e796ba7ff0f0e15429a4f5e0f86365a1a47198869e5cf35a47096e.m3u8
+#EXTINF:-1 tvg-id="东森电影 (Backup 2)" tvg-name="东森电影 (Backup 2)" group-title="07影视", 东森电影 (Backup 2)
 https://stream1.freetv.fun/7e7daf1aca2b5fc6ab5365c3d5201b91e3b538cd4a947fd5bdb0256900d3f638.m3u8
 #EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" group-title="05港澳台", 东森美洲
 https://stream1.freetv.fun/8b92c1907147a3ce01a1808d6ad0301815d01b26d42246e19fdd3f9a2edd7625.m3u8
@@ -160,8 +174,12 @@ https://stream1.freetv.fun/bf0c93b73b47a18039f8e42d027ba66e63d7627ddfbfbd47a2ea7
 #EXTINF:-1 tvg-id="东森超视 (Backup 2)" tvg-name="东森超视 (Backup 2)" group-title="05港澳台", 东森超视 (Backup 2)
 https://stream1.freetv.fun/d6d49169b4bd9d092af133265046491f07446ae84f0ca15eda8e6153ed221669.m3u8
 #EXTINF:-1 tvg-id="东森超视 (Backup 3)" tvg-name="东森超视 (Backup 3)" group-title="05港澳台", 东森超视 (Backup 3)
-rtmp://f13h.mine.nu/sat/tv331
+https://stream1.freetv.fun/d8756df4416806c5ce981bdef2ac99098b8a3a99e05b32affdd6e324187cf1b4.m3u8
 #EXTINF:-1 tvg-id="东森超视 (Backup 4)" tvg-name="东森超视 (Backup 4)" group-title="05港澳台", 东森超视 (Backup 4)
+https://stream1.freetv.fun/422fac3bf2bcfa2a48a698dbd1198c0623bebca0f4b87a03a64f7edffcb54aaf.m3u8
+#EXTINF:-1 tvg-id="东森超视 (Backup 5)" tvg-name="东森超视 (Backup 5)" group-title="05港澳台", 东森超视 (Backup 5)
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-id="东森超视 (Backup 6)" tvg-name="东森超视 (Backup 6)" group-title="05港澳台", 东森超视 (Backup 6)
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" group-title="05港澳台", 中华功夫
 https://stream1.freetv.fun/79ba2600f15d80aa00865cfc63e683a63d96b43e92151cb44f9a0a35d40c4ce8.ctv
@@ -180,13 +198,23 @@ https://stream1.freetv.fun/1d399c90d4abdab81a9472457dde5ab5de8de688ae23dc18ba707
 #EXTINF:-1 tvg-id="中国教育电视台 1 (IPV6)" tvg-name="中国教育电视台 1 (IPV6)" group-title="15IPV6", 中国教育电视台 1 (IPV6)
 https://stream1.freetv.fun/76b511f4e8124e7479341e643559d99016c1ad19ef21c45e3339dfae51b4f8fd.m3u8
 #EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" group-title="07影视", 中国电影
-https://stream1.freetv.fun/a0b1ee8cb8f0345a5720ceb609aeb083c682611b1e227651b40df79e0fe815b0.m3u8
+https://stream1.freetv.fun/4e321337e5de225b23d84b48de2552fa90a86288096fd79f85919fa54880358f.m3u8
 #EXTINF:-1 tvg-id="中国电影 (Backup 1)" tvg-name="中国电影 (Backup 1)" group-title="07影视", 中国电影 (Backup 1)
+https://stream1.freetv.fun/524ab81c7268098ecaf498a5c42db143a2b087965332f31a1cfc00428970c081.m3u8
+#EXTINF:-1 tvg-id="中国电影 (Backup 2)" tvg-name="中国电影 (Backup 2)" group-title="07影视", 中国电影 (Backup 2)
+https://stream1.freetv.fun/a0b1ee8cb8f0345a5720ceb609aeb083c682611b1e227651b40df79e0fe815b0.m3u8
+#EXTINF:-1 tvg-id="中国电影 (Backup 3)" tvg-name="中国电影 (Backup 3)" group-title="07影视", 中国电影 (Backup 3)
 https://stream1.freetv.fun/9185f61073bdd3e3798ab263bbf5a362bb32debe3bf1bd13d792f071a4b1ef45.m3u8
 #EXTINF:-1 tvg-id="中国蓝新闻" tvg-name="中国蓝新闻" group-title="02新闻", 中国蓝新闻
 https://stream1.freetv.fun/a85afeb84946b75b6fcd44371c0b6d41636531a1975abed39ca02845773c2c9f.m3u8
 #EXTINF:-1 tvg-id="中国蓝新闻 (Backup 1)" tvg-name="中国蓝新闻 (Backup 1)" group-title="02新闻", 中国蓝新闻 (Backup 1)
 https://stream1.freetv.fun/75c010775991f8f79f3db4a242b28e11eb2aa309adaa25d6a378e62843ad9d3c.m3u8
+#EXTINF:-1 tvg-id="中国足协杯" tvg-name="中国足协杯" group-title="05港澳台", 中国足协杯
+https://stream1.freetv.fun/eaa459ba9dee0166614cbe8252225f5b2303aee1dff21b7a59162699bf392d44.ctv
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" group-title="05港澳台", 中天亚洲台
+https://stream1.freetv.fun/18ca4c38e54cab17698602415066997e1ba99c8bbfb7c7330bf5ac1da9d5ad4a.ctv
+#EXTINF:-1 tvg-id="中天亚洲台 (Backup 1)" tvg-name="中天亚洲台 (Backup 1)" group-title="05港澳台", 中天亚洲台 (Backup 1)
+https://stream1.freetv.fun/3522af0c7d7fc15883ccae012081c7fd5d271c6c7b47a7d473439fda34bee001.ctv
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" group-title="05港澳台", 中視
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="中視經典綜藝" tvg-name="中視經典綜藝" group-title="05港澳台", 中視經典綜藝
@@ -210,7 +238,7 @@ https://stream1.freetv.fun/5e05b4d379c488e11d4e882f58434230f0c818d00d49e8fc8b0d4
 #EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合" group-title="05港澳台", 八大综合
 https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="05港澳台", 凤凰中文
-https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.ctv
+https://stream1.freetv.fun/d8fce7760e85b1cf8932680772587d4066f09469626ffe0bc92504179e864e22.ctv
 #EXTINF:-1 tvg-id="凤凰中文 (Backup 1)" tvg-name="凤凰中文 (Backup 1)" group-title="05港澳台", 凤凰中文 (Backup 1)
 https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
 #EXTINF:-1 tvg-id="凤凰中文 (Backup 2)" tvg-name="凤凰中文 (Backup 2)" group-title="05港澳台", 凤凰中文 (Backup 2)
@@ -231,10 +259,14 @@ https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1
 https://stream1.freetv.fun/fd3f587c16496807d24b3f3c58eff10439384428069068b6b822777315cbc5b6.ctv
 #EXTINF:-1 tvg-id="凤凰中文 (Backup 10)" tvg-name="凤凰中文 (Backup 10)" group-title="05港澳台", 凤凰中文 (Backup 10)
 https://stream1.freetv.fun/862844410f02bc7b8d15ff19f10a24883c9e89dfb31112fae24f066dbf89649e.m3u8
+#EXTINF:-1 tvg-id="凤凰中文 (Backup 11)" tvg-name="凤凰中文 (Backup 11)" group-title="05港澳台", 凤凰中文 (Backup 11)
+https://stream1.freetv.fun/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.m3u8
 #EXTINF:-1 tvg-id="凤凰中文 (IPV6)" tvg-name="凤凰中文 (IPV6)" group-title="15IPV6", 凤凰中文 (IPV6)
 https://stream1.freetv.fun/8f3acb93b182778b4377ff0f4ed453388204b9afc7f9bc1dd498dcd7bb75c6d2.m3u8
 #EXTINF:-1 tvg-id="凤凰中文 8M1080 (IPV6)" tvg-name="凤凰中文 8M1080 (IPV6)" group-title="15IPV6", 凤凰中文 8M1080 (IPV6)
 https://stream1.freetv.fun/459c73f6025193a4ccb431c2f7c7a4569632d7c54f8398fbd1765496d9e84914.m3u8
+#EXTINF:-1 tvg-id="凤凰中文 高清" tvg-name="凤凰中文 高清" group-title="05港澳台", 凤凰中文 高清
+https://stream1.freetv.fun/67eb5348b476581eb53563ffde994d3929dc6e8e1735ae9e119425e251e9ce4b.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" group-title="03卫视台", 凤凰卫视
 https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv
 #EXTINF:-1 tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" group-title="03卫视台", 凤凰卫视香港
@@ -254,47 +286,55 @@ https://stream1.freetv.fun/f7e68fd608138dfdaf65c123b8d96906a9b612e027b768b0f2247
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 2)" tvg-name="凤凰资讯 (Backup 2)" group-title="05港澳台", 凤凰资讯 (Backup 2)
 https://stream1.freetv.fun/6a18a5b48dd18355b53011a2ed5b8d9a3c044e189435f374f1fbe8d30dca0bf9.ctv
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 3)" tvg-name="凤凰资讯 (Backup 3)" group-title="05港澳台", 凤凰资讯 (Backup 3)
-https://stream1.freetv.fun/5d7829f1e2f83754bf297d6f0876f1a859e5b39bc9d000e4d1041c2a44340812.ctv
+https://stream1.freetv.fun/0b0e4ce4dde1d34e55f936c582db66c491c0c81b151a42d9a0f80b330787ad19.ctv
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 4)" tvg-name="凤凰资讯 (Backup 4)" group-title="05港澳台", 凤凰资讯 (Backup 4)
-https://stream1.freetv.fun/365abed617311b3087815270a01bbb1d65df0daff72de9def9891bdda280b5bf.m3u8
+https://stream1.freetv.fun/5d7829f1e2f83754bf297d6f0876f1a859e5b39bc9d000e4d1041c2a44340812.ctv
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 5)" tvg-name="凤凰资讯 (Backup 5)" group-title="05港澳台", 凤凰资讯 (Backup 5)
-https://stream1.freetv.fun/0aed9d9ee7ce1790ce19521764b2f20d44b58711b44879ea225646a28010ae76.ctv
+https://stream1.freetv.fun/365abed617311b3087815270a01bbb1d65df0daff72de9def9891bdda280b5bf.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 6)" tvg-name="凤凰资讯 (Backup 6)" group-title="05港澳台", 凤凰资讯 (Backup 6)
-https://stream1.freetv.fun/b5d918869ad35ba4c99c6a12cfa87469e8783cb4b7d8d8342dcbba12c71d21b3.m3u8
+https://stream1.freetv.fun/0aed9d9ee7ce1790ce19521764b2f20d44b58711b44879ea225646a28010ae76.ctv
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 7)" tvg-name="凤凰资讯 (Backup 7)" group-title="05港澳台", 凤凰资讯 (Backup 7)
-https://stream1.freetv.fun/f28f307d60caeb98e000700b12f96fefab1d01f7c3fe468a91b003d9d00f6343.m3u8
+https://stream1.freetv.fun/b5d918869ad35ba4c99c6a12cfa87469e8783cb4b7d8d8342dcbba12c71d21b3.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 8)" tvg-name="凤凰资讯 (Backup 8)" group-title="05港澳台", 凤凰资讯 (Backup 8)
-https://stream1.freetv.fun/694fdb1003254a4701099d3cb0b5ddd644fb51c13cf19eeab026440b3069d3c3.m3u8
+https://stream1.freetv.fun/f28f307d60caeb98e000700b12f96fefab1d01f7c3fe468a91b003d9d00f6343.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 9)" tvg-name="凤凰资讯 (Backup 9)" group-title="05港澳台", 凤凰资讯 (Backup 9)
-https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
+https://stream1.freetv.fun/694fdb1003254a4701099d3cb0b5ddd644fb51c13cf19eeab026440b3069d3c3.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 10)" tvg-name="凤凰资讯 (Backup 10)" group-title="05港澳台", 凤凰资讯 (Backup 10)
-https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.m3u8
+https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 11)" tvg-name="凤凰资讯 (Backup 11)" group-title="05港澳台", 凤凰资讯 (Backup 11)
-https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.m3u8
+https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 12)" tvg-name="凤凰资讯 (Backup 12)" group-title="05港澳台", 凤凰资讯 (Backup 12)
-https://stream1.freetv.fun/58b90e179939717b2c6501181658ae1f827155a248d59d77d84bd1910da50599.m3u8
+https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 13)" tvg-name="凤凰资讯 (Backup 13)" group-title="05港澳台", 凤凰资讯 (Backup 13)
-https://stream1.freetv.fun/c7ca1727b52f0087834b91cc346fa04f48e2fb5ba1bd0b8aa31c73c9e7d829ba.ctv
+https://stream1.freetv.fun/58b90e179939717b2c6501181658ae1f827155a248d59d77d84bd1910da50599.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 14)" tvg-name="凤凰资讯 (Backup 14)" group-title="05港澳台", 凤凰资讯 (Backup 14)
-https://stream1.freetv.fun/e3226c760ab2d56fda3a1d41f17e0535e69516977f7210504681cc0b4628b055.ctv
+https://stream1.freetv.fun/c7ca1727b52f0087834b91cc346fa04f48e2fb5ba1bd0b8aa31c73c9e7d829ba.ctv
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 15)" tvg-name="凤凰资讯 (Backup 15)" group-title="05港澳台", 凤凰资讯 (Backup 15)
-https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
+https://stream1.freetv.fun/e3226c760ab2d56fda3a1d41f17e0535e69516977f7210504681cc0b4628b055.ctv
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 16)" tvg-name="凤凰资讯 (Backup 16)" group-title="05港澳台", 凤凰资讯 (Backup 16)
-https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
+https://stream1.freetv.fun/dfb226a17fb306cc8882209213987bda586dce57054d4f4f0d02a8815f8a5ca1.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯 (Backup 17)" tvg-name="凤凰资讯 (Backup 17)" group-title="05港澳台", 凤凰资讯 (Backup 17)
+https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯 (Backup 18)" tvg-name="凤凰资讯 (Backup 18)" group-title="05港澳台", 凤凰资讯 (Backup 18)
+https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv
+#EXTINF:-1 tvg-id="凤凰资讯 (Backup 19)" tvg-name="凤凰资讯 (Backup 19)" group-title="05港澳台", 凤凰资讯 (Backup 19)
 https://stream1.freetv.fun/c0c7420b2760bab1efaa334373f05df5c2e902bf08d4a8fca69abb0e84476b7a.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯 (Backup 20)" tvg-name="凤凰资讯 (Backup 20)" group-title="05港澳台", 凤凰资讯 (Backup 20)
+https://stream1.freetv.fun/03b8b50959f71c9480228564b4fedbe3cd0927a427d0bc903059a5843cb7c4b6.ctv
+#EXTINF:-1 tvg-id="凤凰资讯 (Backup 21)" tvg-name="凤凰资讯 (Backup 21)" group-title="05港澳台", 凤凰资讯 (Backup 21)
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯 (Backup 22)" tvg-name="凤凰资讯 (Backup 22)" group-title="05港澳台", 凤凰资讯 (Backup 22)
+https://stream1.freetv.fun/a8150d95ef7cfb2f49dbbde2df2335f7bfd59ab4f3aeef08273b80aee5b137fe.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯 高清" tvg-name="凤凰资讯 高清" group-title="05港澳台", 凤凰资讯 高清
+https://stream1.freetv.fun/6c43da031ae2a73797638fb3aec97347948a085b74c788259b589f0e627239f9.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="05港澳台", 凤凰香港
 https://stream1.freetv.fun/0cd18a5d094edecae2967d526214fd72941ce80a391a75ddd7b3d706d7828aca.ctv
 #EXTINF:-1 tvg-id="凤凰香港 (Backup 1)" tvg-name="凤凰香港 (Backup 1)" group-title="05港澳台", 凤凰香港 (Backup 1)
-https://stream1.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.ctv
-#EXTINF:-1 tvg-id="凤凰香港 (Backup 2)" tvg-name="凤凰香港 (Backup 2)" group-title="05港澳台", 凤凰香港 (Backup 2)
 https://stream1.freetv.fun/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
-#EXTINF:-1 tvg-id="凤凰香港 (Backup 3)" tvg-name="凤凰香港 (Backup 3)" group-title="05港澳台", 凤凰香港 (Backup 3)
-https://stream1.freetv.fun/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 #EXTINF:-1 tvg-id="凤凰香港 (IPV6)" tvg-name="凤凰香港 (IPV6)" group-title="15IPV6", 凤凰香港 (IPV6)
 https://stream1.freetv.fun/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
-#EXTINF:-1 tvg-id="凤凰香港 8M1080 (IPV6)" tvg-name="凤凰香港 8M1080 (IPV6)" group-title="15IPV6", 凤凰香港 8M1080 (IPV6)
-https://stream1.freetv.fun/9ae5c10cc2a664646e6aa065224f9452d7e6bb01d4e2dd9d95ae5af3eb35ec85.m3u8
+#EXTINF:-1 tvg-id="凤凰香港 高清" tvg-name="凤凰香港 高清" group-title="05港澳台", 凤凰香港 高清
+https://stream1.freetv.fun/4084e643a9e31c2c01adc83e59a28f14502fcc50e31cce4b598c0dcbe68cc2ea.m3u8
 #EXTINF:-1 tvg-id="北京淘電影" tvg-name="北京淘電影" group-title="07影视", 北京淘電影
 https://stream1.freetv.fun/0163d007c5f88cc778ce4b753afb81eb14f6ed35db2f1fb8f04b72b08a46eec4.ctv
 #EXTINF:-1 tvg-id="半島電視台" tvg-name="半島電視台" group-title="05港澳台", 半島電視台
@@ -355,8 +395,6 @@ https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf1
 https://stream1.freetv.fun/36c7d0cf35c80188b4ce46f58597e4c5327a7174f0b8b9f961a26057d6d587ad.ctv
 #EXTINF:-1 tvg-id="呆瓜侃電影" tvg-name="呆瓜侃電影" group-title="07影视", 呆瓜侃電影
 https://stream1.freetv.fun/2c53753390bda0fbd8e77c2ffba4c44f7ab3cf7bff829a0683ecab28bd1de241.ctv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" group-title="11咪咕", 咪咕体育
-https://stream1.freetv.fun/719331c9156a38f54cafa7ec522c5d8958a70a8312a8716639a835d337ba7c4e.m3u8
 #EXTINF:-1 tvg-id="咪咕全民热练 (IPV6)" tvg-name="咪咕全民热练 (IPV6)" group-title="15IPV6", 咪咕全民热练 (IPV6)
 https://stream1.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
 #EXTINF:-1 tvg-id="咪咕直播 *「IPV6」 (IPV6)" tvg-name="咪咕直播 *「IPV6」 (IPV6)" group-title="15IPV6", 咪咕直播 *「IPV6」 (IPV6)
@@ -490,44 +528,42 @@ https://stream1.freetv.fun/5d354228b5275e251e94b5635df8ce1dc9e637d2931963adc269a
 #EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" group-title="06埋堆堆", 埋堆堆
 https://stream1.freetv.fun/63c60ae316507096eec1ee8b5357f531d765cc825292009f6968e82f109987dc.ctv
 #EXTINF:-1 tvg-id="埋堆堆 (Backup 1)" tvg-name="埋堆堆 (Backup 1)" group-title="06埋堆堆", 埋堆堆 (Backup 1)
-https://stream1.freetv.fun/f1a1400d8bc77416cdca4b7e76f0998d957334043a2d83ad7c123fc3b36cef0e.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 2)" tvg-name="埋堆堆 (Backup 2)" group-title="06埋堆堆", 埋堆堆 (Backup 2)
 https://stream1.freetv.fun/4c01151d4490ab193dd96b5bb69a8ca5a3e0eebb8321dd1276cff4b57c3b6a83.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 3)" tvg-name="埋堆堆 (Backup 3)" group-title="06埋堆堆", 埋堆堆 (Backup 3)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 2)" tvg-name="埋堆堆 (Backup 2)" group-title="06埋堆堆", 埋堆堆 (Backup 2)
 https://stream1.freetv.fun/d67c60745f76ba6c71528aeb2745cac6d7284469c43303a11ac8c2aca3500dda.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 4)" tvg-name="埋堆堆 (Backup 4)" group-title="06埋堆堆", 埋堆堆 (Backup 4)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 3)" tvg-name="埋堆堆 (Backup 3)" group-title="06埋堆堆", 埋堆堆 (Backup 3)
 https://stream1.freetv.fun/8ec2786248cef2c36e34db88b13e5c89d98df3756e2e44d1ceb008cf403c90e8.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 5)" tvg-name="埋堆堆 (Backup 5)" group-title="06埋堆堆", 埋堆堆 (Backup 5)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 4)" tvg-name="埋堆堆 (Backup 4)" group-title="06埋堆堆", 埋堆堆 (Backup 4)
 https://stream1.freetv.fun/c60d21715711ea9e7eb2133919391cb8f25485c443d88987f1da3286f18ed0b5.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 6)" tvg-name="埋堆堆 (Backup 6)" group-title="06埋堆堆", 埋堆堆 (Backup 6)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 5)" tvg-name="埋堆堆 (Backup 5)" group-title="06埋堆堆", 埋堆堆 (Backup 5)
 https://stream1.freetv.fun/e9fde3c6c5adeb90b78a9c1c21a33380c4c07a6de7a8969f91ec1247e625a6cf.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 7)" tvg-name="埋堆堆 (Backup 7)" group-title="06埋堆堆", 埋堆堆 (Backup 7)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 6)" tvg-name="埋堆堆 (Backup 6)" group-title="06埋堆堆", 埋堆堆 (Backup 6)
 https://stream1.freetv.fun/473a4afc25e9e64558a198c6aca705ab1643ade144ae4ce7d1373812b59a8690.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 8)" tvg-name="埋堆堆 (Backup 8)" group-title="06埋堆堆", 埋堆堆 (Backup 8)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 7)" tvg-name="埋堆堆 (Backup 7)" group-title="06埋堆堆", 埋堆堆 (Backup 7)
 https://stream1.freetv.fun/2e7d965c52d389f55a4f3ef3371a0cea3bc2185fd23fb6a2841a736a10e39c24.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 9)" tvg-name="埋堆堆 (Backup 9)" group-title="06埋堆堆", 埋堆堆 (Backup 9)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 8)" tvg-name="埋堆堆 (Backup 8)" group-title="06埋堆堆", 埋堆堆 (Backup 8)
 https://stream1.freetv.fun/f8ad5d3578e16f6c3e20f08d8abd0a6bb3950ac47a9b1a9cd72cdfe18c510918.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 10)" tvg-name="埋堆堆 (Backup 10)" group-title="06埋堆堆", 埋堆堆 (Backup 10)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 9)" tvg-name="埋堆堆 (Backup 9)" group-title="06埋堆堆", 埋堆堆 (Backup 9)
 https://stream1.freetv.fun/43d9527fdc10eac8a3ac5d725c29b788d3c3e28edd8f31a6a6f5c9b6cc3b12bb.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 11)" tvg-name="埋堆堆 (Backup 11)" group-title="06埋堆堆", 埋堆堆 (Backup 11)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 10)" tvg-name="埋堆堆 (Backup 10)" group-title="06埋堆堆", 埋堆堆 (Backup 10)
 https://stream1.freetv.fun/8159189115ec127f835f8e88ef482efb996a4604a0027522189763fe9ccc6528.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 12)" tvg-name="埋堆堆 (Backup 12)" group-title="06埋堆堆", 埋堆堆 (Backup 12)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 11)" tvg-name="埋堆堆 (Backup 11)" group-title="06埋堆堆", 埋堆堆 (Backup 11)
 https://stream1.freetv.fun/5bda662250d64332c0c844ba013063d9789d2a2644269241d7c8d54394043396.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 13)" tvg-name="埋堆堆 (Backup 13)" group-title="06埋堆堆", 埋堆堆 (Backup 13)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 12)" tvg-name="埋堆堆 (Backup 12)" group-title="06埋堆堆", 埋堆堆 (Backup 12)
 https://stream1.freetv.fun/31f7c6b63f7e00809c7be0372097ab57bff547a4163037315217cee1dd1ad9c8.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 14)" tvg-name="埋堆堆 (Backup 14)" group-title="06埋堆堆", 埋堆堆 (Backup 14)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 13)" tvg-name="埋堆堆 (Backup 13)" group-title="06埋堆堆", 埋堆堆 (Backup 13)
 https://stream1.freetv.fun/ad18b59474ace384a3bc873be3574e62950c4854fa33bf9b499c3dc9d84f845b.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 15)" tvg-name="埋堆堆 (Backup 15)" group-title="06埋堆堆", 埋堆堆 (Backup 15)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 14)" tvg-name="埋堆堆 (Backup 14)" group-title="06埋堆堆", 埋堆堆 (Backup 14)
 https://stream1.freetv.fun/d0fb019d92842cf12d6953a8f73d4d7059e14bc59bf288d3ad8d24627ece9b24.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 16)" tvg-name="埋堆堆 (Backup 16)" group-title="06埋堆堆", 埋堆堆 (Backup 16)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 15)" tvg-name="埋堆堆 (Backup 15)" group-title="06埋堆堆", 埋堆堆 (Backup 15)
 https://stream1.freetv.fun/b6a90b3dd7ad6f33a82bfd5e3398e54154ebbd6a7d74124b7b8884c621ec48c5.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 17)" tvg-name="埋堆堆 (Backup 17)" group-title="06埋堆堆", 埋堆堆 (Backup 17)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 16)" tvg-name="埋堆堆 (Backup 16)" group-title="06埋堆堆", 埋堆堆 (Backup 16)
 https://stream1.freetv.fun/471438e95b687a1e99b5bf474cde3f4ebba7d674fa2b673ab69f95966644ff83.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 18)" tvg-name="埋堆堆 (Backup 18)" group-title="06埋堆堆", 埋堆堆 (Backup 18)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 17)" tvg-name="埋堆堆 (Backup 17)" group-title="06埋堆堆", 埋堆堆 (Backup 17)
 https://stream1.freetv.fun/507beecfaf256ee33b175e1244663f84507d52d1f7265651961b830e26b3e14f.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 19)" tvg-name="埋堆堆 (Backup 19)" group-title="06埋堆堆", 埋堆堆 (Backup 19)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 18)" tvg-name="埋堆堆 (Backup 18)" group-title="06埋堆堆", 埋堆堆 (Backup 18)
 https://stream1.freetv.fun/122a5ca919b09c9fd8f1f9314f7b3adfa5f2f570ca474e2ed51ae53a7cde38f3.ctv
-#EXTINF:-1 tvg-id="埋堆堆 (Backup 20)" tvg-name="埋堆堆 (Backup 20)" group-title="06埋堆堆", 埋堆堆 (Backup 20)
+#EXTINF:-1 tvg-id="埋堆堆 (Backup 19)" tvg-name="埋堆堆 (Backup 19)" group-title="06埋堆堆", 埋堆堆 (Backup 19)
 https://stream1.freetv.fun/f851a20e42b7f698ad9d31895d0b6cf3eee398f85741e596e76e66c688d7e450.ctv
 #EXTINF:-1 tvg-id="埋堆堆01" tvg-name="埋堆堆01" group-title="06埋堆堆", 埋堆堆01
 https://stream1.freetv.fun/b3c344e1811130f4de6939ed4d6dcdb440ef0a50c9c50080ab2980292661edea.ctv
@@ -735,8 +771,6 @@ https://stream1.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce7
 https://stream1.freetv.fun/48de653cc800e21b30fba59555a8c4696da972c895c29e56120061c7fc0060af.ctv
 #EXTINF:-1 tvg-id="老皮講電影" tvg-name="老皮講電影" group-title="07影视", 老皮講電影
 https://stream1.freetv.fun/06cfd8e823da9c45c37579cf46408f1e6707bf7f6a3a7ca12060d74de4195a3c.ctv
-#EXTINF:-1 tvg-id="舌尖上的中国第2季" tvg-name="舌尖上的中国第2季" group-title="05港澳台", 舌尖上的中国第2季
-https://stream1.freetv.fun/ba536d07dad89fdd615575adb5c09d835f6f9be989bb3b45e7135aa2cdd95f85.ctv
 #EXTINF:-1 tvg-id="船長電影解說" tvg-name="船長電影解說" group-title="07影视", 船長電影解說
 https://stream1.freetv.fun/b1992ea2dd01bdbda63ced72f606ab608e95d78f5e10b3aacd194a67a641bed4.ctv
 #EXTINF:-1 tvg-id="虎妞說電影" tvg-name="虎妞說電影" group-title="07影视", 虎妞說電影
