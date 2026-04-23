@@ -25,6 +25,9 @@
 
 3、然后把浏览器里的URL拷贝出来放到IPTV客户端里即可愉快的观影了；
 
+## 全球免费电视资源网站
+
+- [Global Free TV](https://www.globalfreetv.com) - Free live TV streams from 150+ countries, 4000+ channels. Browse and watch live TV online without subscription.
 ## 加速源链接
 1、https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/china_all.m3u
 
